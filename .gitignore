@@ -1,0 +1,3 @@
+# Runtime / local-only artifacts — never committed
+.healthcheck.lock
+.omo/

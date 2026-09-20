@@ -1,0 +1,35 @@
+Full end-to-end batch health check. Run every 5 hours via cron (or manually).
+
+Do ALL of the following, in order:
+
+1. STATUS: Read /home/ubuntu/gnidart/output/manifest.json and report counts by
+   status (success / error / skipped_too_large / skipped_resume). Also report how
+   many document.md files exist under /home/ubuntu/gnidart/output/*/.
+
+2. PROCESS: Check whether `python3 process_docs.py` is currently running
+   (pgrep -f process_docs). Check the tmux session `docling-batch` is alive.
+   Check the tail of /home/ubuntu/gnidart/output/processing.log for the file
+   currently being processed and any recent errors.
+
+3. SANITY CHECKS on built outputs (must all pass):
+   - Every manifest entry with status=success has both document.md and
+     document.json on disk and both are non-empty.
+   - Byte-identical document.md files are only a NOTE, not a FAIL, when the
+     source PDFs differ (same book text re-uploaded under another filename;
+     e.g. the 2010/2011 "Complete Resource" editions) — keep both outputs.
+   - No manifest entry has status=error without an error message recorded.
+   Report PASS/FAIL per check with evidence (counts, filenames).
+
+4. FIX: If any sanity check FAILS, or the batch process is dead:
+   - If process dead: restart it with resume (it skips completed files):
+     tmux kill-session -t docling-batch 2>/dev/null
+     tmux new-session -d -s docling-batch -c /home/ubuntu/gnidart
+     tmux send-keys -t docling-batch "python3 process_docs.py 2>&1 | tee /tmp/opencode/docling-cron.log" Enter
+   - If outputs are missing/corrupt for a manifest-success entry: delete that
+     entry's output dir AND its manifest entry so the next run re-processes it.
+   - Never delete source PDFs. Never touch entries that are fine.
+
+5. REPORT: Append a timestamped summary to
+   /home/ubuntu/gnidart/output/schedule_reports.log with: manifest counts,
+   process state (alive/dead + action taken), sanity check results, disk free,
+   and current file being processed.
