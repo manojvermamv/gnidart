@@ -8,7 +8,7 @@
 #   equivalent checks inline in bash.
 set -u
 
-REPO=/home/ubuntu/gnidart
+REPO=/data/gnidart
 OUT=$REPO/output
 REPORT=$OUT/schedule_reports.log
 PROMPT=$REPO/check_prompt.txt

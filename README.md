@@ -53,7 +53,7 @@ for scanned pages, picture images off to save disk) → `output/<Book-Stem>/docu
 Always inside the named tmux session, always unbuffered, always resumable:
 
 ```bash
-tmux new-session -d -s docling-batch -c /home/ubuntu/gnidart
+tmux new-session -d -s docling-batch -c /data/gnidart
 tmux send-keys -t docling-batch "python3 -u process_docs.py 2>&1 | tee /tmp/opencode/docling-cron.log" Enter
 ```
 
@@ -63,7 +63,7 @@ Check progress with `tail -3 output/processing.log`.
 ### 4. Monitoring (`healthcheck.sh` + cron)
 
 ```bash
-0 */5 * * * /home/ubuntu/gnidart/healthcheck.sh
+0 */5 * * * /data/gnidart/healthcheck.sh
 ```
 
 Each run appends to `output/schedule_reports.log` and does, in order:
