@@ -2204,5 +2204,41 @@
   "elapsed_seconds": 1064.7,
   "status": "success",
   "error": null
+ },
+ "Trading For Dummies 2nd edition 2009": {
+  "file": "Trading For Dummies 2nd edition 2009.pdf",
+  "path": "Trading For Dummies 2nd edition 2009.pdf",
+  "extension": ".pdf",
+  "sha256": "c89a8f8bda0fb8352e0604d7a3a4c7c2df5bf37e739ee00d3bb8312671242cab",
+  "size_bytes": 5167952,
+  "processed_at": "2026-09-20T10:53:28.276619",
+  "docling_version": null,
+  "markdown_chars": 936066,
+  "markdown_lines": 7333,
+  "pages": 383,
+  "headings_h1": 0,
+  "headings_h2": 570,
+  "headings_h3": 0,
+  "elapsed_seconds": 2561.1,
+  "status": "success",
+  "error": null
+ },
+ "Trading Price Action Trends - Technical Analysis of Price Charts Bar by Bar for the Serious Trader 2011": {
+  "file": "Trading Price Action Trends - Technical Analysis of Price Charts Bar by Bar for the Serious Trader 2011.pdf",
+  "path": "Trading Price Action Trends - Technical Analysis of Price Charts Bar by Bar for the Serious Trader 2011.pdf",
+  "extension": ".pdf",
+  "sha256": "d8e30c9028943117b0079425dc65a43f8720c20690e4f0d1f01ff3764a35284f",
+  "size_bytes": 17452657,
+  "processed_at": "2026-09-20T11:36:11.485323",
+  "docling_version": null,
+  "markdown_chars": 989779,
+  "markdown_lines": 4457,
+  "pages": 453,
+  "headings_h1": 0,
+  "headings_h2": 166,
+  "headings_h3": 0,
+  "elapsed_seconds": 3284.9,
+  "status": "success",
+  "error": null
  }
 }
