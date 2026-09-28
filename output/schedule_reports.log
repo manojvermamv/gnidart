@@ -990,3 +990,615 @@ invoking: opencode run check_prompt.txt
   }
 }
 ===== 2026-09-23 05:00:01 | check done =====
+===== 2026-09-23 10:00:02 | scheduled 5h check =====
+manifest: 141 total | skipped_oom=1 skipped_too_large=8 success=132
+document.md on disk: 132
+batch: ALIVE pid=2172442 cpu=106% rss=2936.71MB
+tmux: alive
+check outputs-present: PASS
+check same-content-md: NOTED [('Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2010', 'Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2011'), ('The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012 - annotated', 'The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012')] (same book text under different filenames; sources differ, both kept)
+check errors-have-messages: PASS
+sanity: ALL PASS
+/dev/root        29G   23G  5.3G  82% /
+2026-09-23 08:28:28,124 | INFO | [36/149] Processing: Evidence-Based Technical Analysis - Applying the Scientific Method and Statistical Inference to Trading Si
+2026-09-23 08:28:28,434 | INFO | START: Evidence-Based Technical Analysis - Applying the Scientific Method and Statistical Inference to Trading Signals 2007.pdf
+invoking: opencode run check_prompt.txt
+[91m[1mError: [0m{
+  "name": "UnknownError",
+  "data": {
+    "message": "Unexpected server error. Check server logs for details.",
+    "ref": "err_089382c6"
+  }
+}
+===== 2026-09-23 10:00:02 | check done =====
+===== 2026-09-23 15:00:01 | scheduled 5h check =====
+manifest: 141 total | skipped_oom=1 skipped_too_large=8 success=132
+document.md on disk: 132
+batch: ALIVE pid=2172442 cpu=90.2% rss=2709.28MB
+tmux: alive
+check outputs-present: PASS
+check same-content-md: NOTED [('Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2010', 'Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2011'), ('The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012 - annotated', 'The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012')] (same book text under different filenames; sources differ, both kept)
+check errors-have-messages: PASS
+sanity: ALL PASS
+/dev/root        29G   23G  5.3G  82% /
+2026-09-23 08:28:28,124 | INFO | [36/149] Processing: Evidence-Based Technical Analysis - Applying the Scientific Method and Statistical Inference to Trading Si
+2026-09-23 08:28:28,434 | INFO | START: Evidence-Based Technical Analysis - Applying the Scientific Method and Statistical Inference to Trading Signals 2007.pdf
+invoking: opencode run check_prompt.txt
+[91m[1mError: [0m{
+  "name": "UnknownError",
+  "data": {
+    "message": "Unexpected server error. Check server logs for details.",
+    "ref": "err_e95d298c"
+  }
+}
+===== 2026-09-23 15:00:01 | check done =====
+===== 2026-09-23 20:00:01 | scheduled 5h check =====
+manifest: 141 total | skipped_oom=1 skipped_too_large=8 success=132
+document.md on disk: 132
+batch: ALIVE pid=2172442 cpu=88.2% rss=2867.48MB
+tmux: alive
+check outputs-present: PASS
+check same-content-md: NOTED [('Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2010', 'Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2011'), ('The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012 - annotated', 'The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012')] (same book text under different filenames; sources differ, both kept)
+check errors-have-messages: PASS
+sanity: ALL PASS
+/dev/root        29G   23G  5.3G  82% /
+2026-09-23 08:28:28,124 | INFO | [36/149] Processing: Evidence-Based Technical Analysis - Applying the Scientific Method and Statistical Inference to Trading Si
+2026-09-23 08:28:28,434 | INFO | START: Evidence-Based Technical Analysis - Applying the Scientific Method and Statistical Inference to Trading Signals 2007.pdf
+invoking: opencode run check_prompt.txt
+[91m[1mError: [0m{
+  "name": "UnknownError",
+  "data": {
+    "message": "Unexpected server error. Check server logs for details.",
+    "ref": "err_8d4da47c"
+  }
+}
+===== 2026-09-23 20:00:01 | check done =====
+===== 2026-09-24 00:00:02 | scheduled 5h check =====
+manifest: 141 total | skipped_oom=2 skipped_too_large=7 success=132
+document.md on disk: 132
+batch: ALIVE pid=21380 cpu=83.7% rss=2953.66MB
+tmux: alive
+check outputs-present: PASS
+check same-content-md: NOTED [('Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2010', 'Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2011'), ('The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012 - annotated', 'The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012')] (same book text under different filenames; sources differ, both kept)
+check errors-have-messages: PASS
+sanity: ALL PASS
+/dev/root        29G   23G  5.2G  82% /
+2026-09-23 23:41:01,844 | INFO | [42/149] Processing: Forex Trading Basics & Secrets Volume 3.0.pdf
+2026-09-23 23:41:02,436 | INFO | START: Forex Trading Basics & Secrets Volume 3.0.pdf
+invoking: opencode run check_prompt.txt
+[91m[1mError: [0m{
+  "name": "UnknownError",
+  "data": {
+    "message": "Unexpected server error. Check server logs for details.",
+    "ref": "err_da7d8599"
+  }
+}
+===== 2026-09-24 00:00:02 | check done =====
+===== 2026-09-24 05:00:01 | scheduled 5h check =====
+manifest: 141 total | skipped_oom=2 skipped_too_large=6 success=133
+document.md on disk: 133
+batch: ALIVE pid=21380 cpu=85.5% rss=2923.84MB
+tmux: alive
+check outputs-present: PASS
+check same-content-md: NOTED [('Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2010', 'Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2011'), ('The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012 - annotated', 'The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012')] (same book text under different filenames; sources differ, both kept)
+check errors-have-messages: PASS
+sanity: ALL PASS
+/dev/root        29G   23G  5.2G  82% /
+2026-09-24 00:45:39,074 | INFO | [67/149] Processing: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2006.pdf (1).
+2026-09-24 00:45:41,661 | INFO | START: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2006.pdf (1).pdf
+invoking: opencode run check_prompt.txt
+[91m[1mError: [0m{
+  "name": "UnknownError",
+  "data": {
+    "message": "Unexpected server error. Check server logs for details.",
+    "ref": "err_8a725c17"
+  }
+}
+===== 2026-09-24 05:00:01 | check done =====
+===== 2026-09-24 10:00:01 | scheduled 5h check =====
+manifest: 141 total | skipped_oom=2 skipped_too_large=6 success=133
+document.md on disk: 133
+batch: ALIVE pid=21380 cpu=86.5% rss=2711.61MB
+tmux: alive
+check outputs-present: PASS
+check same-content-md: NOTED [('Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2010', 'Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2011'), ('The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012 - annotated', 'The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012')] (same book text under different filenames; sources differ, both kept)
+check errors-have-messages: PASS
+sanity: ALL PASS
+/dev/root        29G   23G  5.2G  82% /
+2026-09-24 00:45:39,074 | INFO | [67/149] Processing: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2006.pdf (1).
+2026-09-24 00:45:41,661 | INFO | START: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2006.pdf (1).pdf
+invoking: opencode run check_prompt.txt
+[91m[1mError: [0m{
+  "name": "UnknownError",
+  "data": {
+    "message": "Unexpected server error. Check server logs for details.",
+    "ref": "err_09e479c7"
+  }
+}
+===== 2026-09-24 10:00:01 | check done =====
+===== 2026-09-24 15:00:01 | scheduled 5h check =====
+manifest: 141 total | skipped_oom=2 skipped_too_large=6 success=133
+document.md on disk: 133
+batch: ALIVE pid=21380 cpu=86.9% rss=2516.82MB
+tmux: alive
+check outputs-present: PASS
+check same-content-md: NOTED [('Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2010', 'Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2011'), ('The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012 - annotated', 'The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012')] (same book text under different filenames; sources differ, both kept)
+check errors-have-messages: PASS
+sanity: ALL PASS
+/dev/root        29G   23G  5.2G  82% /
+2026-09-24 00:45:39,074 | INFO | [67/149] Processing: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2006.pdf (1).
+2026-09-24 00:45:41,661 | INFO | START: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2006.pdf (1).pdf
+invoking: opencode run check_prompt.txt
+[91m[1mError: [0m{
+  "name": "UnknownError",
+  "data": {
+    "message": "Unexpected server error. Check server logs for details.",
+    "ref": "err_5b005d9b"
+  }
+}
+===== 2026-09-24 15:00:01 | check done =====
+===== 2026-09-24 20:00:02 | scheduled 5h check =====
+manifest: 141 total | skipped_oom=2 skipped_too_large=6 success=133
+document.md on disk: 133
+batch: ALIVE pid=21380 cpu=87.2% rss=2633.88MB
+tmux: alive
+check outputs-present: PASS
+check same-content-md: NOTED [('Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2010', 'Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2011'), ('The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012 - annotated', 'The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012')] (same book text under different filenames; sources differ, both kept)
+check errors-have-messages: PASS
+sanity: ALL PASS
+/dev/root        29G   24G  5.0G  83% /
+2026-09-24 00:45:39,074 | INFO | [67/149] Processing: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2006.pdf (1).
+2026-09-24 00:45:41,661 | INFO | START: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2006.pdf (1).pdf
+invoking: opencode run check_prompt.txt
+[91m[1mError: [0m{
+  "name": "UnknownError",
+  "data": {
+    "message": "Unexpected server error. Check server logs for details.",
+    "ref": "err_93cd4fb1"
+  }
+}
+===== 2026-09-24 20:00:02 | check done =====
+===== 2026-09-25 00:00:01 | scheduled 5h check =====
+manifest: 141 total | skipped_oom=2 skipped_too_large=6 success=133
+document.md on disk: 133
+batch: ALIVE pid=21380 cpu=86.7% rss=2322.9MB
+tmux: alive
+check outputs-present: PASS
+check same-content-md: NOTED [('Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2010', 'Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2011'), ('The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012 - annotated', 'The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012')] (same book text under different filenames; sources differ, both kept)
+check errors-have-messages: PASS
+sanity: ALL PASS
+/dev/root        29G   23G  5.2G  82% /
+2026-09-24 00:45:39,074 | INFO | [67/149] Processing: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2006.pdf (1).
+2026-09-24 00:45:41,661 | INFO | START: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2006.pdf (1).pdf
+invoking: opencode run check_prompt.txt
+[91m[1mError: [0m{
+  "name": "UnknownError",
+  "data": {
+    "message": "Unexpected server error. Check server logs for details.",
+    "ref": "err_35648da1"
+  }
+}
+===== 2026-09-25 00:00:01 | check done =====
+===== 2026-09-25 05:00:01 | scheduled 5h check =====
+manifest: 141 total | skipped_oom=2 skipped_too_large=6 success=133
+document.md on disk: 133
+batch: ALIVE pid=21380 cpu=85.3% rss=2215.47MB
+tmux: alive
+check outputs-present: PASS
+check same-content-md: NOTED [('Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2010', 'Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2011'), ('The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012 - annotated', 'The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012')] (same book text under different filenames; sources differ, both kept)
+check errors-have-messages: PASS
+sanity: ALL PASS
+/dev/root        29G   23G  5.2G  82% /
+2026-09-24 00:45:39,074 | INFO | [67/149] Processing: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2006.pdf (1).
+2026-09-24 00:45:41,661 | INFO | START: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2006.pdf (1).pdf
+invoking: opencode run check_prompt.txt
+[91m[1mError: [0m{
+  "name": "UnknownError",
+  "data": {
+    "message": "Unexpected server error. Check server logs for details.",
+    "ref": "err_b8f29e73"
+  }
+}
+===== 2026-09-25 05:00:01 | check done =====
+===== 2026-09-25 10:00:01 | scheduled 5h check =====
+manifest: 141 total | skipped_oom=2 skipped_too_large=5 success=134
+document.md on disk: 134
+batch: ALIVE pid=21380 cpu=84.4% rss=3325.89MB
+tmux: alive
+check outputs-present: PASS
+check same-content-md: NOTED [('Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2010', 'Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2011'), ('The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012 - annotated', 'The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012')] (same book text under different filenames; sources differ, both kept)
+check errors-have-messages: PASS
+sanity: ALL PASS
+/dev/root        29G   23G  5.4G  81% /
+2026-09-25 05:24:37,384 | INFO | [71/149] Processing: Millionaire Traders - How Everyday People Are Beating Wall Street at Its Own Game 2007.pdf
+2026-09-25 05:24:39,078 | INFO | START: Millionaire Traders - How Everyday People Are Beating Wall Street at Its Own Game 2007.pdf
+invoking: opencode run check_prompt.txt
+[91m[1mError: [0m{
+  "name": "UnknownError",
+  "data": {
+    "message": "Unexpected server error. Check server logs for details.",
+    "ref": "err_d4332091"
+  }
+}
+===== 2026-09-25 10:00:01 | check done =====
+===== 2026-09-25 15:00:01 | scheduled 5h check =====
+manifest: 141 total | skipped_oom=2 skipped_too_large=5 success=134
+document.md on disk: 134
+batch: ALIVE pid=21380 cpu=83.9% rss=3294.21MB
+tmux: alive
+check outputs-present: PASS
+check same-content-md: NOTED [('Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2010', 'Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2011'), ('The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012 - annotated', 'The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012')] (same book text under different filenames; sources differ, both kept)
+check errors-have-messages: PASS
+sanity: ALL PASS
+/dev/root        29G   23G  5.4G  82% /
+2026-09-25 05:24:37,384 | INFO | [71/149] Processing: Millionaire Traders - How Everyday People Are Beating Wall Street at Its Own Game 2007.pdf
+2026-09-25 05:24:39,078 | INFO | START: Millionaire Traders - How Everyday People Are Beating Wall Street at Its Own Game 2007.pdf
+invoking: opencode run check_prompt.txt
+[91m[1mError: [0m{
+  "name": "UnknownError",
+  "data": {
+    "message": "Unexpected server error. Check server logs for details.",
+    "ref": "err_7972ae77"
+  }
+}
+===== 2026-09-25 15:00:01 | check done =====
+===== 2026-09-25 20:00:02 | scheduled 5h check =====
+manifest: 141 total | skipped_oom=2 skipped_too_large=5 success=134
+document.md on disk: 134
+batch: ALIVE pid=21380 cpu=83.5% rss=3304.81MB
+tmux: alive
+check outputs-present: PASS
+check same-content-md: NOTED [('Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2010', 'Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2011'), ('The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012 - annotated', 'The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012')] (same book text under different filenames; sources differ, both kept)
+check errors-have-messages: PASS
+sanity: ALL PASS
+/dev/root        29G   23G  5.4G  82% /
+2026-09-25 05:24:37,384 | INFO | [71/149] Processing: Millionaire Traders - How Everyday People Are Beating Wall Street at Its Own Game 2007.pdf
+2026-09-25 05:24:39,078 | INFO | START: Millionaire Traders - How Everyday People Are Beating Wall Street at Its Own Game 2007.pdf
+invoking: opencode run check_prompt.txt
+[91m[1mError: [0m{
+  "name": "UnknownError",
+  "data": {
+    "message": "Unexpected server error. Check server logs for details.",
+    "ref": "err_38f1d809"
+  }
+}
+===== 2026-09-25 20:00:02 | check done =====
+===== 2026-09-26 00:00:01 | scheduled 5h check =====
+manifest: 141 total | skipped_oom=2 skipped_too_large=5 success=134
+document.md on disk: 134
+batch: ALIVE pid=21380 cpu=83.0% rss=3607.11MB
+tmux: alive
+check outputs-present: PASS
+check same-content-md: NOTED [('Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2010', 'Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2011'), ('The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012 - annotated', 'The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012')] (same book text under different filenames; sources differ, both kept)
+check errors-have-messages: PASS
+sanity: ALL PASS
+/dev/root        29G   23G  5.4G  82% /
+2026-09-25 05:24:37,384 | INFO | [71/149] Processing: Millionaire Traders - How Everyday People Are Beating Wall Street at Its Own Game 2007.pdf
+2026-09-25 05:24:39,078 | INFO | START: Millionaire Traders - How Everyday People Are Beating Wall Street at Its Own Game 2007.pdf
+invoking: opencode run check_prompt.txt
+[91m[1mError: [0m{
+  "name": "UnknownError",
+  "data": {
+    "message": "Unexpected server error. Check server logs for details.",
+    "ref": "err_5d5b902f"
+  }
+}
+===== 2026-09-26 00:00:01 | check done =====
+===== 2026-09-26 05:00:01 | scheduled 5h check =====
+manifest: 141 total | skipped_oom=2 skipped_too_large=4 success=135
+document.md on disk: 135
+batch: DEAD -> restarting with resume
+batch: RESTARTED ok
+tmux: alive
+check outputs-present: PASS
+check same-content-md: NOTED [('Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2010', 'Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2011'), ('The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012 - annotated', 'The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012')] (same book text under different filenames; sources differ, both kept)
+check errors-have-messages: PASS
+sanity: ALL PASS
+/dev/root        29G   23G  5.3G  82% /
+2026-09-26 05:00:18,866 | INFO | Output: /data/gnidart/output
+2026-09-26 05:00:19,239 | INFO | Found 150 supported files (PDF/EPUB)
+invoking: opencode run check_prompt.txt
+[91m[1mError: [0m{
+  "name": "UnknownError",
+  "data": {
+    "message": "Unexpected server error. Check server logs for details.",
+    "ref": "err_34d01973"
+  }
+}
+===== 2026-09-26 05:00:01 | check done =====
+===== 2026-09-26 10:00:01 | scheduled 5h check =====
+manifest: 141 total | skipped_oom=2 skipped_too_large=4 success=135
+document.md on disk: 135
+batch: ALIVE pid=3015135 cpu=77.2% rss=2900.27MB
+tmux: alive
+check outputs-present: PASS
+check same-content-md: NOTED [('Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2010', 'Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2011'), ('The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012 - annotated', 'The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012')] (same book text under different filenames; sources differ, both kept)
+check errors-have-messages: PASS
+sanity: ALL PASS
+/dev/root        29G   23G  5.3G  82% /
+2026-09-26 05:00:36,119 | INFO | [90/149] Processing: Technical Analysis Explained - The Successful Investor's Guide to Spotting Investment Trends and Turning P
+2026-09-26 05:00:36,333 | INFO | START: Technical Analysis Explained - The Successful Investor's Guide to Spotting Investment Trends and Turning Points 4th edit
+invoking: opencode run check_prompt.txt
+[91m[1mError: [0m{
+  "name": "UnknownError",
+  "data": {
+    "message": "Unexpected server error. Check server logs for details.",
+    "ref": "err_af8ff02c"
+  }
+}
+===== 2026-09-26 10:00:01 | check done =====
+===== 2026-09-26 15:00:02 | scheduled 5h check =====
+manifest: 141 total | skipped_oom=2 skipped_too_large=4 success=135
+document.md on disk: 135
+batch: ALIVE pid=3015135 cpu=74.0% rss=3013.66MB
+tmux: alive
+check outputs-present: PASS
+check same-content-md: NOTED [('Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2010', 'Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2011'), ('The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012 - annotated', 'The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012')] (same book text under different filenames; sources differ, both kept)
+check errors-have-messages: PASS
+sanity: ALL PASS
+/dev/root        29G   23G  5.3G  82% /
+2026-09-26 05:00:36,119 | INFO | [90/149] Processing: Technical Analysis Explained - The Successful Investor's Guide to Spotting Investment Trends and Turning P
+2026-09-26 05:00:36,333 | INFO | START: Technical Analysis Explained - The Successful Investor's Guide to Spotting Investment Trends and Turning Points 4th edit
+invoking: opencode run check_prompt.txt
+[91m[1mError: [0m{
+  "name": "UnknownError",
+  "data": {
+    "message": "Unexpected server error. Check server logs for details.",
+    "ref": "err_6c3f3a94"
+  }
+}
+===== 2026-09-26 15:00:02 | check done =====
+===== 2026-09-26 20:00:01 | scheduled 5h check =====
+manifest: 141 total | skipped_oom=2 skipped_too_large=4 success=135
+document.md on disk: 135
+batch: ALIVE pid=3015135 cpu=76.3% rss=3602.08MB
+tmux: alive
+check outputs-present: PASS
+check same-content-md: NOTED [('Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2010', 'Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2011'), ('The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012 - annotated', 'The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012')] (same book text under different filenames; sources differ, both kept)
+check errors-have-messages: PASS
+sanity: ALL PASS
+/dev/root        29G   23G  5.3G  82% /
+2026-09-26 05:00:36,119 | INFO | [90/149] Processing: Technical Analysis Explained - The Successful Investor's Guide to Spotting Investment Trends and Turning P
+2026-09-26 05:00:36,333 | INFO | START: Technical Analysis Explained - The Successful Investor's Guide to Spotting Investment Trends and Turning Points 4th edit
+invoking: opencode run check_prompt.txt
+[91m[1mError: [0m{
+  "name": "UnknownError",
+  "data": {
+    "message": "Unexpected server error. Check server logs for details.",
+    "ref": "err_513e6a56"
+  }
+}
+===== 2026-09-26 20:00:01 | check done =====
+===== 2026-09-27 00:00:01 | scheduled 5h check =====
+manifest: 141 total | skipped_oom=2 skipped_too_large=4 success=135
+document.md on disk: 135
+batch: ALIVE pid=3015135 cpu=77.5% rss=2571.4MB
+tmux: alive
+check outputs-present: PASS
+check same-content-md: NOTED [('Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2010', 'Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2011'), ('The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012 - annotated', 'The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012')] (same book text under different filenames; sources differ, both kept)
+check errors-have-messages: PASS
+sanity: ALL PASS
+/dev/root        29G   23G  5.1G  82% /
+2026-09-26 05:00:36,119 | INFO | [90/149] Processing: Technical Analysis Explained - The Successful Investor's Guide to Spotting Investment Trends and Turning P
+2026-09-26 05:00:36,333 | INFO | START: Technical Analysis Explained - The Successful Investor's Guide to Spotting Investment Trends and Turning Points 4th edit
+invoking: opencode run check_prompt.txt
+[91m[1mError: [0m{
+  "name": "UnknownError",
+  "data": {
+    "message": "Unexpected server error. Check server logs for details.",
+    "ref": "err_56e0ad60"
+  }
+}
+===== 2026-09-27 00:00:01 | check done =====
+===== 2026-09-27 05:00:01 | scheduled 5h check =====
+manifest: 141 total | skipped_oom=2 skipped_too_large=4 success=135
+document.md on disk: 135
+batch: ALIVE pid=3015135 cpu=78.6% rss=2752.09MB
+tmux: alive
+check outputs-present: PASS
+check same-content-md: NOTED [('Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2010', 'Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2011'), ('The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012 - annotated', 'The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012')] (same book text under different filenames; sources differ, both kept)
+check errors-have-messages: PASS
+sanity: ALL PASS
+/dev/root        29G   23G  5.1G  82% /
+2026-09-26 05:00:36,119 | INFO | [90/149] Processing: Technical Analysis Explained - The Successful Investor's Guide to Spotting Investment Trends and Turning P
+2026-09-26 05:00:36,333 | INFO | START: Technical Analysis Explained - The Successful Investor's Guide to Spotting Investment Trends and Turning Points 4th edit
+invoking: opencode run check_prompt.txt
+[91m[1mError: [0m{
+  "name": "UnknownError",
+  "data": {
+    "message": "Unexpected server error. Check server logs for details.",
+    "ref": "err_856703b9"
+  }
+}
+===== 2026-09-27 05:00:01 | check done =====
+===== 2026-09-27 10:00:02 | scheduled 5h check =====
+manifest: 141 total | skipped_oom=2 skipped_too_large=3 success=136
+document.md on disk: 136
+batch: ALIVE pid=3015135 cpu=79.4% rss=2913.78MB
+tmux: alive
+check outputs-present: PASS
+check same-content-md: NOTED [('Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2010', 'Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2011'), ('The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012 - annotated', 'The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012')] (same book text under different filenames; sources differ, both kept)
+check errors-have-messages: PASS
+sanity: ALL PASS
+/dev/root        29G   23G  5.1G  82% /
+2026-09-27 09:54:25,082 | INFO | [94/149] Processing: Technical Analysis of Stock Trends 9th edition 2007.pdf
+2026-09-27 09:54:25,889 | INFO | START: Technical Analysis of Stock Trends 9th edition 2007.pdf
+invoking: opencode run check_prompt.txt
+[91m[1mError: [0m{
+  "name": "UnknownError",
+  "data": {
+    "message": "Unexpected server error. Check server logs for details.",
+    "ref": "err_2e447f0b"
+  }
+}
+===== 2026-09-27 10:00:02 | check done =====
+===== 2026-09-27 15:00:02 | scheduled 5h check =====
+manifest: 141 total | skipped_oom=2 skipped_too_large=3 success=136
+document.md on disk: 136
+batch: ALIVE pid=3015135 cpu=80.8% rss=3899.34MB
+tmux: alive
+check outputs-present: PASS
+check same-content-md: NOTED [('Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2010', 'Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2011'), ('The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012 - annotated', 'The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012')] (same book text under different filenames; sources differ, both kept)
+check errors-have-messages: PASS
+sanity: ALL PASS
+/dev/root        29G   23G  5.1G  82% /
+2026-09-27 09:54:25,082 | INFO | [94/149] Processing: Technical Analysis of Stock Trends 9th edition 2007.pdf
+2026-09-27 09:54:25,889 | INFO | START: Technical Analysis of Stock Trends 9th edition 2007.pdf
+invoking: opencode run check_prompt.txt
+[91m[1mError: [0m{
+  "name": "UnknownError",
+  "data": {
+    "message": "Unexpected server error. Check server logs for details.",
+    "ref": "err_9dcab9e7"
+  }
+}
+===== 2026-09-27 15:00:02 | check done =====
+===== 2026-09-27 20:00:01 | scheduled 5h check =====
+manifest: 141 total | skipped_oom=2 skipped_too_large=2 success=137
+document.md on disk: 137
+batch: DEAD -> restarting with resume
+batch: RESTARTED ok
+tmux: alive
+check outputs-present: PASS
+check same-content-md: NOTED [('Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2010', 'Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2011'), ('The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012 - annotated', 'The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012')] (same book text under different filenames; sources differ, both kept)
+check errors-have-messages: PASS
+sanity: ALL PASS
+/dev/root        29G   23G  5.1G  82% /
+2026-09-27 20:00:17,823 | INFO | Output: /data/gnidart/output
+2026-09-27 20:00:18,197 | INFO | Found 150 supported files (PDF/EPUB)
+invoking: opencode run check_prompt.txt
+[91m[1mError: [0m{
+  "name": "UnknownError",
+  "data": {
+    "message": "Unexpected server error. Check server logs for details.",
+    "ref": "err_725eec6f"
+  }
+}
+===== 2026-09-27 20:00:01 | check done =====
+===== 2026-09-28 00:00:02 | scheduled 5h check =====
+manifest: 141 total | skipped_oom=2 skipped_too_large=2 success=137
+document.md on disk: 137
+batch: ALIVE pid=3974273 cpu=89.9% rss=3217.36MB
+tmux: alive
+check outputs-present: PASS
+check same-content-md: NOTED [('Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2010', 'Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2011'), ('The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012 - annotated', 'The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012')] (same book text under different filenames; sources differ, both kept)
+check errors-have-messages: PASS
+sanity: ALL PASS
+/dev/root        29G   23G  5.1G  82% /
+2026-09-27 20:00:34,556 | INFO | [110/149] Processing: The Five Rules for Successful Stock Investing - Morningstar's Guide to Building Wealth and Winning in the
+2026-09-27 20:00:34,791 | INFO | START: The Five Rules for Successful Stock Investing - Morningstar's Guide to Building Wealth and Winning in the Market 2004.pd
+invoking: opencode run check_prompt.txt
+[91m[1mError: [0m{
+  "name": "UnknownError",
+  "data": {
+    "message": "Unexpected server error. Check server logs for details.",
+    "ref": "err_7c4b6473"
+  }
+}
+===== 2026-09-28 00:00:02 | check done =====
+===== 2026-09-28 05:00:01 | scheduled 5h check =====
+manifest: 141 total | skipped_oom=2 skipped_too_large=2 success=137
+document.md on disk: 137
+batch: ALIVE pid=3974273 cpu=86.7% rss=2971.43MB
+tmux: alive
+check outputs-present: PASS
+check same-content-md: NOTED [('Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2010', 'Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2011'), ('The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012 - annotated', 'The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012')] (same book text under different filenames; sources differ, both kept)
+check errors-have-messages: PASS
+sanity: ALL PASS
+/dev/root        29G   23G  5.1G  82% /
+2026-09-27 20:00:34,556 | INFO | [110/149] Processing: The Five Rules for Successful Stock Investing - Morningstar's Guide to Building Wealth and Winning in the
+2026-09-27 20:00:34,791 | INFO | START: The Five Rules for Successful Stock Investing - Morningstar's Guide to Building Wealth and Winning in the Market 2004.pd
+invoking: opencode run check_prompt.txt
+[91m[1mError: [0m{
+  "name": "UnknownError",
+  "data": {
+    "message": "Unexpected server error. Check server logs for details.",
+    "ref": "err_bbc865e0"
+  }
+}
+===== 2026-09-28 05:00:01 | check done =====
+===== 2026-09-28 10:00:02 | scheduled 5h check =====
+manifest: 141 total | skipped_oom=2 skipped_too_large=1 success=138
+document.md on disk: 138
+batch: ALIVE pid=3974273 cpu=85.7% rss=3549.36MB
+tmux: alive
+check outputs-present: PASS
+check same-content-md: NOTED [('Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2010', 'Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2011'), ('The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012 - annotated', 'The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012')] (same book text under different filenames; sources differ, both kept)
+check errors-have-messages: PASS
+sanity: ALL PASS
+/dev/root        29G   23G  5.1G  83% /
+2026-09-28 07:28:59,156 | INFO | [111/149] Processing: The Handbook of Technical Analysis - The Practitioner's Comprehensive Guide to Technical Analysis 2016.pd
+2026-09-28 07:29:03,486 | INFO | START: The Handbook of Technical Analysis - The Practitioner's Comprehensive Guide to Technical Analysis 2016.pdf
+invoking: opencode run check_prompt.txt
+[91m[1mError: [0m{
+  "name": "UnknownError",
+  "data": {
+    "message": "Unexpected server error. Check server logs for details.",
+    "ref": "err_ce4fe469"
+  }
+}
+===== 2026-09-28 10:00:02 | check done =====
+===== 2026-09-28 15:00:02 | scheduled 5h check =====
+manifest: 141 total | skipped_oom=2 skipped_too_large=1 success=138
+document.md on disk: 138
+batch: ALIVE pid=3974273 cpu=85.4% rss=3617.79MB
+tmux: alive
+check outputs-present: PASS
+check same-content-md: NOTED [('Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2010', 'Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2011'), ('The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012 - annotated', 'The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012')] (same book text under different filenames; sources differ, both kept)
+check errors-have-messages: PASS
+sanity: ALL PASS
+/dev/root        29G   23G  5.1G  83% /
+2026-09-28 07:28:59,156 | INFO | [111/149] Processing: The Handbook of Technical Analysis - The Practitioner's Comprehensive Guide to Technical Analysis 2016.pd
+2026-09-28 07:29:03,486 | INFO | START: The Handbook of Technical Analysis - The Practitioner's Comprehensive Guide to Technical Analysis 2016.pdf
+invoking: opencode run check_prompt.txt
+[91m[1mError: [0m{
+  "name": "UnknownError",
+  "data": {
+    "message": "Unexpected server error. Check server logs for details.",
+    "ref": "err_8e1c6ff1"
+  }
+}
+===== 2026-09-28 15:00:02 | check done =====
+===== 2026-09-28 20:00:01 | scheduled 5h check =====
+manifest: 141 total | skipped_oom=2 skipped_too_large=1 success=138
+document.md on disk: 138
+batch: ALIVE pid=3974273 cpu=84.7% rss=3708.35MB
+tmux: alive
+check outputs-present: PASS
+check same-content-md: NOTED [('Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2010', 'Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2011'), ('The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012 - annotated', 'The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012')] (same book text under different filenames; sources differ, both kept)
+check errors-have-messages: PASS
+sanity: ALL PASS
+/dev/root        29G   23G  5.1G  83% /
+2026-09-28 07:28:59,156 | INFO | [111/149] Processing: The Handbook of Technical Analysis - The Practitioner's Comprehensive Guide to Technical Analysis 2016.pd
+2026-09-28 07:29:03,486 | INFO | START: The Handbook of Technical Analysis - The Practitioner's Comprehensive Guide to Technical Analysis 2016.pdf
+invoking: opencode run check_prompt.txt
+[91m[1mError: [0m{
+  "name": "UnknownError",
+  "data": {
+    "message": "Unexpected server error. Check server logs for details.",
+    "ref": "err_82b00613"
+  }
+}
+===== 2026-09-28 20:00:01 | check done =====
+===== 2026-09-29 00:00:01 | scheduled 5h check =====
+manifest: 141 total | skipped_oom=2 success=139
+document.md on disk: 139
+batch: DEAD -> restarting with resume
+batch: RESTARTED ok
+tmux: alive
+check outputs-present: PASS
+check same-content-md: NOTED [('Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2010', 'Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2011'), ('The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012 - annotated', 'The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012')] (same book text under different filenames; sources differ, both kept)
+check errors-have-messages: PASS
+sanity: ALL PASS
+/dev/root        29G   23G  5.1G  83% /
+2026-09-29 00:00:18,201 | INFO | Output: /data/gnidart/output
+2026-09-29 00:00:18,678 | INFO | Found 150 supported files (PDF/EPUB)
+invoking: opencode run check_prompt.txt
+[91m[1mError: [0m{
+  "name": "UnknownError",
+  "data": {
+    "message": "Unexpected server error. Check server logs for details.",
+    "ref": "err_370c8aff"
+  }
+}
+===== 2026-09-29 00:00:01 | check done =====

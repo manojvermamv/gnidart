@@ -935,3 +935,1535 @@
 2026-09-23 05:00:34,678 | INFO | Errors: 0
 2026-09-23 05:00:34,678 | INFO | Manifest: /data/gnidart/output/manifest.json
 2026-09-23 05:00:34,680 | INFO | Unsupported/duplicate report: /data/gnidart/output/unsupported_formats.json
+2026-09-23 08:07:38,750 | INFO | ======================================================================
+2026-09-23 08:07:38,750 | INFO | DOCLING BATCH PROCESSOR STARTING
+2026-09-23 08:07:38,751 | INFO | Repository: /data/gnidart
+2026-09-23 08:07:38,751 | INFO | Output: /data/gnidart/output
+2026-09-23 08:07:38,977 | INFO | Found 150 supported files (PDF/EPUB)
+2026-09-23 08:07:44,761 | INFO | DEDUP: Algorithmic Trading - Winning Strategies and Their Rationale 2013 - annotated.pdf is identical to Algorithmic Trading - Winning Strategies and Their Rationale 2013.pdf
+2026-09-23 08:07:48,474 | INFO | Skipped 1 duplicate files
+2026-09-23 08:07:48,477 | INFO | Loaded existing manifest with 141 entries
+2026-09-23 08:07:48,715 | INFO | Docling converter initialized
+2026-09-23 08:07:48,715 | INFO | [1/149] Processing: 17 Proven Currency Trading Strategies - How to Profit in the Forex Market 2013.pdf
+2026-09-23 08:07:48,715 | INFO | SKIP (resume): 17 Proven Currency Trading Strategies - How to Profit in the Forex Market 2013
+2026-09-23 08:07:48,718 | INFO | [2/149] Processing: A Complete Guide To Volume Price Analysis 2013.epub
+2026-09-23 08:07:48,718 | INFO | SKIP (resume): A Complete Guide To Volume Price Analysis 2013
+2026-09-23 08:07:48,721 | INFO | [3/149] Processing: A Complete Guide To Volume Price Analysis 2013.pdf
+2026-09-23 08:07:48,721 | INFO | SKIP (resume): A Complete Guide To Volume Price Analysis 2013
+2026-09-23 08:07:48,724 | INFO | [4/149] Processing: A Complete Guide to Technical Trading Tactics - How to Profit Using Pivot Points, Candlesticks & Other Indicators 2004.pdf
+2026-09-23 08:07:48,724 | INFO | SKIP (resume): A Complete Guide to Technical Trading Tactics - How to Profit Using Pivot Points, Candlesticks & Other Indicators 2004
+2026-09-23 08:07:48,727 | INFO | [5/149] Processing: A Random Walk Down Wall Street - The Time-Tested Strategy for Successful Investing 10th edition 2012.epub
+2026-09-23 08:07:48,727 | INFO | SKIP (resume): A Random Walk Down Wall Street - The Time-Tested Strategy for Successful Investing 10th edition 2012
+2026-09-23 08:07:48,730 | INFO | [6/149] Processing: A Random Walk Down Wall Street - The Time-Tested Strategy for Successful Investing 11th edition 2015.epub
+2026-09-23 08:07:48,730 | INFO | SKIP (resume): A Random Walk Down Wall Street - The Time-Tested Strategy for Successful Investing 11th edition 2015
+2026-09-23 08:07:48,732 | INFO | [7/149] Processing: Adventures of a Currency Trader - A Fable about Trading, Courage, and Doing the Right Thing 2007.pdf
+2026-09-23 08:07:48,733 | INFO | SKIP (resume): Adventures of a Currency Trader - A Fable about Trading, Courage, and Doing the Right Thing 2007
+2026-09-23 08:07:48,735 | INFO | [8/149] Processing: Algorithmic Trading - Winning Strategies and Their Rationale 2013.pdf
+2026-09-23 08:07:48,735 | INFO | SKIP (resume): Algorithmic Trading - Winning Strategies and Their Rationale 2013
+2026-09-23 08:07:48,739 | INFO | [9/149] Processing: Attacking Currency Trends - How to Anticipate and Trade Big Moves in the Forex Market 2011.pdf
+2026-09-23 08:07:48,739 | INFO | SKIP (resume): Attacking Currency Trends - How to Anticipate and Trade Big Moves in the Forex Market 2011
+2026-09-23 08:07:48,742 | INFO | [10/149] Processing: Beyond Candlesticks - New Japanese Charting Techniques Revealed 1994 (1) - annotated.pdf
+2026-09-23 08:07:48,742 | INFO | SKIP (resume): Beyond Candlesticks - New Japanese Charting Techniques Revealed 1994 (1) - annotated
+2026-09-23 08:07:48,744 | INFO | [11/149] Processing: Beyond Candlesticks - New Japanese Charting Techniques Revealed 1994 (1).pdf
+2026-09-23 08:07:48,745 | INFO | SKIP (resume): Beyond Candlesticks - New Japanese Charting Techniques Revealed 1994 (1)
+2026-09-23 08:07:48,747 | INFO | [12/149] Processing: Beyond Candlesticks - New Japanese Charting Techniques Revealed 1994.pdf
+2026-09-23 08:07:48,748 | INFO | SKIP (resume): Beyond Candlesticks - New Japanese Charting Techniques Revealed 1994
+2026-09-23 08:07:48,750 | INFO | [13/149] Processing: Boomerang - Travels in the New Third World 2012.pdf
+2026-09-23 08:07:48,750 | INFO | SKIP (resume): Boomerang - Travels in the New Third World 2012
+2026-09-23 08:07:48,753 | INFO | [14/149] Processing: Buffett - The Making of an American Capitalist 2008.epub
+2026-09-23 08:07:48,753 | INFO | SKIP (resume): Buffett - The Making of an American Capitalist 2008
+2026-09-23 08:07:48,756 | INFO | [15/149] Processing: Building Reliable Trading Systems - Tradable Strategies That Perform As They Backtest and Meet Your Risk-Reward Goals 2013.pdf
+2026-09-23 08:07:48,756 | INFO | SKIP (resume): Building Reliable Trading Systems - Tradable Strategies That Perform As They Backtest and Meet Your Risk-Reward Goals 2013
+2026-09-23 08:07:48,760 | INFO | [16/149] Processing: Candlestick Charting Explained 3rd edition 2006.pdf
+2026-09-23 08:07:48,760 | INFO | SKIP (resume): Candlestick Charting Explained 3rd edition 2006
+2026-09-23 08:07:48,764 | INFO | [17/149] Processing: Candlestick Charting For Dummies 2008.pdf
+2026-09-23 08:07:48,765 | INFO | SKIP (resume): Candlestick Charting For Dummies 2008
+2026-09-23 08:07:48,769 | INFO | [18/149] Processing: Candlestick and Pivot Point Trading Triggers - Setups for Stock, Forex, and Futures Markets CDR edition 2006.pdf
+2026-09-23 08:07:48,769 | INFO | SKIP (resume): Candlestick and Pivot Point Trading Triggers - Setups for Stock, Forex, and Futures Markets CDR edition 2006
+2026-09-23 08:07:48,774 | INFO | [19/149] Processing: Chart Your Way To Profits - The Online Trader's Guide to Technical Analysis with ProphetCharts 2nd edition 2010.pdf
+2026-09-23 08:07:48,774 | INFO | SKIP (resume): Chart Your Way To Profits - The Online Trader's Guide to Technical Analysis with ProphetCharts 2nd edition 2010
+2026-09-23 08:07:48,779 | INFO | [20/149] Processing: Come Into My Trading Room (Study Guide) 2002.pdf
+2026-09-23 08:07:48,779 | INFO | SKIP (resume): Come Into My Trading Room (Study Guide) 2002
+2026-09-23 08:07:48,783 | INFO | [21/149] Processing: Come Into My Trading Room - A Complete Guide to Trading 2002.pdf
+2026-09-23 08:07:48,783 | INFO | SKIP (resume): Come Into My Trading Room - A Complete Guide to Trading 2002
+2026-09-23 08:07:48,787 | INFO | [22/149] Processing: Common Stocks and Uncommon Profits and Other Writings 2nd edition 2003.pdf
+2026-09-23 08:07:48,788 | INFO | SKIP (resume): Common Stocks and Uncommon Profits and Other Writings 2nd edition 2003
+2026-09-23 08:07:48,790 | INFO | [23/149] Processing: Cryptoassets - The Innovative Investor's Guide to Bitcoin and Beyond 2017.pdf
+2026-09-23 08:07:48,791 | INFO | SKIP (resume): Cryptoassets - The Innovative Investor's Guide to Bitcoin and Beyond 2017
+2026-09-23 08:07:48,793 | INFO | [24/149] Processing: Currency Strategy - The Practitioners Guide to Currency Investing, Hedging and Forecasting 2002.pdf
+2026-09-23 08:07:48,794 | INFO | SKIP (resume): Currency Strategy - The Practitioners Guide to Currency Investing, Hedging and Forecasting 2002
+2026-09-23 08:07:48,796 | INFO | [25/149] Processing: Currency Trading For Dummies 2nd edition 2011.pdf
+2026-09-23 08:07:48,797 | INFO | SKIP (resume): Currency Trading For Dummies 2nd edition 2011
+2026-09-23 08:07:48,799 | INFO | [26/149] Processing: Currency Trading and Intermarket Analysis - How to Profit from the Shifting Currents in Global Markets 2008.pdf
+2026-09-23 08:07:48,799 | INFO | SKIP (resume): Currency Trading and Intermarket Analysis - How to Profit from the Shifting Currents in Global Markets 2008
+2026-09-23 08:07:48,803 | INFO | [27/149] Processing: Dave Landry on Swing Trading 2001.pdf
+2026-09-23 08:07:48,803 | INFO | SKIP (resume): Dave Landry on Swing Trading 2001
+2026-09-23 08:07:48,806 | INFO | [28/149] Processing: Day Trading For Dummies 2008.pdf
+2026-09-23 08:07:48,806 | INFO | SKIP (resume): Day Trading For Dummies 2008
+2026-09-23 08:07:48,808 | INFO | [29/149] Processing: Day Trading For Dummies 3rd edition 2014.epub
+2026-09-23 08:07:48,809 | INFO | SKIP (resume): Day Trading For Dummies 3rd edition 2014
+2026-09-23 08:07:48,811 | INFO | [30/149] Processing: Day Trading For Dummies 3rd edition 2014.pdf
+2026-09-23 08:07:48,811 | INFO | SKIP (resume): Day Trading For Dummies 3rd edition 2014
+2026-09-23 08:07:48,814 | INFO | [31/149] Processing: Day Trading and Swing Trading the Currency Market - Technical and Fundamental Strategies to Profit from Market Moves 2nd edition 2008.pdf
+2026-09-23 08:07:48,814 | INFO | SKIP (resume): Day Trading and Swing Trading the Currency Market - Technical and Fundamental Strategies to Profit from Market Moves 2nd edition 2008
+2026-09-23 08:07:48,817 | INFO | [32/149] Processing: Day Trading the Currency Market - Technical and Fundamental Strategies To Profit from Market Swings 2005.pdf
+2026-09-23 08:07:48,817 | INFO | SKIP (resume): Day Trading the Currency Market - Technical and Fundamental Strategies To Profit from Market Swings 2005
+2026-09-23 08:07:48,819 | INFO | [33/149] Processing: Dual Momentum Investing - An Innovative Strategy for Higher Returns with Lower Risk 2015.epub
+2026-09-23 08:07:48,819 | INFO | SKIP (resume): Dual Momentum Investing - An Innovative Strategy for Higher Returns with Lower Risk 2015
+2026-09-23 08:07:48,822 | INFO | [34/149] Processing: Encyclopedia of Chart Patterns 2nd edition 2005.pdf
+2026-09-23 08:07:48,822 | INFO | SKIP (resume): Encyclopedia of Chart Patterns 2nd edition 2005
+2026-09-23 08:07:48,825 | INFO | [35/149] Processing: Essentials of Foreign Exchange Trading 2009.pdf
+2026-09-23 08:07:48,825 | INFO | SKIP (resume): Essentials of Foreign Exchange Trading 2009
+2026-09-23 08:07:48,828 | INFO | [36/149] Processing: Evidence-Based Technical Analysis - Applying the Scientific Method and Statistical Inference to Trading Signals 2007.pdf
+2026-09-23 08:07:48,828 | INFO | SKIP (resume): Evidence-Based Technical Analysis - Applying the Scientific Method and Statistical Inference to Trading Signals 2007
+2026-09-23 08:07:48,831 | INFO | [37/149] Processing: Extraordinary Popular Delusions and The Madness of Crowds 2001.pdf
+2026-09-23 08:07:48,831 | INFO | SKIP (resume): Extraordinary Popular Delusions and The Madness of Crowds 2001
+2026-09-23 08:07:48,834 | INFO | [38/149] Processing: Flash Boys - A Wall Street Revolt 2015.epub
+2026-09-23 08:07:48,834 | INFO | SKIP (resume): Flash Boys - A Wall Street Revolt 2015
+2026-09-23 08:07:48,837 | INFO | [39/149] Processing: Fooled by Randomness - The Hidden Role of Chance in Life and in the Markets 2005.epub
+2026-09-23 08:07:48,837 | INFO | SKIP (resume): Fooled by Randomness - The Hidden Role of Chance in Life and in the Markets 2005
+2026-09-23 08:07:48,839 | INFO | [40/149] Processing: Fooled by Randomness - The Hidden Role of Chance in Life and in the Markets 2005.pdf
+2026-09-23 08:07:48,839 | INFO | SKIP (resume): Fooled by Randomness - The Hidden Role of Chance in Life and in the Markets 2005
+2026-09-23 08:07:48,842 | INFO | [41/149] Processing: Forex Patterns and Probabilities - Trading Strategies for Trending and Range-Bound Markets 2007.pdf
+2026-09-23 08:07:48,842 | INFO | SKIP (resume): Forex Patterns and Probabilities - Trading Strategies for Trending and Range-Bound Markets 2007
+2026-09-23 08:07:48,845 | INFO | [42/149] Processing: Forex Trading Basics & Secrets Volume 3.0.pdf
+2026-09-23 08:07:48,845 | INFO | SKIP (resume): Forex Trading Basics & Secrets Volume 3.0
+2026-09-23 08:07:48,847 | INFO | [43/149] Processing: Forex Trading Secrets - Trading Strategies for the Forex Market 2010.pdf
+2026-09-23 08:07:48,848 | INFO | SKIP (resume): Forex Trading Secrets - Trading Strategies for the Forex Market 2010
+2026-09-23 08:07:48,850 | INFO | [44/149] Processing: Forex for Beginners - A Comprehensive Guide to Profiting from the Global Currency Markets 2012.pdf
+2026-09-23 08:07:48,850 | INFO | SKIP (resume): Forex for Beginners - A Comprehensive Guide to Profiting from the Global Currency Markets 2012
+2026-09-23 08:07:48,853 | INFO | [45/149] Processing: Fundamental Analysis For Dummies 2009.pdf
+2026-09-23 08:07:48,853 | INFO | SKIP (resume): Fundamental Analysis For Dummies 2009
+2026-09-23 08:07:48,855 | INFO | [46/149] Processing: Getting Started in Candlestick Charting 2008.pdf
+2026-09-23 08:07:48,856 | INFO | SKIP (resume): Getting Started in Candlestick Charting 2008
+2026-09-23 08:07:48,858 | INFO | [47/149] Processing: Harmonic Trading, Volume One - Profiting from the Natural Order of the Financial Markets 2010.pdf
+2026-09-23 08:07:48,858 | INFO | SKIP (resume): Harmonic Trading, Volume One - Profiting from the Natural Order of the Financial Markets 2010
+2026-09-23 08:07:48,861 | INFO | [48/149] Processing: Harmonic Trading, Volume Two - Advanced Strategies for Profiting from the Natural Order of the Financial Markets 2010.pdf
+2026-09-23 08:07:48,861 | INFO | SKIP (resume): Harmonic Trading, Volume Two - Advanced Strategies for Profiting from the Natural Order of the Financial Markets 2010
+2026-09-23 08:07:48,864 | INFO | [49/149] Processing: High Probability Trading Strategies - Entry to Exit Tactics for the Forex, Futures, and Stock Markets 2008.pdf
+2026-09-23 08:07:48,864 | INFO | SKIP (resume): High Probability Trading Strategies - Entry to Exit Tactics for the Forex, Futures, and Stock Markets 2008
+2026-09-23 08:07:48,867 | INFO | [50/149] Processing: How to Day Trade for a Living - Tools, Tactics, Money Management, Discipline and Trading Psychology 3rd edition.epub
+2026-09-23 08:07:48,867 | INFO | SKIP (resume): How to Day Trade for a Living - Tools, Tactics, Money Management, Discipline and Trading Psychology 3rd edition
+2026-09-23 08:07:48,869 | INFO | [51/149] Processing: How to Make Money in Stocks - A Winning System in Good Times and Bad 4th edition 2009.epub
+2026-09-23 08:07:48,870 | INFO | SKIP (resume): How to Make Money in Stocks - A Winning System in Good Times and Bad 4th edition 2009
+2026-09-23 08:07:48,872 | INFO | [52/149] Processing: How to Make Money in Stocks - A Winning System in Good Times and Bad 4th edition 2009.pdf
+2026-09-23 08:07:48,872 | INFO | SKIP (resume): How to Make Money in Stocks - A Winning System in Good Times and Bad 4th edition 2009
+2026-09-23 08:07:48,875 | INFO | [53/149] Processing: How to Make a Living Trading Foreign Exchange - A Guaranteed Income for Life 2010.pdf
+2026-09-23 08:07:48,875 | INFO | SKIP (resume): How to Make a Living Trading Foreign Exchange - A Guaranteed Income for Life 2010
+2026-09-23 08:07:48,878 | INFO | [54/149] Processing: Inside the Currency Market - Mechanics, Valuation and Strategies 2011.pdf
+2026-09-23 08:07:48,878 | INFO | SKIP (resume): Inside the Currency Market - Mechanics, Valuation and Strategies 2011
+2026-09-23 08:07:48,881 | INFO | [55/149] Processing: Intermarket Trading Strategies 2009.pdf
+2026-09-23 08:07:48,881 | INFO | SKIP (resume): Intermarket Trading Strategies 2009
+2026-09-23 08:07:48,884 | INFO | [56/149] Processing: Irrational Exuberance (Revised and Expanded) 3rd edition 2016.pdf
+2026-09-23 08:07:48,884 | INFO | SKIP (resume): Irrational Exuberance (Revised and Expanded) 3rd edition 2016
+2026-09-23 08:07:48,886 | INFO | [57/149] Processing: Irrational Exuberance 2000.pdf
+2026-09-23 08:07:48,887 | INFO | SKIP (resume): Irrational Exuberance 2000
+2026-09-23 08:07:48,889 | INFO | [58/149] Processing: Irrational Exuberance 2nd edition 2006.epub
+2026-09-23 08:07:48,889 | INFO | SKIP (resume): Irrational Exuberance 2nd edition 2006
+2026-09-23 08:07:48,892 | INFO | [59/149] Processing: Japanese Candlestick Charting Techniques - A Contemporary Guide to the Ancient Investment Techniques of the Far East 1991.pdf
+2026-09-23 08:07:48,892 | INFO | SKIP (resume): Japanese Candlestick Charting Techniques - A Contemporary Guide to the Ancient Investment Techniques of the Far East 1991
+2026-09-23 08:07:48,895 | INFO | [60/149] Processing: Japanese Candlestick Charting Techniques 2nd edition 2001 (1).pdf
+2026-09-23 08:07:48,895 | INFO | SKIP (resume): Japanese Candlestick Charting Techniques 2nd edition 2001 (1)
+2026-09-23 08:07:48,898 | INFO | [61/149] Processing: Japanese Candlestick Charting Techniques 2nd edition 2001.pdf
+2026-09-23 08:07:48,898 | INFO | SKIP (resume): Japanese Candlestick Charting Techniques 2nd edition 2001
+2026-09-23 08:07:48,900 | INFO | [62/149] Processing: Jesse Livermore - World's Greatest Stock Trader 2001.pdf
+2026-09-23 08:07:48,901 | INFO | SKIP (resume): Jesse Livermore - World's Greatest Stock Trader 2001
+2026-09-23 08:07:48,903 | INFO | [63/149] Processing: Liar's Poker - Rising Through the Wreckage on Wall Street.pdf
+2026-09-23 08:07:48,903 | INFO | SKIP (resume): Liar's Poker - Rising Through the Wreckage on Wall Street
+2026-09-23 08:07:48,906 | INFO | [64/149] Processing: Long-Term Secrets to Short-Term Trading 1999.pdf
+2026-09-23 08:07:48,906 | INFO | SKIP (resume): Long-Term Secrets to Short-Term Trading 1999
+2026-09-23 08:07:48,909 | INFO | [65/149] Processing: Market Wizards - Interviews With Top Traders 2012.pdf
+2026-09-23 08:07:48,909 | INFO | SKIP (resume): Market Wizards - Interviews With Top Traders 2012
+2026-09-23 08:07:48,911 | INFO | [66/149] Processing: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2006.pdf
+2026-09-23 08:07:48,912 | INFO | SKIP (resume): Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2006
+2026-09-23 08:07:48,914 | INFO | [67/149] Processing: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2006.pdf (1).pdf
+2026-09-23 08:07:48,914 | INFO | SKIP (resume): Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2006.pdf (1)
+2026-09-23 08:07:48,917 | INFO | [68/149] Processing: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2nd edition 2012 (1) - annotated.pdf
+2026-09-23 08:07:48,917 | INFO | SKIP (resume): Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2nd edition 2012 (1) - annotated
+2026-09-23 08:07:48,920 | INFO | [69/149] Processing: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2nd edition 2012 (1).pdf
+2026-09-23 08:07:48,920 | INFO | SKIP (resume): Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2nd edition 2012 (1)
+2026-09-23 08:07:48,923 | INFO | [70/149] Processing: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2nd edition 2012.pdf
+2026-09-23 08:07:48,923 | INFO | SKIP (resume): Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2nd edition 2012
+2026-09-23 08:07:48,925 | INFO | [71/149] Processing: Millionaire Traders - How Everyday People Are Beating Wall Street at Its Own Game 2007.pdf
+2026-09-23 08:07:48,926 | INFO | SKIP (resume): Millionaire Traders - How Everyday People Are Beating Wall Street at Its Own Game 2007
+2026-09-23 08:07:48,928 | INFO | [72/149] Processing: Naked Forex - High-Probability Techniques for Trading Without Indicators 2012.pdf
+2026-09-23 08:07:48,929 | INFO | SKIP (resume): Naked Forex - High-Probability Techniques for Trading Without Indicators 2012
+2026-09-23 08:07:48,932 | INFO | [73/149] Processing: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2nd edition 2012 (1) - annotated.pdf
+2026-09-23 08:07:48,932 | INFO | SKIP (resume): Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2nd edition 2012 (1) - annotated
+2026-09-23 08:07:48,935 | INFO | [74/149] Processing: The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012 - annotated.pdf
+2026-09-23 08:07:48,935 | INFO | SKIP (resume): The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012 - annotated
+2026-09-23 08:07:48,938 | INFO | [75/149] Processing: New Frontiers in Technical Analysis - Effective Tools and Strategies for Trading and Investing 2011.pdf
+2026-09-23 08:07:48,938 | INFO | SKIP (resume): New Frontiers in Technical Analysis - Effective Tools and Strategies for Trading and Investing 2011
+2026-09-23 08:07:48,941 | INFO | [76/149] Processing: One Up On Wall Street 2000.epub
+2026-09-23 08:07:48,942 | INFO | SKIP (resume): One Up On Wall Street 2000
+2026-09-23 08:07:48,944 | INFO | [77/149] Processing: Option Spread Strategies - Trading Up, Down, and Sideways Markets 2009.pdf
+2026-09-23 08:07:48,944 | INFO | SKIP (resume): Option Spread Strategies - Trading Up, Down, and Sideways Markets 2009
+2026-09-23 08:07:48,947 | INFO | [78/149] Processing: Option Volatility & Pricing - Advanced Trading Strategies and Techniques 1994.pdf
+2026-09-23 08:07:48,947 | INFO | SKIP (resume): Option Volatility & Pricing - Advanced Trading Strategies and Techniques 1994
+2026-09-23 08:07:48,950 | INFO | [79/149] Processing: Principles - Life and Work 2017.epub
+2026-09-23 08:07:48,950 | INFO | SKIP (resume): Principles - Life and Work 2017
+2026-09-23 08:07:48,952 | INFO | [80/149] Processing: Reminiscences of a Stock Operator 2005.epub
+2026-09-23 08:07:48,953 | INFO | SKIP (resume): Reminiscences of a Stock Operator 2005
+2026-09-23 08:07:48,955 | INFO | [81/149] Processing: Reminiscences of a Stock Operator 2006.pdf
+2026-09-23 08:07:48,955 | INFO | SKIP (resume): Reminiscences of a Stock Operator 2006
+2026-09-23 08:07:48,958 | INFO | [82/149] Processing: Reminiscences of a Stock Operator 2008.epub
+2026-09-23 08:07:48,958 | INFO | SKIP (resume): Reminiscences of a Stock Operator 2008
+2026-09-23 08:07:48,961 | INFO | [83/149] Processing: Reminiscences of a Stock Operator 2008.pdf
+2026-09-23 08:07:48,961 | INFO | SKIP (resume): Reminiscences of a Stock Operator 2008
+2026-09-23 08:07:48,963 | INFO | [84/149] Processing: Sentiment in the Forex Market - Indicators and Strategies To Profit from Crowd Behavior and Market Extremes 2008.pdf
+2026-09-23 08:07:48,964 | INFO | SKIP (resume): Sentiment in the Forex Market - Indicators and Strategies To Profit from Crowd Behavior and Market Extremes 2008
+2026-09-23 08:07:48,966 | INFO | [85/149] Processing: Stock Market Wizards - Interviews with America's Top Stock Traders 2001.pdf
+2026-09-23 08:07:48,966 | INFO | SKIP (resume): Stock Market Wizards - Interviews with America's Top Stock Traders 2001
+2026-09-23 08:07:48,969 | INFO | [86/149] Processing: Swing Trading For Dummies 2008.pdf
+2026-09-23 08:07:48,969 | INFO | SKIP (resume): Swing Trading For Dummies 2008
+2026-09-23 08:07:48,971 | INFO | [87/149] Processing: Technical Analysis - The Complete Resource for Financial Market Technicians 2006.pdf
+2026-09-23 08:07:48,972 | INFO | SKIP (resume): Technical Analysis - The Complete Resource for Financial Market Technicians 2006
+2026-09-23 08:07:48,974 | INFO | [88/149] Processing: Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2010.pdf
+2026-09-23 08:07:48,974 | INFO | SKIP (resume): Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2010
+2026-09-23 08:07:48,977 | INFO | [89/149] Processing: Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2011.pdf
+2026-09-23 08:07:48,977 | INFO | SKIP (resume): Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2011
+2026-09-23 08:07:48,980 | INFO | [90/149] Processing: Technical Analysis Explained - The Successful Investor's Guide to Spotting Investment Trends and Turning Points 4th edition 2002.pdf
+2026-09-23 08:07:48,980 | INFO | SKIP (resume): Technical Analysis Explained - The Successful Investor's Guide to Spotting Investment Trends and Turning Points 4th edition 2002
+2026-09-23 08:07:48,982 | INFO | [91/149] Processing: Technical Analysis For Dummies 2nd edition 2011.pdf
+2026-09-23 08:07:48,982 | INFO | SKIP (resume): Technical Analysis For Dummies 2nd edition 2011
+2026-09-23 08:07:48,985 | INFO | [92/149] Processing: Technical Analysis and Stock Market Profits 2005.pdf
+2026-09-23 08:07:48,985 | INFO | SKIP (resume): Technical Analysis and Stock Market Profits 2005
+2026-09-23 08:07:48,988 | INFO | [93/149] Processing: Technical Analysis for the Trading Professional - Strategies and Techniques for Today’s Turbulent Global Financial Markets 2nd edition 2012.pdf
+2026-09-23 08:07:48,988 | INFO | SKIP (resume): Technical Analysis for the Trading Professional - Strategies and Techniques for Today’s Turbulent Global Financial Markets 2nd edition 2012
+2026-09-23 08:07:48,990 | INFO | [94/149] Processing: Technical Analysis of Stock Trends 9th edition 2007.pdf
+2026-09-23 08:07:48,991 | INFO | SKIP (resume): Technical Analysis of Stock Trends 9th edition 2007
+2026-09-23 08:07:48,993 | INFO | [95/149] Processing: Technical Analysis of Stock Trends Explained - An Easy-to-Understand System for Successful Trading 2013.epub
+2026-09-23 08:07:48,993 | INFO | SKIP (resume): Technical Analysis of Stock Trends Explained - An Easy-to-Understand System for Successful Trading 2013
+2026-09-23 08:07:48,996 | INFO | [96/149] Processing: Technical Analysis of the Financial Markets - A Comprehensive Guide to Trading Methods and Applications 1999.pdf
+2026-09-23 08:07:48,996 | INFO | SKIP (resume): Technical Analysis of the Financial Markets - A Comprehensive Guide to Trading Methods and Applications 1999
+2026-09-23 08:07:48,999 | INFO | [97/149] Processing: The 10 Essentials of Forex Trading - The Rules for Turning Trading Patterns Into Profit 2007.pdf
+2026-09-23 08:07:48,999 | INFO | SKIP (resume): The 10 Essentials of Forex Trading - The Rules for Turning Trading Patterns Into Profit 2007
+2026-09-23 08:07:49,002 | INFO | [98/149] Processing: The Alchemy of Finance - Reading the Mind of the Market 2nd edition 1994.pdf
+2026-09-23 08:07:49,002 | INFO | SKIP (resume): The Alchemy of Finance - Reading the Mind of the Market 2nd edition 1994
+2026-09-23 08:07:49,004 | INFO | [99/149] Processing: The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012.pdf
+2026-09-23 08:07:49,005 | INFO | SKIP (resume): The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012
+2026-09-23 08:07:49,007 | INFO | [100/149] Processing: The Big Short - Inside the Doomsday Machine 2011.epub
+2026-09-23 08:07:49,007 | INFO | SKIP (resume): The Big Short - Inside the Doomsday Machine 2011
+2026-09-23 08:07:49,010 | INFO | [101/149] Processing: The Broker 2005.pdf
+2026-09-23 08:07:49,010 | INFO | SKIP (resume): The Broker 2005
+2026-09-23 08:07:49,013 | INFO | [102/149] Processing: The Candlestick Course 2003.pdf
+2026-09-23 08:07:49,013 | INFO | SKIP (resume): The Candlestick Course 2003
+2026-09-23 08:07:49,016 | INFO | [103/149] Processing: The Commitments of Traders Bible - How To Profit from Insider Market Intelligence 2008.pdf
+2026-09-23 08:07:49,016 | INFO | SKIP (resume): The Commitments of Traders Bible - How To Profit from Insider Market Intelligence 2008
+2026-09-23 08:07:49,019 | INFO | [104/149] Processing: The Complete Trading Course - Price Patterns, Strategies, Setups, and Execution Tactics 2011.pdf
+2026-09-23 08:07:49,019 | INFO | SKIP (resume): The Complete Trading Course - Price Patterns, Strategies, Setups, and Execution Tactics 2011
+2026-09-23 08:07:49,022 | INFO | [105/149] Processing: The Complete Turtle Trader - The Legend, the Lessons, the Results 2007.pdf
+2026-09-23 08:07:49,022 | INFO | SKIP (resume): The Complete Turtle Trader - The Legend, the Lessons, the Results 2007
+2026-09-23 08:07:49,024 | INFO | [106/149] Processing: The Disciplined Trader - Developing Winning Attitudes 1990 - annotated.pdf
+2026-09-23 08:07:49,025 | INFO | SKIP (resume): The Disciplined Trader - Developing Winning Attitudes 1990 - annotated
+2026-09-23 08:07:49,027 | INFO | [107/149] Processing: The Disciplined Trader - Developing Winning Attitudes 1990.pdf
+2026-09-23 08:07:49,028 | INFO | SKIP (resume): The Disciplined Trader - Developing Winning Attitudes 1990
+2026-09-23 08:07:49,032 | INFO | [108/149] Processing: The Encyclopedia of Trading Strategies 2000.pdf
+2026-09-23 08:07:49,032 | INFO | SKIP (resume): The Encyclopedia of Trading Strategies 2000
+2026-09-23 08:07:49,035 | INFO | [109/149] Processing: The Essays of Warren Buffett - Lessons for Corporate America 1998.pdf
+2026-09-23 08:07:49,035 | INFO | SKIP (resume): The Essays of Warren Buffett - Lessons for Corporate America 1998
+2026-09-23 08:07:49,038 | INFO | [110/149] Processing: The Five Rules for Successful Stock Investing - Morningstar's Guide to Building Wealth and Winning in the Market 2004.pdf
+2026-09-23 08:07:49,038 | INFO | SKIP (resume): The Five Rules for Successful Stock Investing - Morningstar's Guide to Building Wealth and Winning in the Market 2004
+2026-09-23 08:07:49,041 | INFO | [111/149] Processing: The Handbook of Technical Analysis - The Practitioner's Comprehensive Guide to Technical Analysis 2016.pdf
+2026-09-23 08:07:49,041 | INFO | SKIP (resume): The Handbook of Technical Analysis - The Practitioner's Comprehensive Guide to Technical Analysis 2016
+2026-09-23 08:07:49,043 | INFO | [112/149] Processing: The Intelligent Investor - A Book of Practical Counsel 2003.pdf
+2026-09-23 08:07:49,044 | INFO | SKIP (resume): The Intelligent Investor - A Book of Practical Counsel 2003
+2026-09-23 08:07:49,046 | INFO | [113/149] Processing: The Little Book That Beats the Market 2006.pdf
+2026-09-23 08:07:49,046 | INFO | SKIP (resume): The Little Book That Beats the Market 2006
+2026-09-23 08:07:49,049 | INFO | [114/149] Processing: The Little Book of Common Sense Investing - The Only Way to Guarantee Your Fair Share of Stock Market Returns 2007.epub
+2026-09-23 08:07:49,049 | INFO | SKIP (resume): The Little Book of Common Sense Investing - The Only Way to Guarantee Your Fair Share of Stock Market Returns 2007
+2026-09-23 08:07:49,052 | INFO | [115/149] Processing: The Little Book of Common Sense Investing - The Only Way to Guarantee Your Fair Share of Stock Market Returns 2007.pdf
+2026-09-23 08:07:49,052 | INFO | SKIP (resume): The Little Book of Common Sense Investing - The Only Way to Guarantee Your Fair Share of Stock Market Returns 2007
+2026-09-23 08:07:49,054 | INFO | [116/149] Processing: The Little Book of Currency Trading - How to Make Big Profits in the World of Forex 2010.pdf
+2026-09-23 08:07:49,054 | INFO | SKIP (resume): The Little Book of Currency Trading - How to Make Big Profits in the World of Forex 2010
+2026-09-23 08:07:49,057 | INFO | [117/149] Processing: The Market Guys' Five Points for Trading Success - Identify, Pinpoint, Strike, Protect, and Act! 2007.pdf
+2026-09-23 08:07:49,057 | INFO | SKIP (resume): The Market Guys' Five Points for Trading Success - Identify, Pinpoint, Strike, Protect, and Act! 2007
+2026-09-23 08:07:49,060 | INFO | [118/149] Processing: The Master Swing Trader - Tools and Techniques to Profit from Outstanding Short-Term Trading Opportunities 2001.pdf
+2026-09-23 08:07:49,060 | INFO | SKIP (resume): The Master Swing Trader - Tools and Techniques to Profit from Outstanding Short-Term Trading Opportunities 2001
+2026-09-23 08:07:49,063 | INFO | [119/149] Processing: The Master Swing Trader Toolkit - The Market Survival Guide 2010.pdf
+2026-09-23 08:07:49,063 | INFO | SKIP (resume): The Master Swing Trader Toolkit - The Market Survival Guide 2010
+2026-09-23 08:07:49,065 | INFO | [120/149] Processing: The New Market Wizards - Conversations with America's Top Traders 1992.pdf
+2026-09-23 08:07:49,065 | INFO | SKIP (resume): The New Market Wizards - Conversations with America's Top Traders 1992
+2026-09-23 08:07:49,068 | INFO | [121/149] Processing: The New New Thing - A Silicon Valley Story 2014.epub
+2026-09-23 08:07:49,068 | INFO | SKIP (resume): The New New Thing - A Silicon Valley Story 2014
+2026-09-23 08:07:49,071 | INFO | [122/149] Processing: The New Trading for a Living (Study Guide) 2014.pdf
+2026-09-23 08:07:49,071 | INFO | SKIP (resume): The New Trading for a Living (Study Guide) 2014
+2026-09-23 08:07:49,073 | INFO | [123/149] Processing: The New Trading for a Living - Psychology, Discipline, Trading Tools and Systems, Risk Control, Trade Management 2014.pdf
+2026-09-23 08:07:49,074 | INFO | SKIP (resume): The New Trading for a Living - Psychology, Discipline, Trading Tools and Systems, Risk Control, Trade Management 2014
+2026-09-23 08:07:49,076 | INFO | [124/149] Processing: The Sensible Guide to Forex - Safer, Smarter Ways to Survive and Prosper from the Start 2012.pdf
+2026-09-23 08:07:49,076 | INFO | SKIP (resume): The Sensible Guide to Forex - Safer, Smarter Ways to Survive and Prosper from the Start 2012
+2026-09-23 08:07:49,079 | INFO | [125/149] Processing: The Snowball - Warren Buffett and the Business of Life 2009.pdf
+2026-09-23 08:07:49,079 | INFO | SKIP (resume): The Snowball - Warren Buffett and the Business of Life 2009
+2026-09-23 08:07:49,082 | INFO | [126/149] Processing: The Trend Following Bible - How Professional Traders Compound Wealth and Manage Risk 2012.pdf
+2026-09-23 08:07:49,082 | INFO | SKIP (resume): The Trend Following Bible - How Professional Traders Compound Wealth and Manage Risk 2012
+2026-09-23 08:07:49,084 | INFO | [127/149] Processing: The Visual Investor - How to Spot Market Trends 2nd edition 2009.pdf
+2026-09-23 08:07:49,085 | INFO | SKIP (resume): The Visual Investor - How to Spot Market Trends 2nd edition 2009
+2026-09-23 08:07:49,087 | INFO | [128/149] Processing: The Warren Buffett Way 2nd edition 2005.pdf
+2026-09-23 08:07:49,088 | INFO | SKIP (resume): The Warren Buffett Way 2nd edition 2005
+2026-09-23 08:07:49,090 | INFO | [129/149] Processing: Timing Solutions for Swing Traders - Successful Trading Using Technical Analysis and Financial Astrology 2012.pdf
+2026-09-23 08:07:49,090 | INFO | SKIP (resume): Timing Solutions for Swing Traders - Successful Trading Using Technical Analysis and Financial Astrology 2012
+2026-09-23 08:07:49,093 | INFO | [130/149] Processing: Top Binary Options Trading Strategies - Strategies of Pros Explained for Dummies.pdf
+2026-09-23 08:07:49,093 | INFO | SKIP (resume): Top Binary Options Trading Strategies - Strategies of Pros Explained for Dummies
+2026-09-23 08:07:49,096 | INFO | [131/149] Processing: Trade Like a Pro - 15 High-Profit Trading Strategies 2009.pdf
+2026-09-23 08:07:49,096 | INFO | SKIP (resume): Trade Like a Pro - 15 High-Profit Trading Strategies 2009
+2026-09-23 08:07:49,098 | INFO | [132/149] Processing: Trade What You See - How To Profit from Pattern Recognition 2007.pdf
+2026-09-23 08:07:49,099 | INFO | SKIP (resume): Trade What You See - How To Profit from Pattern Recognition 2007
+2026-09-23 08:07:49,101 | INFO | [133/149] Processing: Trade Your Way to Financial Freedom 2 edition 2006.pdf
+2026-09-23 08:07:49,102 | INFO | SKIP (resume): Trade Your Way to Financial Freedom 2 edition 2006
+2026-09-23 08:07:49,104 | INFO | [134/149] Processing: Trade Your Way to Financial Freedom 2nd edition 2006.pdf
+2026-09-23 08:07:49,104 | INFO | SKIP (resume): Trade Your Way to Financial Freedom 2nd edition 2006
+2026-09-23 08:07:49,107 | INFO | [135/149] Processing: Trading Binary Options - Strategies and Tactics 2nd edition 2016.pdf
+2026-09-23 08:07:49,107 | INFO | SKIP (resume): Trading Binary Options - Strategies and Tactics 2nd edition 2016
+2026-09-23 08:07:49,110 | INFO | [136/149] Processing: Trading ETFs - Gaining an Edge with Technical Analysis 2nd edition 2012.pdf
+2026-09-23 08:07:49,110 | INFO | SKIP (resume): Trading ETFs - Gaining an Edge with Technical Analysis 2nd edition 2012
+2026-09-23 08:07:49,112 | INFO | [137/149] Processing: Trading For Dummies 2nd edition 2009.pdf
+2026-09-23 08:07:49,113 | INFO | SKIP (resume): Trading For Dummies 2nd edition 2009
+2026-09-23 08:07:49,115 | INFO | [138/149] Processing: Trading Price Action Trends - Technical Analysis of Price Charts Bar by Bar for the Serious Trader 2011.pdf
+2026-09-23 08:07:49,115 | INFO | SKIP (resume): Trading Price Action Trends - Technical Analysis of Price Charts Bar by Bar for the Serious Trader 2011
+2026-09-23 08:07:49,118 | INFO | [139/149] Processing: Trading for a Living - Psychology, Trading Tactics, Money Management 1993.pdf
+2026-09-23 08:07:49,118 | INFO | SKIP (resume): Trading for a Living - Psychology, Trading Tactics, Money Management 1993
+2026-09-23 08:07:49,121 | INFO | [140/149] Processing: Trading in the Zone - Master the Market with Confidence, Discipline and a Winning Attitude 2000.pdf
+2026-09-23 08:07:49,121 | INFO | SKIP (resume): Trading in the Zone - Master the Market with Confidence, Discipline and a Winning Attitude 2000
+2026-09-23 08:07:49,123 | INFO | [141/149] Processing: Trading with Ichimoku Clouds - The Essential Guide to Ichimoku Kinko Hyo Technical Analysis 2010.pdf
+2026-09-23 08:07:49,124 | INFO | SKIP (resume): Trading with Ichimoku Clouds - The Essential Guide to Ichimoku Kinko Hyo Technical Analysis 2010
+2026-09-23 08:07:49,126 | INFO | [142/149] Processing: Trend Following - Learn to Make Millions in Up or Down Markets 2009.pdf
+2026-09-23 08:07:49,126 | INFO | SKIP (resume): Trend Following - Learn to Make Millions in Up or Down Markets 2009
+2026-09-23 08:07:49,129 | INFO | [143/149] Processing: Trend Trading for a Living - Learn the Skills and Gain the Confidence to Trade for a Living 2007.pdf
+2026-09-23 08:07:49,129 | INFO | SKIP (resume): Trend Trading for a Living - Learn the Skills and Gain the Confidence to Trade for a Living 2007
+2026-09-23 08:07:49,131 | INFO | [144/149] Processing: Understanding Price Action - Practical Analysis of the 5-Minute Time Frame 2014.pdf
+2026-09-23 08:07:49,132 | INFO | SKIP (resume): Understanding Price Action - Practical Analysis of the 5-Minute Time Frame 2014
+2026-09-23 08:07:49,135 | INFO | [145/149] Processing: University of Berkshire Hathaway - 30 Years of Lessons Learned from Warren Buffett & Charlie Munger at the Annual Shareholders Meeting 2017.epub
+2026-09-23 08:07:49,135 | INFO | SKIP (resume): University of Berkshire Hathaway - 30 Years of Lessons Learned from Warren Buffett & Charlie Munger at the Annual Shareholders Meeting 2017
+2026-09-23 08:07:49,138 | INFO | [146/149] Processing: Visual Guide to Chart Patterns 2012.pdf
+2026-09-23 08:07:49,138 | INFO | SKIP (resume): Visual Guide to Chart Patterns 2012
+2026-09-23 08:07:49,140 | INFO | [147/149] Processing: Way of the Turtle - The Secret Methods that Turned Ordinary People into Legendary Traders 2007.pdf
+2026-09-23 08:07:49,140 | INFO | SKIP (resume): Way of the Turtle - The Secret Methods that Turned Ordinary People into Legendary Traders 2007
+2026-09-23 08:07:49,143 | INFO | [148/149] Processing: When Genius Failed - The Rise and Fall of Long-Term Capital Management 2001.epub
+2026-09-23 08:07:49,143 | INFO | SKIP (resume): When Genius Failed - The Rise and Fall of Long-Term Capital Management 2001
+2026-09-23 08:07:49,146 | INFO | [149/149] Processing: When Genius Failed - The Rise and Fall of Long-Term Capital Management 2001.pdf
+2026-09-23 08:07:49,146 | INFO | SKIP (resume): When Genius Failed - The Rise and Fall of Long-Term Capital Management 2001
+2026-09-23 08:07:49,148 | INFO | ======================================================================
+2026-09-23 08:07:49,149 | INFO | BATCH COMPLETE
+2026-09-23 08:07:49,149 | INFO | Total unique files: 149
+2026-09-23 08:07:49,149 | INFO | Processed: 149
+2026-09-23 08:07:49,149 | INFO | Skipped (resume): 0
+2026-09-23 08:07:49,149 | INFO | Errors: 0
+2026-09-23 08:07:49,149 | INFO | Manifest: /data/gnidart/output/manifest.json
+2026-09-23 08:07:49,151 | INFO | Unsupported/duplicate report: /data/gnidart/output/unsupported_formats.json
+2026-09-23 08:08:34,807 | INFO | ======================================================================
+2026-09-23 08:08:34,807 | INFO | DOCLING BATCH PROCESSOR STARTING
+2026-09-23 08:08:34,808 | INFO | Repository: /data/gnidart
+2026-09-23 08:08:34,808 | INFO | Output: /data/gnidart/output
+2026-09-23 08:08:35,087 | INFO | Found 150 supported files (PDF/EPUB)
+2026-09-23 08:08:38,639 | INFO | DEDUP: Algorithmic Trading - Winning Strategies and Their Rationale 2013 - annotated.pdf is identical to Algorithmic Trading - Winning Strategies and Their Rationale 2013.pdf
+2026-09-23 08:08:41,620 | INFO | Skipped 1 duplicate files
+2026-09-23 08:08:41,621 | INFO | Loaded existing manifest with 141 entries
+2026-09-23 08:08:41,804 | INFO | Docling converter initialized
+2026-09-23 08:08:41,804 | INFO | [1/149] Processing: 17 Proven Currency Trading Strategies - How to Profit in the Forex Market 2013.pdf
+2026-09-23 08:08:41,804 | INFO | SKIP (resume): 17 Proven Currency Trading Strategies - How to Profit in the Forex Market 2013
+2026-09-23 08:08:41,807 | INFO | [2/149] Processing: A Complete Guide To Volume Price Analysis 2013.epub
+2026-09-23 08:08:41,807 | INFO | SKIP (resume): A Complete Guide To Volume Price Analysis 2013
+2026-09-23 08:08:41,810 | INFO | [3/149] Processing: A Complete Guide To Volume Price Analysis 2013.pdf
+2026-09-23 08:08:41,810 | INFO | SKIP (resume): A Complete Guide To Volume Price Analysis 2013
+2026-09-23 08:08:41,813 | INFO | [4/149] Processing: A Complete Guide to Technical Trading Tactics - How to Profit Using Pivot Points, Candlesticks & Other Indicators 2004.pdf
+2026-09-23 08:08:41,814 | INFO | SKIP (resume): A Complete Guide to Technical Trading Tactics - How to Profit Using Pivot Points, Candlesticks & Other Indicators 2004
+2026-09-23 08:08:41,816 | INFO | [5/149] Processing: A Random Walk Down Wall Street - The Time-Tested Strategy for Successful Investing 10th edition 2012.epub
+2026-09-23 08:08:41,817 | INFO | SKIP (resume): A Random Walk Down Wall Street - The Time-Tested Strategy for Successful Investing 10th edition 2012
+2026-09-23 08:08:41,819 | INFO | [6/149] Processing: A Random Walk Down Wall Street - The Time-Tested Strategy for Successful Investing 11th edition 2015.epub
+2026-09-23 08:08:41,819 | INFO | SKIP (resume): A Random Walk Down Wall Street - The Time-Tested Strategy for Successful Investing 11th edition 2015
+2026-09-23 08:08:41,822 | INFO | [7/149] Processing: Adventures of a Currency Trader - A Fable about Trading, Courage, and Doing the Right Thing 2007.pdf
+2026-09-23 08:08:41,822 | INFO | SKIP (resume): Adventures of a Currency Trader - A Fable about Trading, Courage, and Doing the Right Thing 2007
+2026-09-23 08:08:41,825 | INFO | [8/149] Processing: Algorithmic Trading - Winning Strategies and Their Rationale 2013.pdf
+2026-09-23 08:08:41,825 | INFO | SKIP (resume): Algorithmic Trading - Winning Strategies and Their Rationale 2013
+2026-09-23 08:08:41,828 | INFO | [9/149] Processing: Attacking Currency Trends - How to Anticipate and Trade Big Moves in the Forex Market 2011.pdf
+2026-09-23 08:08:41,829 | INFO | SKIP (resume): Attacking Currency Trends - How to Anticipate and Trade Big Moves in the Forex Market 2011
+2026-09-23 08:08:41,833 | INFO | [10/149] Processing: Beyond Candlesticks - New Japanese Charting Techniques Revealed 1994 (1) - annotated.pdf
+2026-09-23 08:08:41,834 | INFO | SKIP (resume): Beyond Candlesticks - New Japanese Charting Techniques Revealed 1994 (1) - annotated
+2026-09-23 08:08:41,838 | INFO | [11/149] Processing: Beyond Candlesticks - New Japanese Charting Techniques Revealed 1994 (1).pdf
+2026-09-23 08:08:41,838 | INFO | SKIP (resume): Beyond Candlesticks - New Japanese Charting Techniques Revealed 1994 (1)
+2026-09-23 08:08:41,842 | INFO | [12/149] Processing: Beyond Candlesticks - New Japanese Charting Techniques Revealed 1994.pdf
+2026-09-23 08:08:41,842 | INFO | SKIP (resume): Beyond Candlesticks - New Japanese Charting Techniques Revealed 1994
+2026-09-23 08:08:41,849 | INFO | [13/149] Processing: Boomerang - Travels in the New Third World 2012.pdf
+2026-09-23 08:08:41,849 | INFO | SKIP (resume): Boomerang - Travels in the New Third World 2012
+2026-09-23 08:08:41,854 | INFO | [14/149] Processing: Buffett - The Making of an American Capitalist 2008.epub
+2026-09-23 08:08:41,855 | INFO | SKIP (resume): Buffett - The Making of an American Capitalist 2008
+2026-09-23 08:08:41,859 | INFO | [15/149] Processing: Building Reliable Trading Systems - Tradable Strategies That Perform As They Backtest and Meet Your Risk-Reward Goals 2013.pdf
+2026-09-23 08:08:41,860 | INFO | SKIP (resume): Building Reliable Trading Systems - Tradable Strategies That Perform As They Backtest and Meet Your Risk-Reward Goals 2013
+2026-09-23 08:08:41,862 | INFO | [16/149] Processing: Candlestick Charting Explained 3rd edition 2006.pdf
+2026-09-23 08:08:41,863 | INFO | SKIP (resume): Candlestick Charting Explained 3rd edition 2006
+2026-09-23 08:08:41,868 | INFO | [17/149] Processing: Candlestick Charting For Dummies 2008.pdf
+2026-09-23 08:08:41,868 | INFO | SKIP (resume): Candlestick Charting For Dummies 2008
+2026-09-23 08:08:41,872 | INFO | [18/149] Processing: Candlestick and Pivot Point Trading Triggers - Setups for Stock, Forex, and Futures Markets CDR edition 2006.pdf
+2026-09-23 08:08:41,872 | INFO | SKIP (resume): Candlestick and Pivot Point Trading Triggers - Setups for Stock, Forex, and Futures Markets CDR edition 2006
+2026-09-23 08:08:41,877 | INFO | [19/149] Processing: Chart Your Way To Profits - The Online Trader's Guide to Technical Analysis with ProphetCharts 2nd edition 2010.pdf
+2026-09-23 08:08:41,877 | INFO | SKIP (resume): Chart Your Way To Profits - The Online Trader's Guide to Technical Analysis with ProphetCharts 2nd edition 2010
+2026-09-23 08:08:41,880 | INFO | [20/149] Processing: Come Into My Trading Room (Study Guide) 2002.pdf
+2026-09-23 08:08:41,880 | INFO | SKIP (resume): Come Into My Trading Room (Study Guide) 2002
+2026-09-23 08:08:41,883 | INFO | [21/149] Processing: Come Into My Trading Room - A Complete Guide to Trading 2002.pdf
+2026-09-23 08:08:41,883 | INFO | SKIP (resume): Come Into My Trading Room - A Complete Guide to Trading 2002
+2026-09-23 08:08:41,886 | INFO | [22/149] Processing: Common Stocks and Uncommon Profits and Other Writings 2nd edition 2003.pdf
+2026-09-23 08:08:41,886 | INFO | SKIP (resume): Common Stocks and Uncommon Profits and Other Writings 2nd edition 2003
+2026-09-23 08:08:41,889 | INFO | [23/149] Processing: Cryptoassets - The Innovative Investor's Guide to Bitcoin and Beyond 2017.pdf
+2026-09-23 08:08:41,889 | INFO | SKIP (resume): Cryptoassets - The Innovative Investor's Guide to Bitcoin and Beyond 2017
+2026-09-23 08:08:41,892 | INFO | [24/149] Processing: Currency Strategy - The Practitioners Guide to Currency Investing, Hedging and Forecasting 2002.pdf
+2026-09-23 08:08:41,892 | INFO | SKIP (resume): Currency Strategy - The Practitioners Guide to Currency Investing, Hedging and Forecasting 2002
+2026-09-23 08:08:41,895 | INFO | [25/149] Processing: Currency Trading For Dummies 2nd edition 2011.pdf
+2026-09-23 08:08:41,895 | INFO | SKIP (resume): Currency Trading For Dummies 2nd edition 2011
+2026-09-23 08:08:41,899 | INFO | [26/149] Processing: Currency Trading and Intermarket Analysis - How to Profit from the Shifting Currents in Global Markets 2008.pdf
+2026-09-23 08:08:41,899 | INFO | SKIP (resume): Currency Trading and Intermarket Analysis - How to Profit from the Shifting Currents in Global Markets 2008
+2026-09-23 08:08:41,902 | INFO | [27/149] Processing: Dave Landry on Swing Trading 2001.pdf
+2026-09-23 08:08:41,902 | INFO | SKIP (resume): Dave Landry on Swing Trading 2001
+2026-09-23 08:08:41,905 | INFO | [28/149] Processing: Day Trading For Dummies 2008.pdf
+2026-09-23 08:08:41,905 | INFO | SKIP (resume): Day Trading For Dummies 2008
+2026-09-23 08:08:41,908 | INFO | [29/149] Processing: Day Trading For Dummies 3rd edition 2014.epub
+2026-09-23 08:08:41,908 | INFO | SKIP (resume): Day Trading For Dummies 3rd edition 2014
+2026-09-23 08:08:41,911 | INFO | [30/149] Processing: Day Trading For Dummies 3rd edition 2014.pdf
+2026-09-23 08:08:41,911 | INFO | SKIP (resume): Day Trading For Dummies 3rd edition 2014
+2026-09-23 08:08:41,914 | INFO | [31/149] Processing: Day Trading and Swing Trading the Currency Market - Technical and Fundamental Strategies to Profit from Market Moves 2nd edition 2008.pdf
+2026-09-23 08:08:41,914 | INFO | SKIP (resume): Day Trading and Swing Trading the Currency Market - Technical and Fundamental Strategies to Profit from Market Moves 2nd edition 2008
+2026-09-23 08:08:41,917 | INFO | [32/149] Processing: Day Trading the Currency Market - Technical and Fundamental Strategies To Profit from Market Swings 2005.pdf
+2026-09-23 08:08:41,917 | INFO | SKIP (resume): Day Trading the Currency Market - Technical and Fundamental Strategies To Profit from Market Swings 2005
+2026-09-23 08:08:41,919 | INFO | [33/149] Processing: Dual Momentum Investing - An Innovative Strategy for Higher Returns with Lower Risk 2015.epub
+2026-09-23 08:08:41,920 | INFO | SKIP (resume): Dual Momentum Investing - An Innovative Strategy for Higher Returns with Lower Risk 2015
+2026-09-23 08:08:41,922 | INFO | [34/149] Processing: Encyclopedia of Chart Patterns 2nd edition 2005.pdf
+2026-09-23 08:08:41,923 | INFO | SKIP (resume): Encyclopedia of Chart Patterns 2nd edition 2005
+2026-09-23 08:08:41,925 | INFO | [35/149] Processing: Essentials of Foreign Exchange Trading 2009.pdf
+2026-09-23 08:08:41,925 | INFO | SKIP (resume): Essentials of Foreign Exchange Trading 2009
+2026-09-23 08:08:41,928 | INFO | [36/149] Processing: Evidence-Based Technical Analysis - Applying the Scientific Method and Statistical Inference to Trading Signals 2007.pdf
+2026-09-23 08:08:42,126 | INFO | START: Evidence-Based Technical Analysis - Applying the Scientific Method and Statistical Inference to Trading Signals 2007.pdf
+2026-09-23 08:28:13,644 | INFO | ======================================================================
+2026-09-23 08:28:13,646 | INFO | DOCLING BATCH PROCESSOR STARTING
+2026-09-23 08:28:13,646 | INFO | Repository: /data/gnidart
+2026-09-23 08:28:13,646 | INFO | Output: /data/gnidart/output
+2026-09-23 08:28:14,082 | INFO | Found 150 supported files (PDF/EPUB)
+2026-09-23 08:28:20,539 | INFO | DEDUP: Algorithmic Trading - Winning Strategies and Their Rationale 2013 - annotated.pdf is identical to Algorithmic Trading - Winning Strategies and Their Rationale 2013.pdf
+2026-09-23 08:28:27,842 | INFO | Skipped 1 duplicate files
+2026-09-23 08:28:27,845 | INFO | Loaded existing manifest with 141 entries
+2026-09-23 08:28:28,019 | INFO | Docling converter initialized
+2026-09-23 08:28:28,020 | INFO | [1/149] Processing: 17 Proven Currency Trading Strategies - How to Profit in the Forex Market 2013.pdf
+2026-09-23 08:28:28,020 | INFO | SKIP (resume): 17 Proven Currency Trading Strategies - How to Profit in the Forex Market 2013
+2026-09-23 08:28:28,023 | INFO | [2/149] Processing: A Complete Guide To Volume Price Analysis 2013.epub
+2026-09-23 08:28:28,023 | INFO | SKIP (resume): A Complete Guide To Volume Price Analysis 2013
+2026-09-23 08:28:28,026 | INFO | [3/149] Processing: A Complete Guide To Volume Price Analysis 2013.pdf
+2026-09-23 08:28:28,026 | INFO | SKIP (resume): A Complete Guide To Volume Price Analysis 2013
+2026-09-23 08:28:28,030 | INFO | [4/149] Processing: A Complete Guide to Technical Trading Tactics - How to Profit Using Pivot Points, Candlesticks & Other Indicators 2004.pdf
+2026-09-23 08:28:28,031 | INFO | SKIP (resume): A Complete Guide to Technical Trading Tactics - How to Profit Using Pivot Points, Candlesticks & Other Indicators 2004
+2026-09-23 08:28:28,034 | INFO | [5/149] Processing: A Random Walk Down Wall Street - The Time-Tested Strategy for Successful Investing 10th edition 2012.epub
+2026-09-23 08:28:28,034 | INFO | SKIP (resume): A Random Walk Down Wall Street - The Time-Tested Strategy for Successful Investing 10th edition 2012
+2026-09-23 08:28:28,037 | INFO | [6/149] Processing: A Random Walk Down Wall Street - The Time-Tested Strategy for Successful Investing 11th edition 2015.epub
+2026-09-23 08:28:28,037 | INFO | SKIP (resume): A Random Walk Down Wall Street - The Time-Tested Strategy for Successful Investing 11th edition 2015
+2026-09-23 08:28:28,040 | INFO | [7/149] Processing: Adventures of a Currency Trader - A Fable about Trading, Courage, and Doing the Right Thing 2007.pdf
+2026-09-23 08:28:28,040 | INFO | SKIP (resume): Adventures of a Currency Trader - A Fable about Trading, Courage, and Doing the Right Thing 2007
+2026-09-23 08:28:28,043 | INFO | [8/149] Processing: Algorithmic Trading - Winning Strategies and Their Rationale 2013.pdf
+2026-09-23 08:28:28,043 | INFO | SKIP (resume): Algorithmic Trading - Winning Strategies and Their Rationale 2013
+2026-09-23 08:28:28,045 | INFO | [9/149] Processing: Attacking Currency Trends - How to Anticipate and Trade Big Moves in the Forex Market 2011.pdf
+2026-09-23 08:28:28,046 | INFO | SKIP (resume): Attacking Currency Trends - How to Anticipate and Trade Big Moves in the Forex Market 2011
+2026-09-23 08:28:28,048 | INFO | [10/149] Processing: Beyond Candlesticks - New Japanese Charting Techniques Revealed 1994 (1) - annotated.pdf
+2026-09-23 08:28:28,048 | INFO | SKIP (resume): Beyond Candlesticks - New Japanese Charting Techniques Revealed 1994 (1) - annotated
+2026-09-23 08:28:28,051 | INFO | [11/149] Processing: Beyond Candlesticks - New Japanese Charting Techniques Revealed 1994 (1).pdf
+2026-09-23 08:28:28,052 | INFO | SKIP (resume): Beyond Candlesticks - New Japanese Charting Techniques Revealed 1994 (1)
+2026-09-23 08:28:28,055 | INFO | [12/149] Processing: Beyond Candlesticks - New Japanese Charting Techniques Revealed 1994.pdf
+2026-09-23 08:28:28,055 | INFO | SKIP (resume): Beyond Candlesticks - New Japanese Charting Techniques Revealed 1994
+2026-09-23 08:28:28,058 | INFO | [13/149] Processing: Boomerang - Travels in the New Third World 2012.pdf
+2026-09-23 08:28:28,058 | INFO | SKIP (resume): Boomerang - Travels in the New Third World 2012
+2026-09-23 08:28:28,060 | INFO | [14/149] Processing: Buffett - The Making of an American Capitalist 2008.epub
+2026-09-23 08:28:28,061 | INFO | SKIP (resume): Buffett - The Making of an American Capitalist 2008
+2026-09-23 08:28:28,063 | INFO | [15/149] Processing: Building Reliable Trading Systems - Tradable Strategies That Perform As They Backtest and Meet Your Risk-Reward Goals 2013.pdf
+2026-09-23 08:28:28,064 | INFO | SKIP (resume): Building Reliable Trading Systems - Tradable Strategies That Perform As They Backtest and Meet Your Risk-Reward Goals 2013
+2026-09-23 08:28:28,066 | INFO | [16/149] Processing: Candlestick Charting Explained 3rd edition 2006.pdf
+2026-09-23 08:28:28,067 | INFO | SKIP (resume): Candlestick Charting Explained 3rd edition 2006
+2026-09-23 08:28:28,069 | INFO | [17/149] Processing: Candlestick Charting For Dummies 2008.pdf
+2026-09-23 08:28:28,070 | INFO | SKIP (resume): Candlestick Charting For Dummies 2008
+2026-09-23 08:28:28,072 | INFO | [18/149] Processing: Candlestick and Pivot Point Trading Triggers - Setups for Stock, Forex, and Futures Markets CDR edition 2006.pdf
+2026-09-23 08:28:28,072 | INFO | SKIP (resume): Candlestick and Pivot Point Trading Triggers - Setups for Stock, Forex, and Futures Markets CDR edition 2006
+2026-09-23 08:28:28,075 | INFO | [19/149] Processing: Chart Your Way To Profits - The Online Trader's Guide to Technical Analysis with ProphetCharts 2nd edition 2010.pdf
+2026-09-23 08:28:28,075 | INFO | SKIP (resume): Chart Your Way To Profits - The Online Trader's Guide to Technical Analysis with ProphetCharts 2nd edition 2010
+2026-09-23 08:28:28,078 | INFO | [20/149] Processing: Come Into My Trading Room (Study Guide) 2002.pdf
+2026-09-23 08:28:28,078 | INFO | SKIP (resume): Come Into My Trading Room (Study Guide) 2002
+2026-09-23 08:28:28,081 | INFO | [21/149] Processing: Come Into My Trading Room - A Complete Guide to Trading 2002.pdf
+2026-09-23 08:28:28,081 | INFO | SKIP (resume): Come Into My Trading Room - A Complete Guide to Trading 2002
+2026-09-23 08:28:28,084 | INFO | [22/149] Processing: Common Stocks and Uncommon Profits and Other Writings 2nd edition 2003.pdf
+2026-09-23 08:28:28,084 | INFO | SKIP (resume): Common Stocks and Uncommon Profits and Other Writings 2nd edition 2003
+2026-09-23 08:28:28,087 | INFO | [23/149] Processing: Cryptoassets - The Innovative Investor's Guide to Bitcoin and Beyond 2017.pdf
+2026-09-23 08:28:28,087 | INFO | SKIP (resume): Cryptoassets - The Innovative Investor's Guide to Bitcoin and Beyond 2017
+2026-09-23 08:28:28,090 | INFO | [24/149] Processing: Currency Strategy - The Practitioners Guide to Currency Investing, Hedging and Forecasting 2002.pdf
+2026-09-23 08:28:28,090 | INFO | SKIP (resume): Currency Strategy - The Practitioners Guide to Currency Investing, Hedging and Forecasting 2002
+2026-09-23 08:28:28,093 | INFO | [25/149] Processing: Currency Trading For Dummies 2nd edition 2011.pdf
+2026-09-23 08:28:28,093 | INFO | SKIP (resume): Currency Trading For Dummies 2nd edition 2011
+2026-09-23 08:28:28,096 | INFO | [26/149] Processing: Currency Trading and Intermarket Analysis - How to Profit from the Shifting Currents in Global Markets 2008.pdf
+2026-09-23 08:28:28,096 | INFO | SKIP (resume): Currency Trading and Intermarket Analysis - How to Profit from the Shifting Currents in Global Markets 2008
+2026-09-23 08:28:28,098 | INFO | [27/149] Processing: Dave Landry on Swing Trading 2001.pdf
+2026-09-23 08:28:28,099 | INFO | SKIP (resume): Dave Landry on Swing Trading 2001
+2026-09-23 08:28:28,101 | INFO | [28/149] Processing: Day Trading For Dummies 2008.pdf
+2026-09-23 08:28:28,102 | INFO | SKIP (resume): Day Trading For Dummies 2008
+2026-09-23 08:28:28,104 | INFO | [29/149] Processing: Day Trading For Dummies 3rd edition 2014.epub
+2026-09-23 08:28:28,104 | INFO | SKIP (resume): Day Trading For Dummies 3rd edition 2014
+2026-09-23 08:28:28,107 | INFO | [30/149] Processing: Day Trading For Dummies 3rd edition 2014.pdf
+2026-09-23 08:28:28,107 | INFO | SKIP (resume): Day Trading For Dummies 3rd edition 2014
+2026-09-23 08:28:28,110 | INFO | [31/149] Processing: Day Trading and Swing Trading the Currency Market - Technical and Fundamental Strategies to Profit from Market Moves 2nd edition 2008.pdf
+2026-09-23 08:28:28,110 | INFO | SKIP (resume): Day Trading and Swing Trading the Currency Market - Technical and Fundamental Strategies to Profit from Market Moves 2nd edition 2008
+2026-09-23 08:28:28,113 | INFO | [32/149] Processing: Day Trading the Currency Market - Technical and Fundamental Strategies To Profit from Market Swings 2005.pdf
+2026-09-23 08:28:28,113 | INFO | SKIP (resume): Day Trading the Currency Market - Technical and Fundamental Strategies To Profit from Market Swings 2005
+2026-09-23 08:28:28,116 | INFO | [33/149] Processing: Dual Momentum Investing - An Innovative Strategy for Higher Returns with Lower Risk 2015.epub
+2026-09-23 08:28:28,116 | INFO | SKIP (resume): Dual Momentum Investing - An Innovative Strategy for Higher Returns with Lower Risk 2015
+2026-09-23 08:28:28,118 | INFO | [34/149] Processing: Encyclopedia of Chart Patterns 2nd edition 2005.pdf
+2026-09-23 08:28:28,119 | INFO | SKIP (resume): Encyclopedia of Chart Patterns 2nd edition 2005
+2026-09-23 08:28:28,122 | INFO | [35/149] Processing: Essentials of Foreign Exchange Trading 2009.pdf
+2026-09-23 08:28:28,122 | INFO | SKIP (resume): Essentials of Foreign Exchange Trading 2009
+2026-09-23 08:28:28,124 | INFO | [36/149] Processing: Evidence-Based Technical Analysis - Applying the Scientific Method and Statistical Inference to Trading Signals 2007.pdf
+2026-09-23 08:28:28,434 | INFO | START: Evidence-Based Technical Analysis - Applying the Scientific Method and Statistical Inference to Trading Signals 2007.pdf
+2026-09-23 23:40:46,743 | INFO | ======================================================================
+2026-09-23 23:40:46,743 | INFO | DOCLING BATCH PROCESSOR STARTING
+2026-09-23 23:40:46,744 | INFO | Repository: /data/gnidart
+2026-09-23 23:40:46,744 | INFO | Output: /data/gnidart/output
+2026-09-23 23:40:47,108 | INFO | Found 150 supported files (PDF/EPUB)
+2026-09-23 23:40:53,556 | INFO | DEDUP: Algorithmic Trading - Winning Strategies and Their Rationale 2013 - annotated.pdf is identical to Algorithmic Trading - Winning Strategies and Their Rationale 2013.pdf
+2026-09-23 23:41:01,511 | INFO | Skipped 1 duplicate files
+2026-09-23 23:41:01,515 | INFO | Loaded existing manifest with 141 entries
+2026-09-23 23:41:01,715 | INFO | Docling converter initialized
+2026-09-23 23:41:01,715 | INFO | [1/149] Processing: 17 Proven Currency Trading Strategies - How to Profit in the Forex Market 2013.pdf
+2026-09-23 23:41:01,716 | INFO | SKIP (resume): 17 Proven Currency Trading Strategies - How to Profit in the Forex Market 2013
+2026-09-23 23:41:01,719 | INFO | [2/149] Processing: A Complete Guide To Volume Price Analysis 2013.epub
+2026-09-23 23:41:01,719 | INFO | SKIP (resume): A Complete Guide To Volume Price Analysis 2013
+2026-09-23 23:41:01,722 | INFO | [3/149] Processing: A Complete Guide To Volume Price Analysis 2013.pdf
+2026-09-23 23:41:01,722 | INFO | SKIP (resume): A Complete Guide To Volume Price Analysis 2013
+2026-09-23 23:41:01,725 | INFO | [4/149] Processing: A Complete Guide to Technical Trading Tactics - How to Profit Using Pivot Points, Candlesticks & Other Indicators 2004.pdf
+2026-09-23 23:41:01,725 | INFO | SKIP (resume): A Complete Guide to Technical Trading Tactics - How to Profit Using Pivot Points, Candlesticks & Other Indicators 2004
+2026-09-23 23:41:01,728 | INFO | [5/149] Processing: A Random Walk Down Wall Street - The Time-Tested Strategy for Successful Investing 10th edition 2012.epub
+2026-09-23 23:41:01,729 | INFO | SKIP (resume): A Random Walk Down Wall Street - The Time-Tested Strategy for Successful Investing 10th edition 2012
+2026-09-23 23:41:01,731 | INFO | [6/149] Processing: A Random Walk Down Wall Street - The Time-Tested Strategy for Successful Investing 11th edition 2015.epub
+2026-09-23 23:41:01,732 | INFO | SKIP (resume): A Random Walk Down Wall Street - The Time-Tested Strategy for Successful Investing 11th edition 2015
+2026-09-23 23:41:01,734 | INFO | [7/149] Processing: Adventures of a Currency Trader - A Fable about Trading, Courage, and Doing the Right Thing 2007.pdf
+2026-09-23 23:41:01,735 | INFO | SKIP (resume): Adventures of a Currency Trader - A Fable about Trading, Courage, and Doing the Right Thing 2007
+2026-09-23 23:41:01,737 | INFO | [8/149] Processing: Algorithmic Trading - Winning Strategies and Their Rationale 2013.pdf
+2026-09-23 23:41:01,738 | INFO | SKIP (resume): Algorithmic Trading - Winning Strategies and Their Rationale 2013
+2026-09-23 23:41:01,740 | INFO | [9/149] Processing: Attacking Currency Trends - How to Anticipate and Trade Big Moves in the Forex Market 2011.pdf
+2026-09-23 23:41:01,741 | INFO | SKIP (resume): Attacking Currency Trends - How to Anticipate and Trade Big Moves in the Forex Market 2011
+2026-09-23 23:41:01,743 | INFO | [10/149] Processing: Beyond Candlesticks - New Japanese Charting Techniques Revealed 1994 (1) - annotated.pdf
+2026-09-23 23:41:01,743 | INFO | SKIP (resume): Beyond Candlesticks - New Japanese Charting Techniques Revealed 1994 (1) - annotated
+2026-09-23 23:41:01,746 | INFO | [11/149] Processing: Beyond Candlesticks - New Japanese Charting Techniques Revealed 1994 (1).pdf
+2026-09-23 23:41:01,746 | INFO | SKIP (resume): Beyond Candlesticks - New Japanese Charting Techniques Revealed 1994 (1)
+2026-09-23 23:41:01,749 | INFO | [12/149] Processing: Beyond Candlesticks - New Japanese Charting Techniques Revealed 1994.pdf
+2026-09-23 23:41:01,749 | INFO | SKIP (resume): Beyond Candlesticks - New Japanese Charting Techniques Revealed 1994
+2026-09-23 23:41:01,752 | INFO | [13/149] Processing: Boomerang - Travels in the New Third World 2012.pdf
+2026-09-23 23:41:01,752 | INFO | SKIP (resume): Boomerang - Travels in the New Third World 2012
+2026-09-23 23:41:01,755 | INFO | [14/149] Processing: Buffett - The Making of an American Capitalist 2008.epub
+2026-09-23 23:41:01,755 | INFO | SKIP (resume): Buffett - The Making of an American Capitalist 2008
+2026-09-23 23:41:01,758 | INFO | [15/149] Processing: Building Reliable Trading Systems - Tradable Strategies That Perform As They Backtest and Meet Your Risk-Reward Goals 2013.pdf
+2026-09-23 23:41:01,758 | INFO | SKIP (resume): Building Reliable Trading Systems - Tradable Strategies That Perform As They Backtest and Meet Your Risk-Reward Goals 2013
+2026-09-23 23:41:01,761 | INFO | [16/149] Processing: Candlestick Charting Explained 3rd edition 2006.pdf
+2026-09-23 23:41:01,761 | INFO | SKIP (resume): Candlestick Charting Explained 3rd edition 2006
+2026-09-23 23:41:01,764 | INFO | [17/149] Processing: Candlestick Charting For Dummies 2008.pdf
+2026-09-23 23:41:01,764 | INFO | SKIP (resume): Candlestick Charting For Dummies 2008
+2026-09-23 23:41:01,767 | INFO | [18/149] Processing: Candlestick and Pivot Point Trading Triggers - Setups for Stock, Forex, and Futures Markets CDR edition 2006.pdf
+2026-09-23 23:41:01,767 | INFO | SKIP (resume): Candlestick and Pivot Point Trading Triggers - Setups for Stock, Forex, and Futures Markets CDR edition 2006
+2026-09-23 23:41:01,769 | INFO | [19/149] Processing: Chart Your Way To Profits - The Online Trader's Guide to Technical Analysis with ProphetCharts 2nd edition 2010.pdf
+2026-09-23 23:41:01,770 | INFO | SKIP (resume): Chart Your Way To Profits - The Online Trader's Guide to Technical Analysis with ProphetCharts 2nd edition 2010
+2026-09-23 23:41:01,772 | INFO | [20/149] Processing: Come Into My Trading Room (Study Guide) 2002.pdf
+2026-09-23 23:41:01,773 | INFO | SKIP (resume): Come Into My Trading Room (Study Guide) 2002
+2026-09-23 23:41:01,778 | INFO | [21/149] Processing: Come Into My Trading Room - A Complete Guide to Trading 2002.pdf
+2026-09-23 23:41:01,778 | INFO | SKIP (resume): Come Into My Trading Room - A Complete Guide to Trading 2002
+2026-09-23 23:41:01,783 | INFO | [22/149] Processing: Common Stocks and Uncommon Profits and Other Writings 2nd edition 2003.pdf
+2026-09-23 23:41:01,783 | INFO | SKIP (resume): Common Stocks and Uncommon Profits and Other Writings 2nd edition 2003
+2026-09-23 23:41:01,788 | INFO | [23/149] Processing: Cryptoassets - The Innovative Investor's Guide to Bitcoin and Beyond 2017.pdf
+2026-09-23 23:41:01,788 | INFO | SKIP (resume): Cryptoassets - The Innovative Investor's Guide to Bitcoin and Beyond 2017
+2026-09-23 23:41:01,791 | INFO | [24/149] Processing: Currency Strategy - The Practitioners Guide to Currency Investing, Hedging and Forecasting 2002.pdf
+2026-09-23 23:41:01,791 | INFO | SKIP (resume): Currency Strategy - The Practitioners Guide to Currency Investing, Hedging and Forecasting 2002
+2026-09-23 23:41:01,794 | INFO | [25/149] Processing: Currency Trading For Dummies 2nd edition 2011.pdf
+2026-09-23 23:41:01,794 | INFO | SKIP (resume): Currency Trading For Dummies 2nd edition 2011
+2026-09-23 23:41:01,798 | INFO | [26/149] Processing: Currency Trading and Intermarket Analysis - How to Profit from the Shifting Currents in Global Markets 2008.pdf
+2026-09-23 23:41:01,798 | INFO | SKIP (resume): Currency Trading and Intermarket Analysis - How to Profit from the Shifting Currents in Global Markets 2008
+2026-09-23 23:41:01,801 | INFO | [27/149] Processing: Dave Landry on Swing Trading 2001.pdf
+2026-09-23 23:41:01,801 | INFO | SKIP (resume): Dave Landry on Swing Trading 2001
+2026-09-23 23:41:01,804 | INFO | [28/149] Processing: Day Trading For Dummies 2008.pdf
+2026-09-23 23:41:01,804 | INFO | SKIP (resume): Day Trading For Dummies 2008
+2026-09-23 23:41:01,807 | INFO | [29/149] Processing: Day Trading For Dummies 3rd edition 2014.epub
+2026-09-23 23:41:01,807 | INFO | SKIP (resume): Day Trading For Dummies 3rd edition 2014
+2026-09-23 23:41:01,810 | INFO | [30/149] Processing: Day Trading For Dummies 3rd edition 2014.pdf
+2026-09-23 23:41:01,810 | INFO | SKIP (resume): Day Trading For Dummies 3rd edition 2014
+2026-09-23 23:41:01,813 | INFO | [31/149] Processing: Day Trading and Swing Trading the Currency Market - Technical and Fundamental Strategies to Profit from Market Moves 2nd edition 2008.pdf
+2026-09-23 23:41:01,813 | INFO | SKIP (resume): Day Trading and Swing Trading the Currency Market - Technical and Fundamental Strategies to Profit from Market Moves 2nd edition 2008
+2026-09-23 23:41:01,816 | INFO | [32/149] Processing: Day Trading the Currency Market - Technical and Fundamental Strategies To Profit from Market Swings 2005.pdf
+2026-09-23 23:41:01,816 | INFO | SKIP (resume): Day Trading the Currency Market - Technical and Fundamental Strategies To Profit from Market Swings 2005
+2026-09-23 23:41:01,819 | INFO | [33/149] Processing: Dual Momentum Investing - An Innovative Strategy for Higher Returns with Lower Risk 2015.epub
+2026-09-23 23:41:01,819 | INFO | SKIP (resume): Dual Momentum Investing - An Innovative Strategy for Higher Returns with Lower Risk 2015
+2026-09-23 23:41:01,822 | INFO | [34/149] Processing: Encyclopedia of Chart Patterns 2nd edition 2005.pdf
+2026-09-23 23:41:01,822 | INFO | SKIP (resume): Encyclopedia of Chart Patterns 2nd edition 2005
+2026-09-23 23:41:01,824 | INFO | [35/149] Processing: Essentials of Foreign Exchange Trading 2009.pdf
+2026-09-23 23:41:01,825 | INFO | SKIP (resume): Essentials of Foreign Exchange Trading 2009
+2026-09-23 23:41:01,827 | INFO | [36/149] Processing: Evidence-Based Technical Analysis - Applying the Scientific Method and Statistical Inference to Trading Signals 2007.pdf
+2026-09-23 23:41:01,828 | INFO | SKIP (resume): Evidence-Based Technical Analysis - Applying the Scientific Method and Statistical Inference to Trading Signals 2007
+2026-09-23 23:41:01,830 | INFO | [37/149] Processing: Extraordinary Popular Delusions and The Madness of Crowds 2001.pdf
+2026-09-23 23:41:01,830 | INFO | SKIP (resume): Extraordinary Popular Delusions and The Madness of Crowds 2001
+2026-09-23 23:41:01,833 | INFO | [38/149] Processing: Flash Boys - A Wall Street Revolt 2015.epub
+2026-09-23 23:41:01,833 | INFO | SKIP (resume): Flash Boys - A Wall Street Revolt 2015
+2026-09-23 23:41:01,836 | INFO | [39/149] Processing: Fooled by Randomness - The Hidden Role of Chance in Life and in the Markets 2005.epub
+2026-09-23 23:41:01,836 | INFO | SKIP (resume): Fooled by Randomness - The Hidden Role of Chance in Life and in the Markets 2005
+2026-09-23 23:41:01,839 | INFO | [40/149] Processing: Fooled by Randomness - The Hidden Role of Chance in Life and in the Markets 2005.pdf
+2026-09-23 23:41:01,839 | INFO | SKIP (resume): Fooled by Randomness - The Hidden Role of Chance in Life and in the Markets 2005
+2026-09-23 23:41:01,841 | INFO | [41/149] Processing: Forex Patterns and Probabilities - Trading Strategies for Trending and Range-Bound Markets 2007.pdf
+2026-09-23 23:41:01,842 | INFO | SKIP (resume): Forex Patterns and Probabilities - Trading Strategies for Trending and Range-Bound Markets 2007
+2026-09-23 23:41:01,844 | INFO | [42/149] Processing: Forex Trading Basics & Secrets Volume 3.0.pdf
+2026-09-23 23:41:02,436 | INFO | START: Forex Trading Basics & Secrets Volume 3.0.pdf
+2026-09-24 00:45:38,595 | INFO | DONE: Forex Trading Basics & Secrets Volume 3.0 | 59 pages | 60578 chars | 3874.8s
+2026-09-24 00:45:38,673 | INFO | [43/149] Processing: Forex Trading Secrets - Trading Strategies for the Forex Market 2010.pdf
+2026-09-24 00:45:38,674 | INFO | SKIP (resume): Forex Trading Secrets - Trading Strategies for the Forex Market 2010
+2026-09-24 00:45:38,734 | INFO | [44/149] Processing: Forex for Beginners - A Comprehensive Guide to Profiting from the Global Currency Markets 2012.pdf
+2026-09-24 00:45:38,735 | INFO | SKIP (resume): Forex for Beginners - A Comprehensive Guide to Profiting from the Global Currency Markets 2012
+2026-09-24 00:45:38,738 | INFO | [45/149] Processing: Fundamental Analysis For Dummies 2009.pdf
+2026-09-24 00:45:38,739 | INFO | SKIP (resume): Fundamental Analysis For Dummies 2009
+2026-09-24 00:45:38,742 | INFO | [46/149] Processing: Getting Started in Candlestick Charting 2008.pdf
+2026-09-24 00:45:38,742 | INFO | SKIP (resume): Getting Started in Candlestick Charting 2008
+2026-09-24 00:45:38,747 | INFO | [47/149] Processing: Harmonic Trading, Volume One - Profiting from the Natural Order of the Financial Markets 2010.pdf
+2026-09-24 00:45:38,747 | INFO | SKIP (resume): Harmonic Trading, Volume One - Profiting from the Natural Order of the Financial Markets 2010
+2026-09-24 00:45:38,752 | INFO | [48/149] Processing: Harmonic Trading, Volume Two - Advanced Strategies for Profiting from the Natural Order of the Financial Markets 2010.pdf
+2026-09-24 00:45:38,753 | INFO | SKIP (resume): Harmonic Trading, Volume Two - Advanced Strategies for Profiting from the Natural Order of the Financial Markets 2010
+2026-09-24 00:45:38,757 | INFO | [49/149] Processing: High Probability Trading Strategies - Entry to Exit Tactics for the Forex, Futures, and Stock Markets 2008.pdf
+2026-09-24 00:45:38,758 | INFO | SKIP (resume): High Probability Trading Strategies - Entry to Exit Tactics for the Forex, Futures, and Stock Markets 2008
+2026-09-24 00:45:38,812 | INFO | [50/149] Processing: How to Day Trade for a Living - Tools, Tactics, Money Management, Discipline and Trading Psychology 3rd edition.epub
+2026-09-24 00:45:38,812 | INFO | SKIP (resume): How to Day Trade for a Living - Tools, Tactics, Money Management, Discipline and Trading Psychology 3rd edition
+2026-09-24 00:45:38,818 | INFO | [51/149] Processing: How to Make Money in Stocks - A Winning System in Good Times and Bad 4th edition 2009.epub
+2026-09-24 00:45:38,818 | INFO | SKIP (resume): How to Make Money in Stocks - A Winning System in Good Times and Bad 4th edition 2009
+2026-09-24 00:45:38,823 | INFO | [52/149] Processing: How to Make Money in Stocks - A Winning System in Good Times and Bad 4th edition 2009.pdf
+2026-09-24 00:45:38,824 | INFO | SKIP (resume): How to Make Money in Stocks - A Winning System in Good Times and Bad 4th edition 2009
+2026-09-24 00:45:38,829 | INFO | [53/149] Processing: How to Make a Living Trading Foreign Exchange - A Guaranteed Income for Life 2010.pdf
+2026-09-24 00:45:38,829 | INFO | SKIP (resume): How to Make a Living Trading Foreign Exchange - A Guaranteed Income for Life 2010
+2026-09-24 00:45:38,896 | INFO | [54/149] Processing: Inside the Currency Market - Mechanics, Valuation and Strategies 2011.pdf
+2026-09-24 00:45:38,897 | INFO | SKIP (resume): Inside the Currency Market - Mechanics, Valuation and Strategies 2011
+2026-09-24 00:45:38,904 | INFO | [55/149] Processing: Intermarket Trading Strategies 2009.pdf
+2026-09-24 00:45:38,905 | INFO | SKIP (resume): Intermarket Trading Strategies 2009
+2026-09-24 00:45:38,910 | INFO | [56/149] Processing: Irrational Exuberance (Revised and Expanded) 3rd edition 2016.pdf
+2026-09-24 00:45:38,910 | INFO | SKIP (resume): Irrational Exuberance (Revised and Expanded) 3rd edition 2016
+2026-09-24 00:45:38,914 | INFO | [57/149] Processing: Irrational Exuberance 2000.pdf
+2026-09-24 00:45:38,915 | INFO | SKIP (resume): Irrational Exuberance 2000
+2026-09-24 00:45:38,973 | INFO | [58/149] Processing: Irrational Exuberance 2nd edition 2006.epub
+2026-09-24 00:45:38,974 | INFO | SKIP (resume): Irrational Exuberance 2nd edition 2006
+2026-09-24 00:45:38,979 | INFO | [59/149] Processing: Japanese Candlestick Charting Techniques - A Contemporary Guide to the Ancient Investment Techniques of the Far East 1991.pdf
+2026-09-24 00:45:38,979 | INFO | SKIP (resume): Japanese Candlestick Charting Techniques - A Contemporary Guide to the Ancient Investment Techniques of the Far East 1991
+2026-09-24 00:45:38,985 | INFO | [60/149] Processing: Japanese Candlestick Charting Techniques 2nd edition 2001 (1).pdf
+2026-09-24 00:45:38,985 | INFO | SKIP (resume): Japanese Candlestick Charting Techniques 2nd edition 2001 (1)
+2026-09-24 00:45:38,990 | INFO | [61/149] Processing: Japanese Candlestick Charting Techniques 2nd edition 2001.pdf
+2026-09-24 00:45:38,991 | INFO | SKIP (resume): Japanese Candlestick Charting Techniques 2nd edition 2001
+2026-09-24 00:45:39,057 | INFO | [62/149] Processing: Jesse Livermore - World's Greatest Stock Trader 2001.pdf
+2026-09-24 00:45:39,058 | INFO | SKIP (resume): Jesse Livermore - World's Greatest Stock Trader 2001
+2026-09-24 00:45:39,061 | INFO | [63/149] Processing: Liar's Poker - Rising Through the Wreckage on Wall Street.pdf
+2026-09-24 00:45:39,061 | INFO | SKIP (resume): Liar's Poker - Rising Through the Wreckage on Wall Street
+2026-09-24 00:45:39,064 | INFO | [64/149] Processing: Long-Term Secrets to Short-Term Trading 1999.pdf
+2026-09-24 00:45:39,064 | INFO | SKIP (resume): Long-Term Secrets to Short-Term Trading 1999
+2026-09-24 00:45:39,067 | INFO | [65/149] Processing: Market Wizards - Interviews With Top Traders 2012.pdf
+2026-09-24 00:45:39,067 | INFO | SKIP (resume): Market Wizards - Interviews With Top Traders 2012
+2026-09-24 00:45:39,070 | INFO | [66/149] Processing: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2006.pdf
+2026-09-24 00:45:39,071 | INFO | SKIP (resume): Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2006
+2026-09-24 00:45:39,074 | INFO | [67/149] Processing: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2006.pdf (1).pdf
+2026-09-24 00:45:41,661 | INFO | START: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2006.pdf (1).pdf
+2026-09-25 05:24:36,271 | INFO | DONE: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2006.pdf (1) | 406 pages | 811754 chars | 103123.8s
+2026-09-25 05:24:37,295 | INFO | [68/149] Processing: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2nd edition 2012 (1) - annotated.pdf
+2026-09-25 05:24:37,299 | INFO | SKIP (resume): Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2nd edition 2012 (1) - annotated
+2026-09-25 05:24:37,305 | INFO | [69/149] Processing: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2nd edition 2012 (1).pdf
+2026-09-25 05:24:37,306 | INFO | SKIP (resume): Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2nd edition 2012 (1)
+2026-09-25 05:24:37,314 | INFO | [70/149] Processing: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2nd edition 2012.pdf
+2026-09-25 05:24:37,316 | INFO | SKIP (resume): Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2nd edition 2012
+2026-09-25 05:24:37,384 | INFO | [71/149] Processing: Millionaire Traders - How Everyday People Are Beating Wall Street at Its Own Game 2007.pdf
+2026-09-25 05:24:39,078 | INFO | START: Millionaire Traders - How Everyday People Are Beating Wall Street at Its Own Game 2007.pdf
+2026-09-26 00:45:58,756 | INFO | DONE: Millionaire Traders - How Everyday People Are Beating Wall Street at Its Own Game 2007 | 410 pages | 723579 chars | 69672.2s
+2026-09-26 00:45:59,470 | INFO | [72/149] Processing: Naked Forex - High-Probability Techniques for Trading Without Indicators 2012.pdf
+2026-09-26 00:45:59,473 | INFO | SKIP (resume): Naked Forex - High-Probability Techniques for Trading Without Indicators 2012
+2026-09-26 00:45:59,476 | INFO | [73/149] Processing: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2nd edition 2012 (1) - annotated.pdf
+2026-09-26 00:45:59,476 | INFO | SKIP (resume): Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2nd edition 2012 (1) - annotated
+2026-09-26 00:45:59,480 | INFO | [74/149] Processing: The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012 - annotated.pdf
+2026-09-26 00:45:59,481 | INFO | SKIP (resume): The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012 - annotated
+2026-09-26 00:45:59,484 | INFO | [75/149] Processing: New Frontiers in Technical Analysis - Effective Tools and Strategies for Trading and Investing 2011.pdf
+2026-09-26 00:45:59,488 | INFO | SKIP (resume): New Frontiers in Technical Analysis - Effective Tools and Strategies for Trading and Investing 2011
+2026-09-26 00:45:59,533 | INFO | [76/149] Processing: One Up On Wall Street 2000.epub
+2026-09-26 00:45:59,534 | INFO | SKIP (resume): One Up On Wall Street 2000
+2026-09-26 00:45:59,537 | INFO | [77/149] Processing: Option Spread Strategies - Trading Up, Down, and Sideways Markets 2009.pdf
+2026-09-26 00:45:59,539 | INFO | SKIP (resume): Option Spread Strategies - Trading Up, Down, and Sideways Markets 2009
+2026-09-26 00:45:59,542 | INFO | [78/149] Processing: Option Volatility & Pricing - Advanced Trading Strategies and Techniques 1994.pdf
+2026-09-26 00:45:59,543 | INFO | SKIP (resume): Option Volatility & Pricing - Advanced Trading Strategies and Techniques 1994
+2026-09-26 00:45:59,546 | INFO | [79/149] Processing: Principles - Life and Work 2017.epub
+2026-09-26 00:45:59,547 | INFO | SKIP (resume): Principles - Life and Work 2017
+2026-09-26 00:45:59,550 | INFO | [80/149] Processing: Reminiscences of a Stock Operator 2005.epub
+2026-09-26 00:45:59,552 | INFO | SKIP (resume): Reminiscences of a Stock Operator 2005
+2026-09-26 00:45:59,556 | INFO | [81/149] Processing: Reminiscences of a Stock Operator 2006.pdf
+2026-09-26 00:45:59,557 | INFO | SKIP (resume): Reminiscences of a Stock Operator 2006
+2026-09-26 00:45:59,560 | INFO | [82/149] Processing: Reminiscences of a Stock Operator 2008.epub
+2026-09-26 00:45:59,561 | INFO | SKIP (resume): Reminiscences of a Stock Operator 2008
+2026-09-26 00:45:59,564 | INFO | [83/149] Processing: Reminiscences of a Stock Operator 2008.pdf
+2026-09-26 00:45:59,565 | INFO | SKIP (resume): Reminiscences of a Stock Operator 2008
+2026-09-26 00:45:59,568 | INFO | [84/149] Processing: Sentiment in the Forex Market - Indicators and Strategies To Profit from Crowd Behavior and Market Extremes 2008.pdf
+2026-09-26 00:45:59,569 | INFO | SKIP (resume): Sentiment in the Forex Market - Indicators and Strategies To Profit from Crowd Behavior and Market Extremes 2008
+2026-09-26 00:45:59,572 | INFO | [85/149] Processing: Stock Market Wizards - Interviews with America's Top Stock Traders 2001.pdf
+2026-09-26 00:45:59,572 | INFO | SKIP (resume): Stock Market Wizards - Interviews with America's Top Stock Traders 2001
+2026-09-26 00:45:59,612 | INFO | [86/149] Processing: Swing Trading For Dummies 2008.pdf
+2026-09-26 00:45:59,615 | INFO | SKIP (resume): Swing Trading For Dummies 2008
+2026-09-26 00:45:59,620 | INFO | [87/149] Processing: Technical Analysis - The Complete Resource for Financial Market Technicians 2006.pdf
+2026-09-26 00:45:59,621 | INFO | SKIP (resume): Technical Analysis - The Complete Resource for Financial Market Technicians 2006
+2026-09-26 00:45:59,626 | INFO | [88/149] Processing: Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2010.pdf
+2026-09-26 00:45:59,627 | INFO | SKIP (resume): Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2010
+2026-09-26 00:45:59,633 | INFO | [89/149] Processing: Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2011.pdf
+2026-09-26 00:45:59,634 | INFO | SKIP (resume): Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2011
+2026-09-26 00:45:59,638 | INFO | [90/149] Processing: Technical Analysis Explained - The Successful Investor's Guide to Spotting Investment Trends and Turning Points 4th edition 2002.pdf
+2026-09-26 00:46:02,917 | INFO | START: Technical Analysis Explained - The Successful Investor's Guide to Spotting Investment Trends and Turning Points 4th edition 2002.pdf
+2026-09-26 05:00:18,864 | INFO | ======================================================================
+2026-09-26 05:00:18,866 | INFO | DOCLING BATCH PROCESSOR STARTING
+2026-09-26 05:00:18,866 | INFO | Repository: /data/gnidart
+2026-09-26 05:00:18,866 | INFO | Output: /data/gnidart/output
+2026-09-26 05:00:19,239 | INFO | Found 150 supported files (PDF/EPUB)
+2026-09-26 05:00:26,466 | INFO | DEDUP: Algorithmic Trading - Winning Strategies and Their Rationale 2013 - annotated.pdf is identical to Algorithmic Trading - Winning Strategies and Their Rationale 2013.pdf
+2026-09-26 05:00:35,633 | INFO | Skipped 1 duplicate files
+2026-09-26 05:00:35,635 | INFO | Loaded existing manifest with 141 entries
+2026-09-26 05:00:35,832 | INFO | Docling converter initialized
+2026-09-26 05:00:35,832 | INFO | [1/149] Processing: 17 Proven Currency Trading Strategies - How to Profit in the Forex Market 2013.pdf
+2026-09-26 05:00:35,833 | INFO | SKIP (resume): 17 Proven Currency Trading Strategies - How to Profit in the Forex Market 2013
+2026-09-26 05:00:35,836 | INFO | [2/149] Processing: A Complete Guide To Volume Price Analysis 2013.epub
+2026-09-26 05:00:35,837 | INFO | SKIP (resume): A Complete Guide To Volume Price Analysis 2013
+2026-09-26 05:00:35,840 | INFO | [3/149] Processing: A Complete Guide To Volume Price Analysis 2013.pdf
+2026-09-26 05:00:35,840 | INFO | SKIP (resume): A Complete Guide To Volume Price Analysis 2013
+2026-09-26 05:00:35,842 | INFO | [4/149] Processing: A Complete Guide to Technical Trading Tactics - How to Profit Using Pivot Points, Candlesticks & Other Indicators 2004.pdf
+2026-09-26 05:00:35,843 | INFO | SKIP (resume): A Complete Guide to Technical Trading Tactics - How to Profit Using Pivot Points, Candlesticks & Other Indicators 2004
+2026-09-26 05:00:35,845 | INFO | [5/149] Processing: A Random Walk Down Wall Street - The Time-Tested Strategy for Successful Investing 10th edition 2012.epub
+2026-09-26 05:00:35,846 | INFO | SKIP (resume): A Random Walk Down Wall Street - The Time-Tested Strategy for Successful Investing 10th edition 2012
+2026-09-26 05:00:35,848 | INFO | [6/149] Processing: A Random Walk Down Wall Street - The Time-Tested Strategy for Successful Investing 11th edition 2015.epub
+2026-09-26 05:00:35,849 | INFO | SKIP (resume): A Random Walk Down Wall Street - The Time-Tested Strategy for Successful Investing 11th edition 2015
+2026-09-26 05:00:35,852 | INFO | [7/149] Processing: Adventures of a Currency Trader - A Fable about Trading, Courage, and Doing the Right Thing 2007.pdf
+2026-09-26 05:00:35,852 | INFO | SKIP (resume): Adventures of a Currency Trader - A Fable about Trading, Courage, and Doing the Right Thing 2007
+2026-09-26 05:00:35,855 | INFO | [8/149] Processing: Algorithmic Trading - Winning Strategies and Their Rationale 2013.pdf
+2026-09-26 05:00:35,855 | INFO | SKIP (resume): Algorithmic Trading - Winning Strategies and Their Rationale 2013
+2026-09-26 05:00:35,858 | INFO | [9/149] Processing: Attacking Currency Trends - How to Anticipate and Trade Big Moves in the Forex Market 2011.pdf
+2026-09-26 05:00:35,858 | INFO | SKIP (resume): Attacking Currency Trends - How to Anticipate and Trade Big Moves in the Forex Market 2011
+2026-09-26 05:00:35,860 | INFO | [10/149] Processing: Beyond Candlesticks - New Japanese Charting Techniques Revealed 1994 (1) - annotated.pdf
+2026-09-26 05:00:35,861 | INFO | SKIP (resume): Beyond Candlesticks - New Japanese Charting Techniques Revealed 1994 (1) - annotated
+2026-09-26 05:00:35,863 | INFO | [11/149] Processing: Beyond Candlesticks - New Japanese Charting Techniques Revealed 1994 (1).pdf
+2026-09-26 05:00:35,864 | INFO | SKIP (resume): Beyond Candlesticks - New Japanese Charting Techniques Revealed 1994 (1)
+2026-09-26 05:00:35,866 | INFO | [12/149] Processing: Beyond Candlesticks - New Japanese Charting Techniques Revealed 1994.pdf
+2026-09-26 05:00:35,866 | INFO | SKIP (resume): Beyond Candlesticks - New Japanese Charting Techniques Revealed 1994
+2026-09-26 05:00:35,869 | INFO | [13/149] Processing: Boomerang - Travels in the New Third World 2012.pdf
+2026-09-26 05:00:35,869 | INFO | SKIP (resume): Boomerang - Travels in the New Third World 2012
+2026-09-26 05:00:35,872 | INFO | [14/149] Processing: Buffett - The Making of an American Capitalist 2008.epub
+2026-09-26 05:00:35,872 | INFO | SKIP (resume): Buffett - The Making of an American Capitalist 2008
+2026-09-26 05:00:35,875 | INFO | [15/149] Processing: Building Reliable Trading Systems - Tradable Strategies That Perform As They Backtest and Meet Your Risk-Reward Goals 2013.pdf
+2026-09-26 05:00:35,875 | INFO | SKIP (resume): Building Reliable Trading Systems - Tradable Strategies That Perform As They Backtest and Meet Your Risk-Reward Goals 2013
+2026-09-26 05:00:35,878 | INFO | [16/149] Processing: Candlestick Charting Explained 3rd edition 2006.pdf
+2026-09-26 05:00:35,878 | INFO | SKIP (resume): Candlestick Charting Explained 3rd edition 2006
+2026-09-26 05:00:35,881 | INFO | [17/149] Processing: Candlestick Charting For Dummies 2008.pdf
+2026-09-26 05:00:35,881 | INFO | SKIP (resume): Candlestick Charting For Dummies 2008
+2026-09-26 05:00:35,884 | INFO | [18/149] Processing: Candlestick and Pivot Point Trading Triggers - Setups for Stock, Forex, and Futures Markets CDR edition 2006.pdf
+2026-09-26 05:00:35,885 | INFO | SKIP (resume): Candlestick and Pivot Point Trading Triggers - Setups for Stock, Forex, and Futures Markets CDR edition 2006
+2026-09-26 05:00:35,887 | INFO | [19/149] Processing: Chart Your Way To Profits - The Online Trader's Guide to Technical Analysis with ProphetCharts 2nd edition 2010.pdf
+2026-09-26 05:00:35,888 | INFO | SKIP (resume): Chart Your Way To Profits - The Online Trader's Guide to Technical Analysis with ProphetCharts 2nd edition 2010
+2026-09-26 05:00:35,891 | INFO | [20/149] Processing: Come Into My Trading Room (Study Guide) 2002.pdf
+2026-09-26 05:00:35,891 | INFO | SKIP (resume): Come Into My Trading Room (Study Guide) 2002
+2026-09-26 05:00:35,893 | INFO | [21/149] Processing: Come Into My Trading Room - A Complete Guide to Trading 2002.pdf
+2026-09-26 05:00:35,894 | INFO | SKIP (resume): Come Into My Trading Room - A Complete Guide to Trading 2002
+2026-09-26 05:00:35,897 | INFO | [22/149] Processing: Common Stocks and Uncommon Profits and Other Writings 2nd edition 2003.pdf
+2026-09-26 05:00:35,897 | INFO | SKIP (resume): Common Stocks and Uncommon Profits and Other Writings 2nd edition 2003
+2026-09-26 05:00:35,900 | INFO | [23/149] Processing: Cryptoassets - The Innovative Investor's Guide to Bitcoin and Beyond 2017.pdf
+2026-09-26 05:00:35,900 | INFO | SKIP (resume): Cryptoassets - The Innovative Investor's Guide to Bitcoin and Beyond 2017
+2026-09-26 05:00:35,903 | INFO | [24/149] Processing: Currency Strategy - The Practitioners Guide to Currency Investing, Hedging and Forecasting 2002.pdf
+2026-09-26 05:00:35,903 | INFO | SKIP (resume): Currency Strategy - The Practitioners Guide to Currency Investing, Hedging and Forecasting 2002
+2026-09-26 05:00:35,906 | INFO | [25/149] Processing: Currency Trading For Dummies 2nd edition 2011.pdf
+2026-09-26 05:00:35,906 | INFO | SKIP (resume): Currency Trading For Dummies 2nd edition 2011
+2026-09-26 05:00:35,909 | INFO | [26/149] Processing: Currency Trading and Intermarket Analysis - How to Profit from the Shifting Currents in Global Markets 2008.pdf
+2026-09-26 05:00:35,909 | INFO | SKIP (resume): Currency Trading and Intermarket Analysis - How to Profit from the Shifting Currents in Global Markets 2008
+2026-09-26 05:00:35,912 | INFO | [27/149] Processing: Dave Landry on Swing Trading 2001.pdf
+2026-09-26 05:00:35,912 | INFO | SKIP (resume): Dave Landry on Swing Trading 2001
+2026-09-26 05:00:35,915 | INFO | [28/149] Processing: Day Trading For Dummies 2008.pdf
+2026-09-26 05:00:35,915 | INFO | SKIP (resume): Day Trading For Dummies 2008
+2026-09-26 05:00:35,918 | INFO | [29/149] Processing: Day Trading For Dummies 3rd edition 2014.epub
+2026-09-26 05:00:35,919 | INFO | SKIP (resume): Day Trading For Dummies 3rd edition 2014
+2026-09-26 05:00:35,922 | INFO | [30/149] Processing: Day Trading For Dummies 3rd edition 2014.pdf
+2026-09-26 05:00:35,922 | INFO | SKIP (resume): Day Trading For Dummies 3rd edition 2014
+2026-09-26 05:00:35,925 | INFO | [31/149] Processing: Day Trading and Swing Trading the Currency Market - Technical and Fundamental Strategies to Profit from Market Moves 2nd edition 2008.pdf
+2026-09-26 05:00:35,925 | INFO | SKIP (resume): Day Trading and Swing Trading the Currency Market - Technical and Fundamental Strategies to Profit from Market Moves 2nd edition 2008
+2026-09-26 05:00:35,928 | INFO | [32/149] Processing: Day Trading the Currency Market - Technical and Fundamental Strategies To Profit from Market Swings 2005.pdf
+2026-09-26 05:00:35,928 | INFO | SKIP (resume): Day Trading the Currency Market - Technical and Fundamental Strategies To Profit from Market Swings 2005
+2026-09-26 05:00:35,931 | INFO | [33/149] Processing: Dual Momentum Investing - An Innovative Strategy for Higher Returns with Lower Risk 2015.epub
+2026-09-26 05:00:35,931 | INFO | SKIP (resume): Dual Momentum Investing - An Innovative Strategy for Higher Returns with Lower Risk 2015
+2026-09-26 05:00:35,934 | INFO | [34/149] Processing: Encyclopedia of Chart Patterns 2nd edition 2005.pdf
+2026-09-26 05:00:35,934 | INFO | SKIP (resume): Encyclopedia of Chart Patterns 2nd edition 2005
+2026-09-26 05:00:35,937 | INFO | [35/149] Processing: Essentials of Foreign Exchange Trading 2009.pdf
+2026-09-26 05:00:35,938 | INFO | SKIP (resume): Essentials of Foreign Exchange Trading 2009
+2026-09-26 05:00:35,940 | INFO | [36/149] Processing: Evidence-Based Technical Analysis - Applying the Scientific Method and Statistical Inference to Trading Signals 2007.pdf
+2026-09-26 05:00:35,941 | INFO | SKIP (resume): Evidence-Based Technical Analysis - Applying the Scientific Method and Statistical Inference to Trading Signals 2007
+2026-09-26 05:00:35,944 | INFO | [37/149] Processing: Extraordinary Popular Delusions and The Madness of Crowds 2001.pdf
+2026-09-26 05:00:35,944 | INFO | SKIP (resume): Extraordinary Popular Delusions and The Madness of Crowds 2001
+2026-09-26 05:00:35,947 | INFO | [38/149] Processing: Flash Boys - A Wall Street Revolt 2015.epub
+2026-09-26 05:00:35,947 | INFO | SKIP (resume): Flash Boys - A Wall Street Revolt 2015
+2026-09-26 05:00:35,950 | INFO | [39/149] Processing: Fooled by Randomness - The Hidden Role of Chance in Life and in the Markets 2005.epub
+2026-09-26 05:00:35,950 | INFO | SKIP (resume): Fooled by Randomness - The Hidden Role of Chance in Life and in the Markets 2005
+2026-09-26 05:00:35,953 | INFO | [40/149] Processing: Fooled by Randomness - The Hidden Role of Chance in Life and in the Markets 2005.pdf
+2026-09-26 05:00:35,954 | INFO | SKIP (resume): Fooled by Randomness - The Hidden Role of Chance in Life and in the Markets 2005
+2026-09-26 05:00:35,956 | INFO | [41/149] Processing: Forex Patterns and Probabilities - Trading Strategies for Trending and Range-Bound Markets 2007.pdf
+2026-09-26 05:00:35,957 | INFO | SKIP (resume): Forex Patterns and Probabilities - Trading Strategies for Trending and Range-Bound Markets 2007
+2026-09-26 05:00:35,959 | INFO | [42/149] Processing: Forex Trading Basics & Secrets Volume 3.0.pdf
+2026-09-26 05:00:35,960 | INFO | SKIP (resume): Forex Trading Basics & Secrets Volume 3.0
+2026-09-26 05:00:35,963 | INFO | [43/149] Processing: Forex Trading Secrets - Trading Strategies for the Forex Market 2010.pdf
+2026-09-26 05:00:35,963 | INFO | SKIP (resume): Forex Trading Secrets - Trading Strategies for the Forex Market 2010
+2026-09-26 05:00:35,966 | INFO | [44/149] Processing: Forex for Beginners - A Comprehensive Guide to Profiting from the Global Currency Markets 2012.pdf
+2026-09-26 05:00:35,966 | INFO | SKIP (resume): Forex for Beginners - A Comprehensive Guide to Profiting from the Global Currency Markets 2012
+2026-09-26 05:00:35,969 | INFO | [45/149] Processing: Fundamental Analysis For Dummies 2009.pdf
+2026-09-26 05:00:35,969 | INFO | SKIP (resume): Fundamental Analysis For Dummies 2009
+2026-09-26 05:00:35,972 | INFO | [46/149] Processing: Getting Started in Candlestick Charting 2008.pdf
+2026-09-26 05:00:35,972 | INFO | SKIP (resume): Getting Started in Candlestick Charting 2008
+2026-09-26 05:00:35,975 | INFO | [47/149] Processing: Harmonic Trading, Volume One - Profiting from the Natural Order of the Financial Markets 2010.pdf
+2026-09-26 05:00:35,975 | INFO | SKIP (resume): Harmonic Trading, Volume One - Profiting from the Natural Order of the Financial Markets 2010
+2026-09-26 05:00:35,978 | INFO | [48/149] Processing: Harmonic Trading, Volume Two - Advanced Strategies for Profiting from the Natural Order of the Financial Markets 2010.pdf
+2026-09-26 05:00:35,978 | INFO | SKIP (resume): Harmonic Trading, Volume Two - Advanced Strategies for Profiting from the Natural Order of the Financial Markets 2010
+2026-09-26 05:00:35,981 | INFO | [49/149] Processing: High Probability Trading Strategies - Entry to Exit Tactics for the Forex, Futures, and Stock Markets 2008.pdf
+2026-09-26 05:00:35,981 | INFO | SKIP (resume): High Probability Trading Strategies - Entry to Exit Tactics for the Forex, Futures, and Stock Markets 2008
+2026-09-26 05:00:35,983 | INFO | [50/149] Processing: How to Day Trade for a Living - Tools, Tactics, Money Management, Discipline and Trading Psychology 3rd edition.epub
+2026-09-26 05:00:35,984 | INFO | SKIP (resume): How to Day Trade for a Living - Tools, Tactics, Money Management, Discipline and Trading Psychology 3rd edition
+2026-09-26 05:00:35,986 | INFO | [51/149] Processing: How to Make Money in Stocks - A Winning System in Good Times and Bad 4th edition 2009.epub
+2026-09-26 05:00:35,987 | INFO | SKIP (resume): How to Make Money in Stocks - A Winning System in Good Times and Bad 4th edition 2009
+2026-09-26 05:00:35,991 | INFO | [52/149] Processing: How to Make Money in Stocks - A Winning System in Good Times and Bad 4th edition 2009.pdf
+2026-09-26 05:00:35,992 | INFO | SKIP (resume): How to Make Money in Stocks - A Winning System in Good Times and Bad 4th edition 2009
+2026-09-26 05:00:35,995 | INFO | [53/149] Processing: How to Make a Living Trading Foreign Exchange - A Guaranteed Income for Life 2010.pdf
+2026-09-26 05:00:35,995 | INFO | SKIP (resume): How to Make a Living Trading Foreign Exchange - A Guaranteed Income for Life 2010
+2026-09-26 05:00:35,998 | INFO | [54/149] Processing: Inside the Currency Market - Mechanics, Valuation and Strategies 2011.pdf
+2026-09-26 05:00:35,999 | INFO | SKIP (resume): Inside the Currency Market - Mechanics, Valuation and Strategies 2011
+2026-09-26 05:00:36,002 | INFO | [55/149] Processing: Intermarket Trading Strategies 2009.pdf
+2026-09-26 05:00:36,002 | INFO | SKIP (resume): Intermarket Trading Strategies 2009
+2026-09-26 05:00:36,006 | INFO | [56/149] Processing: Irrational Exuberance (Revised and Expanded) 3rd edition 2016.pdf
+2026-09-26 05:00:36,007 | INFO | SKIP (resume): Irrational Exuberance (Revised and Expanded) 3rd edition 2016
+2026-09-26 05:00:36,011 | INFO | [57/149] Processing: Irrational Exuberance 2000.pdf
+2026-09-26 05:00:36,011 | INFO | SKIP (resume): Irrational Exuberance 2000
+2026-09-26 05:00:36,015 | INFO | [58/149] Processing: Irrational Exuberance 2nd edition 2006.epub
+2026-09-26 05:00:36,015 | INFO | SKIP (resume): Irrational Exuberance 2nd edition 2006
+2026-09-26 05:00:36,018 | INFO | [59/149] Processing: Japanese Candlestick Charting Techniques - A Contemporary Guide to the Ancient Investment Techniques of the Far East 1991.pdf
+2026-09-26 05:00:36,019 | INFO | SKIP (resume): Japanese Candlestick Charting Techniques - A Contemporary Guide to the Ancient Investment Techniques of the Far East 1991
+2026-09-26 05:00:36,023 | INFO | [60/149] Processing: Japanese Candlestick Charting Techniques 2nd edition 2001 (1).pdf
+2026-09-26 05:00:36,023 | INFO | SKIP (resume): Japanese Candlestick Charting Techniques 2nd edition 2001 (1)
+2026-09-26 05:00:36,026 | INFO | [61/149] Processing: Japanese Candlestick Charting Techniques 2nd edition 2001.pdf
+2026-09-26 05:00:36,027 | INFO | SKIP (resume): Japanese Candlestick Charting Techniques 2nd edition 2001
+2026-09-26 05:00:36,031 | INFO | [62/149] Processing: Jesse Livermore - World's Greatest Stock Trader 2001.pdf
+2026-09-26 05:00:36,031 | INFO | SKIP (resume): Jesse Livermore - World's Greatest Stock Trader 2001
+2026-09-26 05:00:36,034 | INFO | [63/149] Processing: Liar's Poker - Rising Through the Wreckage on Wall Street.pdf
+2026-09-26 05:00:36,035 | INFO | SKIP (resume): Liar's Poker - Rising Through the Wreckage on Wall Street
+2026-09-26 05:00:36,038 | INFO | [64/149] Processing: Long-Term Secrets to Short-Term Trading 1999.pdf
+2026-09-26 05:00:36,038 | INFO | SKIP (resume): Long-Term Secrets to Short-Term Trading 1999
+2026-09-26 05:00:36,041 | INFO | [65/149] Processing: Market Wizards - Interviews With Top Traders 2012.pdf
+2026-09-26 05:00:36,041 | INFO | SKIP (resume): Market Wizards - Interviews With Top Traders 2012
+2026-09-26 05:00:36,044 | INFO | [66/149] Processing: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2006.pdf
+2026-09-26 05:00:36,044 | INFO | SKIP (resume): Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2006
+2026-09-26 05:00:36,047 | INFO | [67/149] Processing: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2006.pdf (1).pdf
+2026-09-26 05:00:36,048 | INFO | SKIP (resume): Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2006.pdf (1)
+2026-09-26 05:00:36,050 | INFO | [68/149] Processing: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2nd edition 2012 (1) - annotated.pdf
+2026-09-26 05:00:36,051 | INFO | SKIP (resume): Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2nd edition 2012 (1) - annotated
+2026-09-26 05:00:36,054 | INFO | [69/149] Processing: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2nd edition 2012 (1).pdf
+2026-09-26 05:00:36,055 | INFO | SKIP (resume): Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2nd edition 2012 (1)
+2026-09-26 05:00:36,057 | INFO | [70/149] Processing: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2nd edition 2012.pdf
+2026-09-26 05:00:36,058 | INFO | SKIP (resume): Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2nd edition 2012
+2026-09-26 05:00:36,060 | INFO | [71/149] Processing: Millionaire Traders - How Everyday People Are Beating Wall Street at Its Own Game 2007.pdf
+2026-09-26 05:00:36,061 | INFO | SKIP (resume): Millionaire Traders - How Everyday People Are Beating Wall Street at Its Own Game 2007
+2026-09-26 05:00:36,063 | INFO | [72/149] Processing: Naked Forex - High-Probability Techniques for Trading Without Indicators 2012.pdf
+2026-09-26 05:00:36,064 | INFO | SKIP (resume): Naked Forex - High-Probability Techniques for Trading Without Indicators 2012
+2026-09-26 05:00:36,066 | INFO | [73/149] Processing: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2nd edition 2012 (1) - annotated.pdf
+2026-09-26 05:00:36,067 | INFO | SKIP (resume): Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2nd edition 2012 (1) - annotated
+2026-09-26 05:00:36,070 | INFO | [74/149] Processing: The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012 - annotated.pdf
+2026-09-26 05:00:36,070 | INFO | SKIP (resume): The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012 - annotated
+2026-09-26 05:00:36,073 | INFO | [75/149] Processing: New Frontiers in Technical Analysis - Effective Tools and Strategies for Trading and Investing 2011.pdf
+2026-09-26 05:00:36,073 | INFO | SKIP (resume): New Frontiers in Technical Analysis - Effective Tools and Strategies for Trading and Investing 2011
+2026-09-26 05:00:36,076 | INFO | [76/149] Processing: One Up On Wall Street 2000.epub
+2026-09-26 05:00:36,076 | INFO | SKIP (resume): One Up On Wall Street 2000
+2026-09-26 05:00:36,079 | INFO | [77/149] Processing: Option Spread Strategies - Trading Up, Down, and Sideways Markets 2009.pdf
+2026-09-26 05:00:36,079 | INFO | SKIP (resume): Option Spread Strategies - Trading Up, Down, and Sideways Markets 2009
+2026-09-26 05:00:36,082 | INFO | [78/149] Processing: Option Volatility & Pricing - Advanced Trading Strategies and Techniques 1994.pdf
+2026-09-26 05:00:36,082 | INFO | SKIP (resume): Option Volatility & Pricing - Advanced Trading Strategies and Techniques 1994
+2026-09-26 05:00:36,085 | INFO | [79/149] Processing: Principles - Life and Work 2017.epub
+2026-09-26 05:00:36,085 | INFO | SKIP (resume): Principles - Life and Work 2017
+2026-09-26 05:00:36,088 | INFO | [80/149] Processing: Reminiscences of a Stock Operator 2005.epub
+2026-09-26 05:00:36,088 | INFO | SKIP (resume): Reminiscences of a Stock Operator 2005
+2026-09-26 05:00:36,091 | INFO | [81/149] Processing: Reminiscences of a Stock Operator 2006.pdf
+2026-09-26 05:00:36,091 | INFO | SKIP (resume): Reminiscences of a Stock Operator 2006
+2026-09-26 05:00:36,094 | INFO | [82/149] Processing: Reminiscences of a Stock Operator 2008.epub
+2026-09-26 05:00:36,094 | INFO | SKIP (resume): Reminiscences of a Stock Operator 2008
+2026-09-26 05:00:36,097 | INFO | [83/149] Processing: Reminiscences of a Stock Operator 2008.pdf
+2026-09-26 05:00:36,097 | INFO | SKIP (resume): Reminiscences of a Stock Operator 2008
+2026-09-26 05:00:36,100 | INFO | [84/149] Processing: Sentiment in the Forex Market - Indicators and Strategies To Profit from Crowd Behavior and Market Extremes 2008.pdf
+2026-09-26 05:00:36,100 | INFO | SKIP (resume): Sentiment in the Forex Market - Indicators and Strategies To Profit from Crowd Behavior and Market Extremes 2008
+2026-09-26 05:00:36,102 | INFO | [85/149] Processing: Stock Market Wizards - Interviews with America's Top Stock Traders 2001.pdf
+2026-09-26 05:00:36,103 | INFO | SKIP (resume): Stock Market Wizards - Interviews with America's Top Stock Traders 2001
+2026-09-26 05:00:36,105 | INFO | [86/149] Processing: Swing Trading For Dummies 2008.pdf
+2026-09-26 05:00:36,106 | INFO | SKIP (resume): Swing Trading For Dummies 2008
+2026-09-26 05:00:36,110 | INFO | [87/149] Processing: Technical Analysis - The Complete Resource for Financial Market Technicians 2006.pdf
+2026-09-26 05:00:36,110 | INFO | SKIP (resume): Technical Analysis - The Complete Resource for Financial Market Technicians 2006
+2026-09-26 05:00:36,113 | INFO | [88/149] Processing: Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2010.pdf
+2026-09-26 05:00:36,113 | INFO | SKIP (resume): Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2010
+2026-09-26 05:00:36,116 | INFO | [89/149] Processing: Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2011.pdf
+2026-09-26 05:00:36,116 | INFO | SKIP (resume): Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2011
+2026-09-26 05:00:36,119 | INFO | [90/149] Processing: Technical Analysis Explained - The Successful Investor's Guide to Spotting Investment Trends and Turning Points 4th edition 2002.pdf
+2026-09-26 05:00:36,333 | INFO | START: Technical Analysis Explained - The Successful Investor's Guide to Spotting Investment Trends and Turning Points 4th edition 2002.pdf
+2026-09-27 09:54:24,669 | INFO | DONE: Technical Analysis Explained - The Successful Investor's Guide to Spotting Investment Trends and Turning Points 4th edition 2002 | 329 pages | 953328 chars | 104004.5s
+2026-09-27 09:54:25,069 | INFO | [91/149] Processing: Technical Analysis For Dummies 2nd edition 2011.pdf
+2026-09-27 09:54:25,071 | INFO | SKIP (resume): Technical Analysis For Dummies 2nd edition 2011
+2026-09-27 09:54:25,074 | INFO | [92/149] Processing: Technical Analysis and Stock Market Profits 2005.pdf
+2026-09-27 09:54:25,075 | INFO | SKIP (resume): Technical Analysis and Stock Market Profits 2005
+2026-09-27 09:54:25,079 | INFO | [93/149] Processing: Technical Analysis for the Trading Professional - Strategies and Techniques for Today’s Turbulent Global Financial Markets 2nd edition 2012.pdf
+2026-09-27 09:54:25,079 | INFO | SKIP (resume): Technical Analysis for the Trading Professional - Strategies and Techniques for Today’s Turbulent Global Financial Markets 2nd edition 2012
+2026-09-27 09:54:25,082 | INFO | [94/149] Processing: Technical Analysis of Stock Trends 9th edition 2007.pdf
+2026-09-27 09:54:25,889 | INFO | START: Technical Analysis of Stock Trends 9th edition 2007.pdf
+2026-09-27 18:09:19,571 | INFO | DONE: Technical Analysis of Stock Trends 9th edition 2007 | 795 pages | 1854658 chars | 29668.3s
+2026-09-27 18:09:20,687 | INFO | [95/149] Processing: Technical Analysis of Stock Trends Explained - An Easy-to-Understand System for Successful Trading 2013.epub
+2026-09-27 18:09:20,688 | INFO | SKIP (resume): Technical Analysis of Stock Trends Explained - An Easy-to-Understand System for Successful Trading 2013
+2026-09-27 18:09:20,691 | INFO | [96/149] Processing: Technical Analysis of the Financial Markets - A Comprehensive Guide to Trading Methods and Applications 1999.pdf
+2026-09-27 18:09:20,692 | INFO | SKIP (resume): Technical Analysis of the Financial Markets - A Comprehensive Guide to Trading Methods and Applications 1999
+2026-09-27 18:09:20,696 | INFO | [97/149] Processing: The 10 Essentials of Forex Trading - The Rules for Turning Trading Patterns Into Profit 2007.pdf
+2026-09-27 18:09:20,697 | INFO | SKIP (resume): The 10 Essentials of Forex Trading - The Rules for Turning Trading Patterns Into Profit 2007
+2026-09-27 18:09:20,700 | INFO | [98/149] Processing: The Alchemy of Finance - Reading the Mind of the Market 2nd edition 1994.pdf
+2026-09-27 18:09:20,703 | INFO | SKIP (resume): The Alchemy of Finance - Reading the Mind of the Market 2nd edition 1994
+2026-09-27 18:09:20,707 | INFO | [99/149] Processing: The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012.pdf
+2026-09-27 18:09:20,749 | INFO | SKIP (resume): The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012
+2026-09-27 18:09:20,754 | INFO | [100/149] Processing: The Big Short - Inside the Doomsday Machine 2011.epub
+2026-09-27 18:09:20,755 | INFO | SKIP (resume): The Big Short - Inside the Doomsday Machine 2011
+2026-09-27 18:09:20,760 | INFO | [101/149] Processing: The Broker 2005.pdf
+2026-09-27 18:09:20,761 | INFO | SKIP (resume): The Broker 2005
+2026-09-27 18:09:20,766 | INFO | [102/149] Processing: The Candlestick Course 2003.pdf
+2026-09-27 18:09:20,767 | INFO | SKIP (resume): The Candlestick Course 2003
+2026-09-27 18:09:20,828 | INFO | [103/149] Processing: The Commitments of Traders Bible - How To Profit from Insider Market Intelligence 2008.pdf
+2026-09-27 18:09:20,831 | INFO | SKIP (resume): The Commitments of Traders Bible - How To Profit from Insider Market Intelligence 2008
+2026-09-27 18:09:20,836 | INFO | [104/149] Processing: The Complete Trading Course - Price Patterns, Strategies, Setups, and Execution Tactics 2011.pdf
+2026-09-27 18:09:20,837 | INFO | SKIP (resume): The Complete Trading Course - Price Patterns, Strategies, Setups, and Execution Tactics 2011
+2026-09-27 18:09:20,842 | INFO | [105/149] Processing: The Complete Turtle Trader - The Legend, the Lessons, the Results 2007.pdf
+2026-09-27 18:09:20,842 | INFO | SKIP (resume): The Complete Turtle Trader - The Legend, the Lessons, the Results 2007
+2026-09-27 18:09:20,846 | INFO | [106/149] Processing: The Disciplined Trader - Developing Winning Attitudes 1990 - annotated.pdf
+2026-09-27 18:09:20,846 | INFO | SKIP (resume): The Disciplined Trader - Developing Winning Attitudes 1990 - annotated
+2026-09-27 18:09:20,850 | INFO | [107/149] Processing: The Disciplined Trader - Developing Winning Attitudes 1990.pdf
+2026-09-27 18:09:20,850 | INFO | SKIP (resume): The Disciplined Trader - Developing Winning Attitudes 1990
+2026-09-27 18:09:20,853 | INFO | [108/149] Processing: The Encyclopedia of Trading Strategies 2000.pdf
+2026-09-27 18:09:20,853 | INFO | SKIP (resume): The Encyclopedia of Trading Strategies 2000
+2026-09-27 18:09:20,856 | INFO | [109/149] Processing: The Essays of Warren Buffett - Lessons for Corporate America 1998.pdf
+2026-09-27 18:09:20,857 | INFO | SKIP (resume): The Essays of Warren Buffett - Lessons for Corporate America 1998
+2026-09-27 18:09:20,909 | INFO | [110/149] Processing: The Five Rules for Successful Stock Investing - Morningstar's Guide to Building Wealth and Winning in the Market 2004.pdf
+2026-09-27 18:09:21,807 | INFO | START: The Five Rules for Successful Stock Investing - Morningstar's Guide to Building Wealth and Winning in the Market 2004.pdf
+2026-09-27 20:00:17,822 | INFO | ======================================================================
+2026-09-27 20:00:17,823 | INFO | DOCLING BATCH PROCESSOR STARTING
+2026-09-27 20:00:17,823 | INFO | Repository: /data/gnidart
+2026-09-27 20:00:17,823 | INFO | Output: /data/gnidart/output
+2026-09-27 20:00:18,197 | INFO | Found 150 supported files (PDF/EPUB)
+2026-09-27 20:00:25,394 | INFO | DEDUP: Algorithmic Trading - Winning Strategies and Their Rationale 2013 - annotated.pdf is identical to Algorithmic Trading - Winning Strategies and Their Rationale 2013.pdf
+2026-09-27 20:00:34,021 | INFO | Skipped 1 duplicate files
+2026-09-27 20:00:34,022 | INFO | Loaded existing manifest with 141 entries
+2026-09-27 20:00:34,196 | INFO | Docling converter initialized
+2026-09-27 20:00:34,197 | INFO | [1/149] Processing: 17 Proven Currency Trading Strategies - How to Profit in the Forex Market 2013.pdf
+2026-09-27 20:00:34,197 | INFO | SKIP (resume): 17 Proven Currency Trading Strategies - How to Profit in the Forex Market 2013
+2026-09-27 20:00:34,200 | INFO | [2/149] Processing: A Complete Guide To Volume Price Analysis 2013.epub
+2026-09-27 20:00:34,200 | INFO | SKIP (resume): A Complete Guide To Volume Price Analysis 2013
+2026-09-27 20:00:34,203 | INFO | [3/149] Processing: A Complete Guide To Volume Price Analysis 2013.pdf
+2026-09-27 20:00:34,203 | INFO | SKIP (resume): A Complete Guide To Volume Price Analysis 2013
+2026-09-27 20:00:34,206 | INFO | [4/149] Processing: A Complete Guide to Technical Trading Tactics - How to Profit Using Pivot Points, Candlesticks & Other Indicators 2004.pdf
+2026-09-27 20:00:34,206 | INFO | SKIP (resume): A Complete Guide to Technical Trading Tactics - How to Profit Using Pivot Points, Candlesticks & Other Indicators 2004
+2026-09-27 20:00:34,209 | INFO | [5/149] Processing: A Random Walk Down Wall Street - The Time-Tested Strategy for Successful Investing 10th edition 2012.epub
+2026-09-27 20:00:34,209 | INFO | SKIP (resume): A Random Walk Down Wall Street - The Time-Tested Strategy for Successful Investing 10th edition 2012
+2026-09-27 20:00:34,212 | INFO | [6/149] Processing: A Random Walk Down Wall Street - The Time-Tested Strategy for Successful Investing 11th edition 2015.epub
+2026-09-27 20:00:34,212 | INFO | SKIP (resume): A Random Walk Down Wall Street - The Time-Tested Strategy for Successful Investing 11th edition 2015
+2026-09-27 20:00:34,215 | INFO | [7/149] Processing: Adventures of a Currency Trader - A Fable about Trading, Courage, and Doing the Right Thing 2007.pdf
+2026-09-27 20:00:34,215 | INFO | SKIP (resume): Adventures of a Currency Trader - A Fable about Trading, Courage, and Doing the Right Thing 2007
+2026-09-27 20:00:34,217 | INFO | [8/149] Processing: Algorithmic Trading - Winning Strategies and Their Rationale 2013.pdf
+2026-09-27 20:00:34,218 | INFO | SKIP (resume): Algorithmic Trading - Winning Strategies and Their Rationale 2013
+2026-09-27 20:00:34,220 | INFO | [9/149] Processing: Attacking Currency Trends - How to Anticipate and Trade Big Moves in the Forex Market 2011.pdf
+2026-09-27 20:00:34,220 | INFO | SKIP (resume): Attacking Currency Trends - How to Anticipate and Trade Big Moves in the Forex Market 2011
+2026-09-27 20:00:34,223 | INFO | [10/149] Processing: Beyond Candlesticks - New Japanese Charting Techniques Revealed 1994 (1) - annotated.pdf
+2026-09-27 20:00:34,223 | INFO | SKIP (resume): Beyond Candlesticks - New Japanese Charting Techniques Revealed 1994 (1) - annotated
+2026-09-27 20:00:34,226 | INFO | [11/149] Processing: Beyond Candlesticks - New Japanese Charting Techniques Revealed 1994 (1).pdf
+2026-09-27 20:00:34,226 | INFO | SKIP (resume): Beyond Candlesticks - New Japanese Charting Techniques Revealed 1994 (1)
+2026-09-27 20:00:34,228 | INFO | [12/149] Processing: Beyond Candlesticks - New Japanese Charting Techniques Revealed 1994.pdf
+2026-09-27 20:00:34,229 | INFO | SKIP (resume): Beyond Candlesticks - New Japanese Charting Techniques Revealed 1994
+2026-09-27 20:00:34,232 | INFO | [13/149] Processing: Boomerang - Travels in the New Third World 2012.pdf
+2026-09-27 20:00:34,232 | INFO | SKIP (resume): Boomerang - Travels in the New Third World 2012
+2026-09-27 20:00:34,234 | INFO | [14/149] Processing: Buffett - The Making of an American Capitalist 2008.epub
+2026-09-27 20:00:34,235 | INFO | SKIP (resume): Buffett - The Making of an American Capitalist 2008
+2026-09-27 20:00:34,237 | INFO | [15/149] Processing: Building Reliable Trading Systems - Tradable Strategies That Perform As They Backtest and Meet Your Risk-Reward Goals 2013.pdf
+2026-09-27 20:00:34,238 | INFO | SKIP (resume): Building Reliable Trading Systems - Tradable Strategies That Perform As They Backtest and Meet Your Risk-Reward Goals 2013
+2026-09-27 20:00:34,240 | INFO | [16/149] Processing: Candlestick Charting Explained 3rd edition 2006.pdf
+2026-09-27 20:00:34,240 | INFO | SKIP (resume): Candlestick Charting Explained 3rd edition 2006
+2026-09-27 20:00:34,243 | INFO | [17/149] Processing: Candlestick Charting For Dummies 2008.pdf
+2026-09-27 20:00:34,243 | INFO | SKIP (resume): Candlestick Charting For Dummies 2008
+2026-09-27 20:00:34,246 | INFO | [18/149] Processing: Candlestick and Pivot Point Trading Triggers - Setups for Stock, Forex, and Futures Markets CDR edition 2006.pdf
+2026-09-27 20:00:34,246 | INFO | SKIP (resume): Candlestick and Pivot Point Trading Triggers - Setups for Stock, Forex, and Futures Markets CDR edition 2006
+2026-09-27 20:00:34,249 | INFO | [19/149] Processing: Chart Your Way To Profits - The Online Trader's Guide to Technical Analysis with ProphetCharts 2nd edition 2010.pdf
+2026-09-27 20:00:34,249 | INFO | SKIP (resume): Chart Your Way To Profits - The Online Trader's Guide to Technical Analysis with ProphetCharts 2nd edition 2010
+2026-09-27 20:00:34,251 | INFO | [20/149] Processing: Come Into My Trading Room (Study Guide) 2002.pdf
+2026-09-27 20:00:34,252 | INFO | SKIP (resume): Come Into My Trading Room (Study Guide) 2002
+2026-09-27 20:00:34,254 | INFO | [21/149] Processing: Come Into My Trading Room - A Complete Guide to Trading 2002.pdf
+2026-09-27 20:00:34,254 | INFO | SKIP (resume): Come Into My Trading Room - A Complete Guide to Trading 2002
+2026-09-27 20:00:34,260 | INFO | [22/149] Processing: Common Stocks and Uncommon Profits and Other Writings 2nd edition 2003.pdf
+2026-09-27 20:00:34,261 | INFO | SKIP (resume): Common Stocks and Uncommon Profits and Other Writings 2nd edition 2003
+2026-09-27 20:00:34,266 | INFO | [23/149] Processing: Cryptoassets - The Innovative Investor's Guide to Bitcoin and Beyond 2017.pdf
+2026-09-27 20:00:34,266 | INFO | SKIP (resume): Cryptoassets - The Innovative Investor's Guide to Bitcoin and Beyond 2017
+2026-09-27 20:00:34,272 | INFO | [24/149] Processing: Currency Strategy - The Practitioners Guide to Currency Investing, Hedging and Forecasting 2002.pdf
+2026-09-27 20:00:34,272 | INFO | SKIP (resume): Currency Strategy - The Practitioners Guide to Currency Investing, Hedging and Forecasting 2002
+2026-09-27 20:00:34,278 | INFO | [25/149] Processing: Currency Trading For Dummies 2nd edition 2011.pdf
+2026-09-27 20:00:34,278 | INFO | SKIP (resume): Currency Trading For Dummies 2nd edition 2011
+2026-09-27 20:00:34,283 | INFO | [26/149] Processing: Currency Trading and Intermarket Analysis - How to Profit from the Shifting Currents in Global Markets 2008.pdf
+2026-09-27 20:00:34,283 | INFO | SKIP (resume): Currency Trading and Intermarket Analysis - How to Profit from the Shifting Currents in Global Markets 2008
+2026-09-27 20:00:34,288 | INFO | [27/149] Processing: Dave Landry on Swing Trading 2001.pdf
+2026-09-27 20:00:34,288 | INFO | SKIP (resume): Dave Landry on Swing Trading 2001
+2026-09-27 20:00:34,293 | INFO | [28/149] Processing: Day Trading For Dummies 2008.pdf
+2026-09-27 20:00:34,293 | INFO | SKIP (resume): Day Trading For Dummies 2008
+2026-09-27 20:00:34,304 | INFO | [29/149] Processing: Day Trading For Dummies 3rd edition 2014.epub
+2026-09-27 20:00:34,304 | INFO | SKIP (resume): Day Trading For Dummies 3rd edition 2014
+2026-09-27 20:00:34,310 | INFO | [30/149] Processing: Day Trading For Dummies 3rd edition 2014.pdf
+2026-09-27 20:00:34,310 | INFO | SKIP (resume): Day Trading For Dummies 3rd edition 2014
+2026-09-27 20:00:34,316 | INFO | [31/149] Processing: Day Trading and Swing Trading the Currency Market - Technical and Fundamental Strategies to Profit from Market Moves 2nd edition 2008.pdf
+2026-09-27 20:00:34,316 | INFO | SKIP (resume): Day Trading and Swing Trading the Currency Market - Technical and Fundamental Strategies to Profit from Market Moves 2nd edition 2008
+2026-09-27 20:00:34,328 | INFO | [32/149] Processing: Day Trading the Currency Market - Technical and Fundamental Strategies To Profit from Market Swings 2005.pdf
+2026-09-27 20:00:34,329 | INFO | SKIP (resume): Day Trading the Currency Market - Technical and Fundamental Strategies To Profit from Market Swings 2005
+2026-09-27 20:00:34,334 | INFO | [33/149] Processing: Dual Momentum Investing - An Innovative Strategy for Higher Returns with Lower Risk 2015.epub
+2026-09-27 20:00:34,334 | INFO | SKIP (resume): Dual Momentum Investing - An Innovative Strategy for Higher Returns with Lower Risk 2015
+2026-09-27 20:00:34,337 | INFO | [34/149] Processing: Encyclopedia of Chart Patterns 2nd edition 2005.pdf
+2026-09-27 20:00:34,337 | INFO | SKIP (resume): Encyclopedia of Chart Patterns 2nd edition 2005
+2026-09-27 20:00:34,340 | INFO | [35/149] Processing: Essentials of Foreign Exchange Trading 2009.pdf
+2026-09-27 20:00:34,340 | INFO | SKIP (resume): Essentials of Foreign Exchange Trading 2009
+2026-09-27 20:00:34,343 | INFO | [36/149] Processing: Evidence-Based Technical Analysis - Applying the Scientific Method and Statistical Inference to Trading Signals 2007.pdf
+2026-09-27 20:00:34,343 | INFO | SKIP (resume): Evidence-Based Technical Analysis - Applying the Scientific Method and Statistical Inference to Trading Signals 2007
+2026-09-27 20:00:34,346 | INFO | [37/149] Processing: Extraordinary Popular Delusions and The Madness of Crowds 2001.pdf
+2026-09-27 20:00:34,346 | INFO | SKIP (resume): Extraordinary Popular Delusions and The Madness of Crowds 2001
+2026-09-27 20:00:34,349 | INFO | [38/149] Processing: Flash Boys - A Wall Street Revolt 2015.epub
+2026-09-27 20:00:34,349 | INFO | SKIP (resume): Flash Boys - A Wall Street Revolt 2015
+2026-09-27 20:00:34,352 | INFO | [39/149] Processing: Fooled by Randomness - The Hidden Role of Chance in Life and in the Markets 2005.epub
+2026-09-27 20:00:34,352 | INFO | SKIP (resume): Fooled by Randomness - The Hidden Role of Chance in Life and in the Markets 2005
+2026-09-27 20:00:34,354 | INFO | [40/149] Processing: Fooled by Randomness - The Hidden Role of Chance in Life and in the Markets 2005.pdf
+2026-09-27 20:00:34,355 | INFO | SKIP (resume): Fooled by Randomness - The Hidden Role of Chance in Life and in the Markets 2005
+2026-09-27 20:00:34,357 | INFO | [41/149] Processing: Forex Patterns and Probabilities - Trading Strategies for Trending and Range-Bound Markets 2007.pdf
+2026-09-27 20:00:34,358 | INFO | SKIP (resume): Forex Patterns and Probabilities - Trading Strategies for Trending and Range-Bound Markets 2007
+2026-09-27 20:00:34,360 | INFO | [42/149] Processing: Forex Trading Basics & Secrets Volume 3.0.pdf
+2026-09-27 20:00:34,361 | INFO | SKIP (resume): Forex Trading Basics & Secrets Volume 3.0
+2026-09-27 20:00:34,363 | INFO | [43/149] Processing: Forex Trading Secrets - Trading Strategies for the Forex Market 2010.pdf
+2026-09-27 20:00:34,363 | INFO | SKIP (resume): Forex Trading Secrets - Trading Strategies for the Forex Market 2010
+2026-09-27 20:00:34,366 | INFO | [44/149] Processing: Forex for Beginners - A Comprehensive Guide to Profiting from the Global Currency Markets 2012.pdf
+2026-09-27 20:00:34,366 | INFO | SKIP (resume): Forex for Beginners - A Comprehensive Guide to Profiting from the Global Currency Markets 2012
+2026-09-27 20:00:34,369 | INFO | [45/149] Processing: Fundamental Analysis For Dummies 2009.pdf
+2026-09-27 20:00:34,369 | INFO | SKIP (resume): Fundamental Analysis For Dummies 2009
+2026-09-27 20:00:34,372 | INFO | [46/149] Processing: Getting Started in Candlestick Charting 2008.pdf
+2026-09-27 20:00:34,372 | INFO | SKIP (resume): Getting Started in Candlestick Charting 2008
+2026-09-27 20:00:34,375 | INFO | [47/149] Processing: Harmonic Trading, Volume One - Profiting from the Natural Order of the Financial Markets 2010.pdf
+2026-09-27 20:00:34,375 | INFO | SKIP (resume): Harmonic Trading, Volume One - Profiting from the Natural Order of the Financial Markets 2010
+2026-09-27 20:00:34,378 | INFO | [48/149] Processing: Harmonic Trading, Volume Two - Advanced Strategies for Profiting from the Natural Order of the Financial Markets 2010.pdf
+2026-09-27 20:00:34,378 | INFO | SKIP (resume): Harmonic Trading, Volume Two - Advanced Strategies for Profiting from the Natural Order of the Financial Markets 2010
+2026-09-27 20:00:34,381 | INFO | [49/149] Processing: High Probability Trading Strategies - Entry to Exit Tactics for the Forex, Futures, and Stock Markets 2008.pdf
+2026-09-27 20:00:34,381 | INFO | SKIP (resume): High Probability Trading Strategies - Entry to Exit Tactics for the Forex, Futures, and Stock Markets 2008
+2026-09-27 20:00:34,384 | INFO | [50/149] Processing: How to Day Trade for a Living - Tools, Tactics, Money Management, Discipline and Trading Psychology 3rd edition.epub
+2026-09-27 20:00:34,384 | INFO | SKIP (resume): How to Day Trade for a Living - Tools, Tactics, Money Management, Discipline and Trading Psychology 3rd edition
+2026-09-27 20:00:34,387 | INFO | [51/149] Processing: How to Make Money in Stocks - A Winning System in Good Times and Bad 4th edition 2009.epub
+2026-09-27 20:00:34,387 | INFO | SKIP (resume): How to Make Money in Stocks - A Winning System in Good Times and Bad 4th edition 2009
+2026-09-27 20:00:34,390 | INFO | [52/149] Processing: How to Make Money in Stocks - A Winning System in Good Times and Bad 4th edition 2009.pdf
+2026-09-27 20:00:34,390 | INFO | SKIP (resume): How to Make Money in Stocks - A Winning System in Good Times and Bad 4th edition 2009
+2026-09-27 20:00:34,393 | INFO | [53/149] Processing: How to Make a Living Trading Foreign Exchange - A Guaranteed Income for Life 2010.pdf
+2026-09-27 20:00:34,393 | INFO | SKIP (resume): How to Make a Living Trading Foreign Exchange - A Guaranteed Income for Life 2010
+2026-09-27 20:00:34,396 | INFO | [54/149] Processing: Inside the Currency Market - Mechanics, Valuation and Strategies 2011.pdf
+2026-09-27 20:00:34,396 | INFO | SKIP (resume): Inside the Currency Market - Mechanics, Valuation and Strategies 2011
+2026-09-27 20:00:34,399 | INFO | [55/149] Processing: Intermarket Trading Strategies 2009.pdf
+2026-09-27 20:00:34,399 | INFO | SKIP (resume): Intermarket Trading Strategies 2009
+2026-09-27 20:00:34,402 | INFO | [56/149] Processing: Irrational Exuberance (Revised and Expanded) 3rd edition 2016.pdf
+2026-09-27 20:00:34,402 | INFO | SKIP (resume): Irrational Exuberance (Revised and Expanded) 3rd edition 2016
+2026-09-27 20:00:34,405 | INFO | [57/149] Processing: Irrational Exuberance 2000.pdf
+2026-09-27 20:00:34,405 | INFO | SKIP (resume): Irrational Exuberance 2000
+2026-09-27 20:00:34,407 | INFO | [58/149] Processing: Irrational Exuberance 2nd edition 2006.epub
+2026-09-27 20:00:34,408 | INFO | SKIP (resume): Irrational Exuberance 2nd edition 2006
+2026-09-27 20:00:34,410 | INFO | [59/149] Processing: Japanese Candlestick Charting Techniques - A Contemporary Guide to the Ancient Investment Techniques of the Far East 1991.pdf
+2026-09-27 20:00:34,411 | INFO | SKIP (resume): Japanese Candlestick Charting Techniques - A Contemporary Guide to the Ancient Investment Techniques of the Far East 1991
+2026-09-27 20:00:34,413 | INFO | [60/149] Processing: Japanese Candlestick Charting Techniques 2nd edition 2001 (1).pdf
+2026-09-27 20:00:34,414 | INFO | SKIP (resume): Japanese Candlestick Charting Techniques 2nd edition 2001 (1)
+2026-09-27 20:00:34,416 | INFO | [61/149] Processing: Japanese Candlestick Charting Techniques 2nd edition 2001.pdf
+2026-09-27 20:00:34,416 | INFO | SKIP (resume): Japanese Candlestick Charting Techniques 2nd edition 2001
+2026-09-27 20:00:34,419 | INFO | [62/149] Processing: Jesse Livermore - World's Greatest Stock Trader 2001.pdf
+2026-09-27 20:00:34,419 | INFO | SKIP (resume): Jesse Livermore - World's Greatest Stock Trader 2001
+2026-09-27 20:00:34,422 | INFO | [63/149] Processing: Liar's Poker - Rising Through the Wreckage on Wall Street.pdf
+2026-09-27 20:00:34,422 | INFO | SKIP (resume): Liar's Poker - Rising Through the Wreckage on Wall Street
+2026-09-27 20:00:34,425 | INFO | [64/149] Processing: Long-Term Secrets to Short-Term Trading 1999.pdf
+2026-09-27 20:00:34,425 | INFO | SKIP (resume): Long-Term Secrets to Short-Term Trading 1999
+2026-09-27 20:00:34,428 | INFO | [65/149] Processing: Market Wizards - Interviews With Top Traders 2012.pdf
+2026-09-27 20:00:34,428 | INFO | SKIP (resume): Market Wizards - Interviews With Top Traders 2012
+2026-09-27 20:00:34,431 | INFO | [66/149] Processing: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2006.pdf
+2026-09-27 20:00:34,431 | INFO | SKIP (resume): Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2006
+2026-09-27 20:00:34,433 | INFO | [67/149] Processing: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2006.pdf (1).pdf
+2026-09-27 20:00:34,433 | INFO | SKIP (resume): Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2006.pdf (1)
+2026-09-27 20:00:34,436 | INFO | [68/149] Processing: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2nd edition 2012 (1) - annotated.pdf
+2026-09-27 20:00:34,437 | INFO | SKIP (resume): Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2nd edition 2012 (1) - annotated
+2026-09-27 20:00:34,439 | INFO | [69/149] Processing: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2nd edition 2012 (1).pdf
+2026-09-27 20:00:34,439 | INFO | SKIP (resume): Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2nd edition 2012 (1)
+2026-09-27 20:00:34,442 | INFO | [70/149] Processing: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2nd edition 2012.pdf
+2026-09-27 20:00:34,442 | INFO | SKIP (resume): Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2nd edition 2012
+2026-09-27 20:00:34,445 | INFO | [71/149] Processing: Millionaire Traders - How Everyday People Are Beating Wall Street at Its Own Game 2007.pdf
+2026-09-27 20:00:34,445 | INFO | SKIP (resume): Millionaire Traders - How Everyday People Are Beating Wall Street at Its Own Game 2007
+2026-09-27 20:00:34,447 | INFO | [72/149] Processing: Naked Forex - High-Probability Techniques for Trading Without Indicators 2012.pdf
+2026-09-27 20:00:34,448 | INFO | SKIP (resume): Naked Forex - High-Probability Techniques for Trading Without Indicators 2012
+2026-09-27 20:00:34,450 | INFO | [73/149] Processing: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2nd edition 2012 (1) - annotated.pdf
+2026-09-27 20:00:34,450 | INFO | SKIP (resume): Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2nd edition 2012 (1) - annotated
+2026-09-27 20:00:34,453 | INFO | [74/149] Processing: The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012 - annotated.pdf
+2026-09-27 20:00:34,453 | INFO | SKIP (resume): The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012 - annotated
+2026-09-27 20:00:34,456 | INFO | [75/149] Processing: New Frontiers in Technical Analysis - Effective Tools and Strategies for Trading and Investing 2011.pdf
+2026-09-27 20:00:34,456 | INFO | SKIP (resume): New Frontiers in Technical Analysis - Effective Tools and Strategies for Trading and Investing 2011
+2026-09-27 20:00:34,459 | INFO | [76/149] Processing: One Up On Wall Street 2000.epub
+2026-09-27 20:00:34,459 | INFO | SKIP (resume): One Up On Wall Street 2000
+2026-09-27 20:00:34,462 | INFO | [77/149] Processing: Option Spread Strategies - Trading Up, Down, and Sideways Markets 2009.pdf
+2026-09-27 20:00:34,462 | INFO | SKIP (resume): Option Spread Strategies - Trading Up, Down, and Sideways Markets 2009
+2026-09-27 20:00:34,464 | INFO | [78/149] Processing: Option Volatility & Pricing - Advanced Trading Strategies and Techniques 1994.pdf
+2026-09-27 20:00:34,465 | INFO | SKIP (resume): Option Volatility & Pricing - Advanced Trading Strategies and Techniques 1994
+2026-09-27 20:00:34,467 | INFO | [79/149] Processing: Principles - Life and Work 2017.epub
+2026-09-27 20:00:34,467 | INFO | SKIP (resume): Principles - Life and Work 2017
+2026-09-27 20:00:34,470 | INFO | [80/149] Processing: Reminiscences of a Stock Operator 2005.epub
+2026-09-27 20:00:34,470 | INFO | SKIP (resume): Reminiscences of a Stock Operator 2005
+2026-09-27 20:00:34,473 | INFO | [81/149] Processing: Reminiscences of a Stock Operator 2006.pdf
+2026-09-27 20:00:34,473 | INFO | SKIP (resume): Reminiscences of a Stock Operator 2006
+2026-09-27 20:00:34,475 | INFO | [82/149] Processing: Reminiscences of a Stock Operator 2008.epub
+2026-09-27 20:00:34,476 | INFO | SKIP (resume): Reminiscences of a Stock Operator 2008
+2026-09-27 20:00:34,478 | INFO | [83/149] Processing: Reminiscences of a Stock Operator 2008.pdf
+2026-09-27 20:00:34,479 | INFO | SKIP (resume): Reminiscences of a Stock Operator 2008
+2026-09-27 20:00:34,481 | INFO | [84/149] Processing: Sentiment in the Forex Market - Indicators and Strategies To Profit from Crowd Behavior and Market Extremes 2008.pdf
+2026-09-27 20:00:34,481 | INFO | SKIP (resume): Sentiment in the Forex Market - Indicators and Strategies To Profit from Crowd Behavior and Market Extremes 2008
+2026-09-27 20:00:34,484 | INFO | [85/149] Processing: Stock Market Wizards - Interviews with America's Top Stock Traders 2001.pdf
+2026-09-27 20:00:34,484 | INFO | SKIP (resume): Stock Market Wizards - Interviews with America's Top Stock Traders 2001
+2026-09-27 20:00:34,487 | INFO | [86/149] Processing: Swing Trading For Dummies 2008.pdf
+2026-09-27 20:00:34,487 | INFO | SKIP (resume): Swing Trading For Dummies 2008
+2026-09-27 20:00:34,490 | INFO | [87/149] Processing: Technical Analysis - The Complete Resource for Financial Market Technicians 2006.pdf
+2026-09-27 20:00:34,490 | INFO | SKIP (resume): Technical Analysis - The Complete Resource for Financial Market Technicians 2006
+2026-09-27 20:00:34,493 | INFO | [88/149] Processing: Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2010.pdf
+2026-09-27 20:00:34,493 | INFO | SKIP (resume): Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2010
+2026-09-27 20:00:34,496 | INFO | [89/149] Processing: Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2011.pdf
+2026-09-27 20:00:34,496 | INFO | SKIP (resume): Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2011
+2026-09-27 20:00:34,498 | INFO | [90/149] Processing: Technical Analysis Explained - The Successful Investor's Guide to Spotting Investment Trends and Turning Points 4th edition 2002.pdf
+2026-09-27 20:00:34,499 | INFO | SKIP (resume): Technical Analysis Explained - The Successful Investor's Guide to Spotting Investment Trends and Turning Points 4th edition 2002
+2026-09-27 20:00:34,501 | INFO | [91/149] Processing: Technical Analysis For Dummies 2nd edition 2011.pdf
+2026-09-27 20:00:34,501 | INFO | SKIP (resume): Technical Analysis For Dummies 2nd edition 2011
+2026-09-27 20:00:34,504 | INFO | [92/149] Processing: Technical Analysis and Stock Market Profits 2005.pdf
+2026-09-27 20:00:34,504 | INFO | SKIP (resume): Technical Analysis and Stock Market Profits 2005
+2026-09-27 20:00:34,507 | INFO | [93/149] Processing: Technical Analysis for the Trading Professional - Strategies and Techniques for Today’s Turbulent Global Financial Markets 2nd edition 2012.pdf
+2026-09-27 20:00:34,507 | INFO | SKIP (resume): Technical Analysis for the Trading Professional - Strategies and Techniques for Today’s Turbulent Global Financial Markets 2nd edition 2012
+2026-09-27 20:00:34,510 | INFO | [94/149] Processing: Technical Analysis of Stock Trends 9th edition 2007.pdf
+2026-09-27 20:00:34,510 | INFO | SKIP (resume): Technical Analysis of Stock Trends 9th edition 2007
+2026-09-27 20:00:34,513 | INFO | [95/149] Processing: Technical Analysis of Stock Trends Explained - An Easy-to-Understand System for Successful Trading 2013.epub
+2026-09-27 20:00:34,513 | INFO | SKIP (resume): Technical Analysis of Stock Trends Explained - An Easy-to-Understand System for Successful Trading 2013
+2026-09-27 20:00:34,515 | INFO | [96/149] Processing: Technical Analysis of the Financial Markets - A Comprehensive Guide to Trading Methods and Applications 1999.pdf
+2026-09-27 20:00:34,516 | INFO | SKIP (resume): Technical Analysis of the Financial Markets - A Comprehensive Guide to Trading Methods and Applications 1999
+2026-09-27 20:00:34,518 | INFO | [97/149] Processing: The 10 Essentials of Forex Trading - The Rules for Turning Trading Patterns Into Profit 2007.pdf
+2026-09-27 20:00:34,519 | INFO | SKIP (resume): The 10 Essentials of Forex Trading - The Rules for Turning Trading Patterns Into Profit 2007
+2026-09-27 20:00:34,521 | INFO | [98/149] Processing: The Alchemy of Finance - Reading the Mind of the Market 2nd edition 1994.pdf
+2026-09-27 20:00:34,521 | INFO | SKIP (resume): The Alchemy of Finance - Reading the Mind of the Market 2nd edition 1994
+2026-09-27 20:00:34,524 | INFO | [99/149] Processing: The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012.pdf
+2026-09-27 20:00:34,524 | INFO | SKIP (resume): The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012
+2026-09-27 20:00:34,527 | INFO | [100/149] Processing: The Big Short - Inside the Doomsday Machine 2011.epub
+2026-09-27 20:00:34,527 | INFO | SKIP (resume): The Big Short - Inside the Doomsday Machine 2011
+2026-09-27 20:00:34,530 | INFO | [101/149] Processing: The Broker 2005.pdf
+2026-09-27 20:00:34,530 | INFO | SKIP (resume): The Broker 2005
+2026-09-27 20:00:34,533 | INFO | [102/149] Processing: The Candlestick Course 2003.pdf
+2026-09-27 20:00:34,533 | INFO | SKIP (resume): The Candlestick Course 2003
+2026-09-27 20:00:34,536 | INFO | [103/149] Processing: The Commitments of Traders Bible - How To Profit from Insider Market Intelligence 2008.pdf
+2026-09-27 20:00:34,536 | INFO | SKIP (resume): The Commitments of Traders Bible - How To Profit from Insider Market Intelligence 2008
+2026-09-27 20:00:34,539 | INFO | [104/149] Processing: The Complete Trading Course - Price Patterns, Strategies, Setups, and Execution Tactics 2011.pdf
+2026-09-27 20:00:34,539 | INFO | SKIP (resume): The Complete Trading Course - Price Patterns, Strategies, Setups, and Execution Tactics 2011
+2026-09-27 20:00:34,542 | INFO | [105/149] Processing: The Complete Turtle Trader - The Legend, the Lessons, the Results 2007.pdf
+2026-09-27 20:00:34,542 | INFO | SKIP (resume): The Complete Turtle Trader - The Legend, the Lessons, the Results 2007
+2026-09-27 20:00:34,545 | INFO | [106/149] Processing: The Disciplined Trader - Developing Winning Attitudes 1990 - annotated.pdf
+2026-09-27 20:00:34,545 | INFO | SKIP (resume): The Disciplined Trader - Developing Winning Attitudes 1990 - annotated
+2026-09-27 20:00:34,548 | INFO | [107/149] Processing: The Disciplined Trader - Developing Winning Attitudes 1990.pdf
+2026-09-27 20:00:34,548 | INFO | SKIP (resume): The Disciplined Trader - Developing Winning Attitudes 1990
+2026-09-27 20:00:34,550 | INFO | [108/149] Processing: The Encyclopedia of Trading Strategies 2000.pdf
+2026-09-27 20:00:34,551 | INFO | SKIP (resume): The Encyclopedia of Trading Strategies 2000
+2026-09-27 20:00:34,553 | INFO | [109/149] Processing: The Essays of Warren Buffett - Lessons for Corporate America 1998.pdf
+2026-09-27 20:00:34,553 | INFO | SKIP (resume): The Essays of Warren Buffett - Lessons for Corporate America 1998
+2026-09-27 20:00:34,556 | INFO | [110/149] Processing: The Five Rules for Successful Stock Investing - Morningstar's Guide to Building Wealth and Winning in the Market 2004.pdf
+2026-09-27 20:00:34,791 | INFO | START: The Five Rules for Successful Stock Investing - Morningstar's Guide to Building Wealth and Winning in the Market 2004.pdf
+2026-09-28 07:28:58,437 | INFO | DONE: The Five Rules for Successful Stock Investing - Morningstar's Guide to Building Wealth and Winning in the Market 2004 | 370 pages | 855723 chars | 41298.0s
+2026-09-28 07:28:59,156 | INFO | [111/149] Processing: The Handbook of Technical Analysis - The Practitioner's Comprehensive Guide to Technical Analysis 2016.pdf
+2026-09-28 07:29:03,486 | INFO | START: The Handbook of Technical Analysis - The Practitioner's Comprehensive Guide to Technical Analysis 2016.pdf
+2026-09-28 23:02:56,441 | INFO | DONE: The Handbook of Technical Analysis - The Practitioner's Comprehensive Guide to Technical Analysis 2016 | 957 pages | 1598739 chars | 56014.1s
+2026-09-28 23:02:58,369 | INFO | [112/149] Processing: The Intelligent Investor - A Book of Practical Counsel 2003.pdf
+2026-09-28 23:02:58,376 | INFO | SKIP (resume): The Intelligent Investor - A Book of Practical Counsel 2003
+2026-09-28 23:02:58,432 | INFO | [113/149] Processing: The Little Book That Beats the Market 2006.pdf
+2026-09-28 23:02:58,433 | INFO | SKIP (resume): The Little Book That Beats the Market 2006
+2026-09-28 23:02:58,441 | INFO | [114/149] Processing: The Little Book of Common Sense Investing - The Only Way to Guarantee Your Fair Share of Stock Market Returns 2007.epub
+2026-09-28 23:02:58,442 | INFO | SKIP (resume): The Little Book of Common Sense Investing - The Only Way to Guarantee Your Fair Share of Stock Market Returns 2007
+2026-09-28 23:02:58,447 | INFO | [115/149] Processing: The Little Book of Common Sense Investing - The Only Way to Guarantee Your Fair Share of Stock Market Returns 2007.pdf
+2026-09-28 23:02:58,448 | INFO | SKIP (resume): The Little Book of Common Sense Investing - The Only Way to Guarantee Your Fair Share of Stock Market Returns 2007
+2026-09-28 23:02:58,451 | INFO | [116/149] Processing: The Little Book of Currency Trading - How to Make Big Profits in the World of Forex 2010.pdf
+2026-09-28 23:02:58,452 | INFO | SKIP (resume): The Little Book of Currency Trading - How to Make Big Profits in the World of Forex 2010
+2026-09-28 23:02:58,521 | INFO | [117/149] Processing: The Market Guys' Five Points for Trading Success - Identify, Pinpoint, Strike, Protect, and Act! 2007.pdf
+2026-09-28 23:02:58,523 | INFO | SKIP (resume): The Market Guys' Five Points for Trading Success - Identify, Pinpoint, Strike, Protect, and Act! 2007
+2026-09-28 23:02:58,527 | INFO | [118/149] Processing: The Master Swing Trader - Tools and Techniques to Profit from Outstanding Short-Term Trading Opportunities 2001.pdf
+2026-09-28 23:02:58,530 | INFO | SKIP (resume): The Master Swing Trader - Tools and Techniques to Profit from Outstanding Short-Term Trading Opportunities 2001
+2026-09-28 23:02:58,533 | INFO | [119/149] Processing: The Master Swing Trader Toolkit - The Market Survival Guide 2010.pdf
+2026-09-28 23:02:58,536 | INFO | SKIP (resume): The Master Swing Trader Toolkit - The Market Survival Guide 2010
+2026-09-28 23:02:58,540 | INFO | [120/149] Processing: The New Market Wizards - Conversations with America's Top Traders 1992.pdf
+2026-09-28 23:02:58,597 | INFO | SKIP (resume): The New Market Wizards - Conversations with America's Top Traders 1992
+2026-09-28 23:02:58,602 | INFO | [121/149] Processing: The New New Thing - A Silicon Valley Story 2014.epub
+2026-09-28 23:02:58,610 | INFO | SKIP (resume): The New New Thing - A Silicon Valley Story 2014
+2026-09-28 23:02:58,617 | INFO | [122/149] Processing: The New Trading for a Living (Study Guide) 2014.pdf
+2026-09-28 23:02:58,674 | INFO | SKIP (resume): The New Trading for a Living (Study Guide) 2014
+2026-09-28 23:02:58,680 | INFO | [123/149] Processing: The New Trading for a Living - Psychology, Discipline, Trading Tools and Systems, Risk Control, Trade Management 2014.pdf
+2026-09-28 23:02:58,683 | INFO | SKIP (resume): The New Trading for a Living - Psychology, Discipline, Trading Tools and Systems, Risk Control, Trade Management 2014
+2026-09-28 23:02:58,692 | INFO | [124/149] Processing: The Sensible Guide to Forex - Safer, Smarter Ways to Survive and Prosper from the Start 2012.pdf
+2026-09-28 23:02:58,693 | INFO | SKIP (resume): The Sensible Guide to Forex - Safer, Smarter Ways to Survive and Prosper from the Start 2012
+2026-09-28 23:02:58,756 | INFO | [125/149] Processing: The Snowball - Warren Buffett and the Business of Life 2009.pdf
+2026-09-28 23:02:58,757 | INFO | SKIP (resume): The Snowball - Warren Buffett and the Business of Life 2009
+2026-09-28 23:02:58,853 | INFO | [126/149] Processing: The Trend Following Bible - How Professional Traders Compound Wealth and Manage Risk 2012.pdf
+2026-09-28 23:02:58,854 | INFO | SKIP (resume): The Trend Following Bible - How Professional Traders Compound Wealth and Manage Risk 2012
+2026-09-28 23:02:58,990 | INFO | [127/149] Processing: The Visual Investor - How to Spot Market Trends 2nd edition 2009.pdf
+2026-09-28 23:02:58,992 | INFO | SKIP (resume): The Visual Investor - How to Spot Market Trends 2nd edition 2009
+2026-09-28 23:02:59,070 | INFO | [128/149] Processing: The Warren Buffett Way 2nd edition 2005.pdf
+2026-09-28 23:02:59,074 | INFO | SKIP (resume): The Warren Buffett Way 2nd edition 2005
+2026-09-28 23:02:59,080 | INFO | [129/149] Processing: Timing Solutions for Swing Traders - Successful Trading Using Technical Analysis and Financial Astrology 2012.pdf
+2026-09-28 23:02:59,081 | INFO | SKIP (resume): Timing Solutions for Swing Traders - Successful Trading Using Technical Analysis and Financial Astrology 2012
+2026-09-28 23:02:59,086 | INFO | [130/149] Processing: Top Binary Options Trading Strategies - Strategies of Pros Explained for Dummies.pdf
+2026-09-28 23:02:59,092 | INFO | SKIP (resume): Top Binary Options Trading Strategies - Strategies of Pros Explained for Dummies
+2026-09-28 23:02:59,161 | INFO | [131/149] Processing: Trade Like a Pro - 15 High-Profit Trading Strategies 2009.pdf
+2026-09-28 23:02:59,233 | INFO | SKIP (resume): Trade Like a Pro - 15 High-Profit Trading Strategies 2009
+2026-09-28 23:02:59,244 | INFO | [132/149] Processing: Trade What You See - How To Profit from Pattern Recognition 2007.pdf
+2026-09-28 23:02:59,246 | INFO | SKIP (resume): Trade What You See - How To Profit from Pattern Recognition 2007
+2026-09-28 23:02:59,325 | INFO | [133/149] Processing: Trade Your Way to Financial Freedom 2 edition 2006.pdf
+2026-09-28 23:02:59,328 | INFO | SKIP (resume): Trade Your Way to Financial Freedom 2 edition 2006
+2026-09-28 23:02:59,409 | INFO | [134/149] Processing: Trade Your Way to Financial Freedom 2nd edition 2006.pdf
+2026-09-28 23:02:59,409 | INFO | SKIP (resume): Trade Your Way to Financial Freedom 2nd edition 2006
+2026-09-28 23:02:59,413 | INFO | [135/149] Processing: Trading Binary Options - Strategies and Tactics 2nd edition 2016.pdf
+2026-09-28 23:02:59,481 | INFO | SKIP (resume): Trading Binary Options - Strategies and Tactics 2nd edition 2016
+2026-09-28 23:02:59,494 | INFO | [136/149] Processing: Trading ETFs - Gaining an Edge with Technical Analysis 2nd edition 2012.pdf
+2026-09-28 23:02:59,496 | INFO | SKIP (resume): Trading ETFs - Gaining an Edge with Technical Analysis 2nd edition 2012
+2026-09-28 23:02:59,554 | INFO | [137/149] Processing: Trading For Dummies 2nd edition 2009.pdf
+2026-09-28 23:02:59,555 | INFO | SKIP (resume): Trading For Dummies 2nd edition 2009
+2026-09-28 23:02:59,563 | INFO | [138/149] Processing: Trading Price Action Trends - Technical Analysis of Price Charts Bar by Bar for the Serious Trader 2011.pdf
+2026-09-28 23:02:59,564 | INFO | SKIP (resume): Trading Price Action Trends - Technical Analysis of Price Charts Bar by Bar for the Serious Trader 2011
+2026-09-28 23:02:59,570 | INFO | [139/149] Processing: Trading for a Living - Psychology, Trading Tactics, Money Management 1993.pdf
+2026-09-28 23:02:59,571 | INFO | SKIP (resume): Trading for a Living - Psychology, Trading Tactics, Money Management 1993
+2026-09-28 23:02:59,629 | INFO | [140/149] Processing: Trading in the Zone - Master the Market with Confidence, Discipline and a Winning Attitude 2000.pdf
+2026-09-28 23:02:59,631 | INFO | SKIP (resume): Trading in the Zone - Master the Market with Confidence, Discipline and a Winning Attitude 2000
+2026-09-28 23:02:59,635 | INFO | [141/149] Processing: Trading with Ichimoku Clouds - The Essential Guide to Ichimoku Kinko Hyo Technical Analysis 2010.pdf
+2026-09-28 23:02:59,636 | INFO | SKIP (resume): Trading with Ichimoku Clouds - The Essential Guide to Ichimoku Kinko Hyo Technical Analysis 2010
+2026-09-28 23:02:59,639 | INFO | [142/149] Processing: Trend Following - Learn to Make Millions in Up or Down Markets 2009.pdf
+2026-09-28 23:02:59,640 | INFO | SKIP (resume): Trend Following - Learn to Make Millions in Up or Down Markets 2009
+2026-09-28 23:02:59,643 | INFO | [143/149] Processing: Trend Trading for a Living - Learn the Skills and Gain the Confidence to Trade for a Living 2007.pdf
+2026-09-28 23:02:59,647 | INFO | SKIP (resume): Trend Trading for a Living - Learn the Skills and Gain the Confidence to Trade for a Living 2007
+2026-09-28 23:02:59,651 | INFO | [144/149] Processing: Understanding Price Action - Practical Analysis of the 5-Minute Time Frame 2014.pdf
+2026-09-28 23:02:59,652 | INFO | SKIP (resume): Understanding Price Action - Practical Analysis of the 5-Minute Time Frame 2014
+2026-09-28 23:02:59,655 | INFO | [145/149] Processing: University of Berkshire Hathaway - 30 Years of Lessons Learned from Warren Buffett & Charlie Munger at the Annual Shareholders Meeting 2017.epub
+2026-09-28 23:02:59,656 | INFO | SKIP (resume): University of Berkshire Hathaway - 30 Years of Lessons Learned from Warren Buffett & Charlie Munger at the Annual Shareholders Meeting 2017
+2026-09-28 23:02:59,659 | INFO | [146/149] Processing: Visual Guide to Chart Patterns 2012.pdf
+2026-09-28 23:02:59,661 | INFO | SKIP (resume): Visual Guide to Chart Patterns 2012
+2026-09-28 23:02:59,664 | INFO | [147/149] Processing: Way of the Turtle - The Secret Methods that Turned Ordinary People into Legendary Traders 2007.pdf
+2026-09-28 23:02:59,665 | INFO | SKIP (resume): Way of the Turtle - The Secret Methods that Turned Ordinary People into Legendary Traders 2007
+2026-09-28 23:02:59,668 | INFO | [148/149] Processing: When Genius Failed - The Rise and Fall of Long-Term Capital Management 2001.epub
+2026-09-28 23:02:59,677 | INFO | SKIP (resume): When Genius Failed - The Rise and Fall of Long-Term Capital Management 2001
+2026-09-28 23:02:59,712 | INFO | [149/149] Processing: When Genius Failed - The Rise and Fall of Long-Term Capital Management 2001.pdf
+2026-09-28 23:02:59,713 | INFO | SKIP (resume): When Genius Failed - The Rise and Fall of Long-Term Capital Management 2001
+2026-09-28 23:02:59,719 | INFO | ======================================================================
+2026-09-28 23:02:59,719 | INFO | BATCH COMPLETE
+2026-09-28 23:02:59,719 | INFO | Total unique files: 149
+2026-09-28 23:02:59,719 | INFO | Processed: 149
+2026-09-28 23:02:59,719 | INFO | Skipped (resume): 0
+2026-09-28 23:02:59,720 | INFO | Errors: 0
+2026-09-28 23:02:59,720 | INFO | Manifest: /data/gnidart/output/manifest.json
+2026-09-28 23:02:59,729 | INFO | Unsupported/duplicate report: /data/gnidart/output/unsupported_formats.json
+2026-09-29 00:00:18,200 | INFO | ======================================================================
+2026-09-29 00:00:18,200 | INFO | DOCLING BATCH PROCESSOR STARTING
+2026-09-29 00:00:18,201 | INFO | Repository: /data/gnidart
+2026-09-29 00:00:18,201 | INFO | Output: /data/gnidart/output
+2026-09-29 00:00:18,678 | INFO | Found 150 supported files (PDF/EPUB)
+2026-09-29 00:00:25,881 | INFO | DEDUP: Algorithmic Trading - Winning Strategies and Their Rationale 2013 - annotated.pdf is identical to Algorithmic Trading - Winning Strategies and Their Rationale 2013.pdf
+2026-09-29 00:00:34,789 | INFO | Skipped 1 duplicate files
+2026-09-29 00:00:34,791 | INFO | Loaded existing manifest with 141 entries
+2026-09-29 00:00:35,026 | INFO | Docling converter initialized
+2026-09-29 00:00:35,026 | INFO | [1/149] Processing: 17 Proven Currency Trading Strategies - How to Profit in the Forex Market 2013.pdf
+2026-09-29 00:00:35,026 | INFO | SKIP (resume): 17 Proven Currency Trading Strategies - How to Profit in the Forex Market 2013
+2026-09-29 00:00:35,032 | INFO | [2/149] Processing: A Complete Guide To Volume Price Analysis 2013.epub
+2026-09-29 00:00:35,032 | INFO | SKIP (resume): A Complete Guide To Volume Price Analysis 2013
+2026-09-29 00:00:35,035 | INFO | [3/149] Processing: A Complete Guide To Volume Price Analysis 2013.pdf
+2026-09-29 00:00:35,036 | INFO | SKIP (resume): A Complete Guide To Volume Price Analysis 2013
+2026-09-29 00:00:35,039 | INFO | [4/149] Processing: A Complete Guide to Technical Trading Tactics - How to Profit Using Pivot Points, Candlesticks & Other Indicators 2004.pdf
+2026-09-29 00:00:35,039 | INFO | SKIP (resume): A Complete Guide to Technical Trading Tactics - How to Profit Using Pivot Points, Candlesticks & Other Indicators 2004
+2026-09-29 00:00:35,042 | INFO | [5/149] Processing: A Random Walk Down Wall Street - The Time-Tested Strategy for Successful Investing 10th edition 2012.epub
+2026-09-29 00:00:35,042 | INFO | SKIP (resume): A Random Walk Down Wall Street - The Time-Tested Strategy for Successful Investing 10th edition 2012
+2026-09-29 00:00:35,045 | INFO | [6/149] Processing: A Random Walk Down Wall Street - The Time-Tested Strategy for Successful Investing 11th edition 2015.epub
+2026-09-29 00:00:35,046 | INFO | SKIP (resume): A Random Walk Down Wall Street - The Time-Tested Strategy for Successful Investing 11th edition 2015
+2026-09-29 00:00:35,051 | INFO | [7/149] Processing: Adventures of a Currency Trader - A Fable about Trading, Courage, and Doing the Right Thing 2007.pdf
+2026-09-29 00:00:35,051 | INFO | SKIP (resume): Adventures of a Currency Trader - A Fable about Trading, Courage, and Doing the Right Thing 2007
+2026-09-29 00:00:35,056 | INFO | [8/149] Processing: Algorithmic Trading - Winning Strategies and Their Rationale 2013.pdf
+2026-09-29 00:00:35,056 | INFO | SKIP (resume): Algorithmic Trading - Winning Strategies and Their Rationale 2013
+2026-09-29 00:00:35,062 | INFO | [9/149] Processing: Attacking Currency Trends - How to Anticipate and Trade Big Moves in the Forex Market 2011.pdf
+2026-09-29 00:00:35,062 | INFO | SKIP (resume): Attacking Currency Trends - How to Anticipate and Trade Big Moves in the Forex Market 2011
+2026-09-29 00:00:35,069 | INFO | [10/149] Processing: Beyond Candlesticks - New Japanese Charting Techniques Revealed 1994 (1) - annotated.pdf
+2026-09-29 00:00:35,069 | INFO | SKIP (resume): Beyond Candlesticks - New Japanese Charting Techniques Revealed 1994 (1) - annotated
+2026-09-29 00:00:35,075 | INFO | [11/149] Processing: Beyond Candlesticks - New Japanese Charting Techniques Revealed 1994 (1).pdf
+2026-09-29 00:00:35,076 | INFO | SKIP (resume): Beyond Candlesticks - New Japanese Charting Techniques Revealed 1994 (1)
+2026-09-29 00:00:35,083 | INFO | [12/149] Processing: Beyond Candlesticks - New Japanese Charting Techniques Revealed 1994.pdf
+2026-09-29 00:00:35,086 | INFO | SKIP (resume): Beyond Candlesticks - New Japanese Charting Techniques Revealed 1994
+2026-09-29 00:00:35,093 | INFO | [13/149] Processing: Boomerang - Travels in the New Third World 2012.pdf
+2026-09-29 00:00:35,094 | INFO | SKIP (resume): Boomerang - Travels in the New Third World 2012
+2026-09-29 00:00:35,101 | INFO | [14/149] Processing: Buffett - The Making of an American Capitalist 2008.epub
+2026-09-29 00:00:35,101 | INFO | SKIP (resume): Buffett - The Making of an American Capitalist 2008
+2026-09-29 00:00:35,111 | INFO | [15/149] Processing: Building Reliable Trading Systems - Tradable Strategies That Perform As They Backtest and Meet Your Risk-Reward Goals 2013.pdf
+2026-09-29 00:00:35,112 | INFO | SKIP (resume): Building Reliable Trading Systems - Tradable Strategies That Perform As They Backtest and Meet Your Risk-Reward Goals 2013
+2026-09-29 00:00:35,121 | INFO | [16/149] Processing: Candlestick Charting Explained 3rd edition 2006.pdf
+2026-09-29 00:00:35,121 | INFO | SKIP (resume): Candlestick Charting Explained 3rd edition 2006
+2026-09-29 00:00:35,128 | INFO | [17/149] Processing: Candlestick Charting For Dummies 2008.pdf
+2026-09-29 00:00:35,129 | INFO | SKIP (resume): Candlestick Charting For Dummies 2008
+2026-09-29 00:00:35,137 | INFO | [18/149] Processing: Candlestick and Pivot Point Trading Triggers - Setups for Stock, Forex, and Futures Markets CDR edition 2006.pdf
+2026-09-29 00:00:35,140 | INFO | SKIP (resume): Candlestick and Pivot Point Trading Triggers - Setups for Stock, Forex, and Futures Markets CDR edition 2006
+2026-09-29 00:00:35,146 | INFO | [19/149] Processing: Chart Your Way To Profits - The Online Trader's Guide to Technical Analysis with ProphetCharts 2nd edition 2010.pdf
+2026-09-29 00:00:35,147 | INFO | SKIP (resume): Chart Your Way To Profits - The Online Trader's Guide to Technical Analysis with ProphetCharts 2nd edition 2010
+2026-09-29 00:00:35,150 | INFO | [20/149] Processing: Come Into My Trading Room (Study Guide) 2002.pdf
+2026-09-29 00:00:35,151 | INFO | SKIP (resume): Come Into My Trading Room (Study Guide) 2002
+2026-09-29 00:00:35,154 | INFO | [21/149] Processing: Come Into My Trading Room - A Complete Guide to Trading 2002.pdf
+2026-09-29 00:00:35,154 | INFO | SKIP (resume): Come Into My Trading Room - A Complete Guide to Trading 2002
+2026-09-29 00:00:35,157 | INFO | [22/149] Processing: Common Stocks and Uncommon Profits and Other Writings 2nd edition 2003.pdf
+2026-09-29 00:00:35,158 | INFO | SKIP (resume): Common Stocks and Uncommon Profits and Other Writings 2nd edition 2003
+2026-09-29 00:00:35,161 | INFO | [23/149] Processing: Cryptoassets - The Innovative Investor's Guide to Bitcoin and Beyond 2017.pdf
+2026-09-29 00:00:35,162 | INFO | SKIP (resume): Cryptoassets - The Innovative Investor's Guide to Bitcoin and Beyond 2017
+2026-09-29 00:00:35,165 | INFO | [24/149] Processing: Currency Strategy - The Practitioners Guide to Currency Investing, Hedging and Forecasting 2002.pdf
+2026-09-29 00:00:35,165 | INFO | SKIP (resume): Currency Strategy - The Practitioners Guide to Currency Investing, Hedging and Forecasting 2002
+2026-09-29 00:00:35,168 | INFO | [25/149] Processing: Currency Trading For Dummies 2nd edition 2011.pdf
+2026-09-29 00:00:35,168 | INFO | SKIP (resume): Currency Trading For Dummies 2nd edition 2011
+2026-09-29 00:00:35,172 | INFO | [26/149] Processing: Currency Trading and Intermarket Analysis - How to Profit from the Shifting Currents in Global Markets 2008.pdf
+2026-09-29 00:00:35,172 | INFO | SKIP (resume): Currency Trading and Intermarket Analysis - How to Profit from the Shifting Currents in Global Markets 2008
+2026-09-29 00:00:35,175 | INFO | [27/149] Processing: Dave Landry on Swing Trading 2001.pdf
+2026-09-29 00:00:35,176 | INFO | SKIP (resume): Dave Landry on Swing Trading 2001
+2026-09-29 00:00:35,179 | INFO | [28/149] Processing: Day Trading For Dummies 2008.pdf
+2026-09-29 00:00:35,179 | INFO | SKIP (resume): Day Trading For Dummies 2008
+2026-09-29 00:00:35,183 | INFO | [29/149] Processing: Day Trading For Dummies 3rd edition 2014.epub
+2026-09-29 00:00:35,183 | INFO | SKIP (resume): Day Trading For Dummies 3rd edition 2014
+2026-09-29 00:00:35,186 | INFO | [30/149] Processing: Day Trading For Dummies 3rd edition 2014.pdf
+2026-09-29 00:00:35,187 | INFO | SKIP (resume): Day Trading For Dummies 3rd edition 2014
+2026-09-29 00:00:35,190 | INFO | [31/149] Processing: Day Trading and Swing Trading the Currency Market - Technical and Fundamental Strategies to Profit from Market Moves 2nd edition 2008.pdf
+2026-09-29 00:00:35,190 | INFO | SKIP (resume): Day Trading and Swing Trading the Currency Market - Technical and Fundamental Strategies to Profit from Market Moves 2nd edition 2008
+2026-09-29 00:00:35,193 | INFO | [32/149] Processing: Day Trading the Currency Market - Technical and Fundamental Strategies To Profit from Market Swings 2005.pdf
+2026-09-29 00:00:35,193 | INFO | SKIP (resume): Day Trading the Currency Market - Technical and Fundamental Strategies To Profit from Market Swings 2005
+2026-09-29 00:00:35,197 | INFO | [33/149] Processing: Dual Momentum Investing - An Innovative Strategy for Higher Returns with Lower Risk 2015.epub
+2026-09-29 00:00:35,197 | INFO | SKIP (resume): Dual Momentum Investing - An Innovative Strategy for Higher Returns with Lower Risk 2015
+2026-09-29 00:00:35,200 | INFO | [34/149] Processing: Encyclopedia of Chart Patterns 2nd edition 2005.pdf
+2026-09-29 00:00:35,200 | INFO | SKIP (resume): Encyclopedia of Chart Patterns 2nd edition 2005
+2026-09-29 00:00:35,203 | INFO | [35/149] Processing: Essentials of Foreign Exchange Trading 2009.pdf
+2026-09-29 00:00:35,203 | INFO | SKIP (resume): Essentials of Foreign Exchange Trading 2009
+2026-09-29 00:00:35,206 | INFO | [36/149] Processing: Evidence-Based Technical Analysis - Applying the Scientific Method and Statistical Inference to Trading Signals 2007.pdf
+2026-09-29 00:00:35,206 | INFO | SKIP (resume): Evidence-Based Technical Analysis - Applying the Scientific Method and Statistical Inference to Trading Signals 2007
+2026-09-29 00:00:35,209 | INFO | [37/149] Processing: Extraordinary Popular Delusions and The Madness of Crowds 2001.pdf
+2026-09-29 00:00:35,209 | INFO | SKIP (resume): Extraordinary Popular Delusions and The Madness of Crowds 2001
+2026-09-29 00:00:35,212 | INFO | [38/149] Processing: Flash Boys - A Wall Street Revolt 2015.epub
+2026-09-29 00:00:35,212 | INFO | SKIP (resume): Flash Boys - A Wall Street Revolt 2015
+2026-09-29 00:00:35,215 | INFO | [39/149] Processing: Fooled by Randomness - The Hidden Role of Chance in Life and in the Markets 2005.epub
+2026-09-29 00:00:35,215 | INFO | SKIP (resume): Fooled by Randomness - The Hidden Role of Chance in Life and in the Markets 2005
+2026-09-29 00:00:35,218 | INFO | [40/149] Processing: Fooled by Randomness - The Hidden Role of Chance in Life and in the Markets 2005.pdf
+2026-09-29 00:00:35,218 | INFO | SKIP (resume): Fooled by Randomness - The Hidden Role of Chance in Life and in the Markets 2005
+2026-09-29 00:00:35,221 | INFO | [41/149] Processing: Forex Patterns and Probabilities - Trading Strategies for Trending and Range-Bound Markets 2007.pdf
+2026-09-29 00:00:35,221 | INFO | SKIP (resume): Forex Patterns and Probabilities - Trading Strategies for Trending and Range-Bound Markets 2007
+2026-09-29 00:00:35,224 | INFO | [42/149] Processing: Forex Trading Basics & Secrets Volume 3.0.pdf
+2026-09-29 00:00:35,224 | INFO | SKIP (resume): Forex Trading Basics & Secrets Volume 3.0
+2026-09-29 00:00:35,227 | INFO | [43/149] Processing: Forex Trading Secrets - Trading Strategies for the Forex Market 2010.pdf
+2026-09-29 00:00:35,228 | INFO | SKIP (resume): Forex Trading Secrets - Trading Strategies for the Forex Market 2010
+2026-09-29 00:00:35,230 | INFO | [44/149] Processing: Forex for Beginners - A Comprehensive Guide to Profiting from the Global Currency Markets 2012.pdf
+2026-09-29 00:00:35,231 | INFO | SKIP (resume): Forex for Beginners - A Comprehensive Guide to Profiting from the Global Currency Markets 2012
+2026-09-29 00:00:35,234 | INFO | [45/149] Processing: Fundamental Analysis For Dummies 2009.pdf
+2026-09-29 00:00:35,234 | INFO | SKIP (resume): Fundamental Analysis For Dummies 2009
+2026-09-29 00:00:35,237 | INFO | [46/149] Processing: Getting Started in Candlestick Charting 2008.pdf
+2026-09-29 00:00:35,237 | INFO | SKIP (resume): Getting Started in Candlestick Charting 2008
+2026-09-29 00:00:35,240 | INFO | [47/149] Processing: Harmonic Trading, Volume One - Profiting from the Natural Order of the Financial Markets 2010.pdf
+2026-09-29 00:00:35,240 | INFO | SKIP (resume): Harmonic Trading, Volume One - Profiting from the Natural Order of the Financial Markets 2010
+2026-09-29 00:00:35,243 | INFO | [48/149] Processing: Harmonic Trading, Volume Two - Advanced Strategies for Profiting from the Natural Order of the Financial Markets 2010.pdf
+2026-09-29 00:00:35,243 | INFO | SKIP (resume): Harmonic Trading, Volume Two - Advanced Strategies for Profiting from the Natural Order of the Financial Markets 2010
+2026-09-29 00:00:35,246 | INFO | [49/149] Processing: High Probability Trading Strategies - Entry to Exit Tactics for the Forex, Futures, and Stock Markets 2008.pdf
+2026-09-29 00:00:35,247 | INFO | SKIP (resume): High Probability Trading Strategies - Entry to Exit Tactics for the Forex, Futures, and Stock Markets 2008
+2026-09-29 00:00:35,249 | INFO | [50/149] Processing: How to Day Trade for a Living - Tools, Tactics, Money Management, Discipline and Trading Psychology 3rd edition.epub
+2026-09-29 00:00:35,250 | INFO | SKIP (resume): How to Day Trade for a Living - Tools, Tactics, Money Management, Discipline and Trading Psychology 3rd edition
+2026-09-29 00:00:35,253 | INFO | [51/149] Processing: How to Make Money in Stocks - A Winning System in Good Times and Bad 4th edition 2009.epub
+2026-09-29 00:00:35,253 | INFO | SKIP (resume): How to Make Money in Stocks - A Winning System in Good Times and Bad 4th edition 2009
+2026-09-29 00:00:35,256 | INFO | [52/149] Processing: How to Make Money in Stocks - A Winning System in Good Times and Bad 4th edition 2009.pdf
+2026-09-29 00:00:35,257 | INFO | SKIP (resume): How to Make Money in Stocks - A Winning System in Good Times and Bad 4th edition 2009
+2026-09-29 00:00:35,260 | INFO | [53/149] Processing: How to Make a Living Trading Foreign Exchange - A Guaranteed Income for Life 2010.pdf
+2026-09-29 00:00:35,260 | INFO | SKIP (resume): How to Make a Living Trading Foreign Exchange - A Guaranteed Income for Life 2010
+2026-09-29 00:00:35,263 | INFO | [54/149] Processing: Inside the Currency Market - Mechanics, Valuation and Strategies 2011.pdf
+2026-09-29 00:00:35,264 | INFO | SKIP (resume): Inside the Currency Market - Mechanics, Valuation and Strategies 2011
+2026-09-29 00:00:35,267 | INFO | [55/149] Processing: Intermarket Trading Strategies 2009.pdf
+2026-09-29 00:00:35,267 | INFO | SKIP (resume): Intermarket Trading Strategies 2009
+2026-09-29 00:00:35,270 | INFO | [56/149] Processing: Irrational Exuberance (Revised and Expanded) 3rd edition 2016.pdf
+2026-09-29 00:00:35,270 | INFO | SKIP (resume): Irrational Exuberance (Revised and Expanded) 3rd edition 2016
+2026-09-29 00:00:35,273 | INFO | [57/149] Processing: Irrational Exuberance 2000.pdf
+2026-09-29 00:00:35,273 | INFO | SKIP (resume): Irrational Exuberance 2000
+2026-09-29 00:00:35,276 | INFO | [58/149] Processing: Irrational Exuberance 2nd edition 2006.epub
+2026-09-29 00:00:35,276 | INFO | SKIP (resume): Irrational Exuberance 2nd edition 2006
+2026-09-29 00:00:35,279 | INFO | [59/149] Processing: Japanese Candlestick Charting Techniques - A Contemporary Guide to the Ancient Investment Techniques of the Far East 1991.pdf
+2026-09-29 00:00:35,280 | INFO | SKIP (resume): Japanese Candlestick Charting Techniques - A Contemporary Guide to the Ancient Investment Techniques of the Far East 1991
+2026-09-29 00:00:35,283 | INFO | [60/149] Processing: Japanese Candlestick Charting Techniques 2nd edition 2001 (1).pdf
+2026-09-29 00:00:35,283 | INFO | SKIP (resume): Japanese Candlestick Charting Techniques 2nd edition 2001 (1)
+2026-09-29 00:00:35,286 | INFO | [61/149] Processing: Japanese Candlestick Charting Techniques 2nd edition 2001.pdf
+2026-09-29 00:00:35,286 | INFO | SKIP (resume): Japanese Candlestick Charting Techniques 2nd edition 2001
+2026-09-29 00:00:35,289 | INFO | [62/149] Processing: Jesse Livermore - World's Greatest Stock Trader 2001.pdf
+2026-09-29 00:00:35,289 | INFO | SKIP (resume): Jesse Livermore - World's Greatest Stock Trader 2001
+2026-09-29 00:00:35,292 | INFO | [63/149] Processing: Liar's Poker - Rising Through the Wreckage on Wall Street.pdf
+2026-09-29 00:00:35,292 | INFO | SKIP (resume): Liar's Poker - Rising Through the Wreckage on Wall Street
+2026-09-29 00:00:35,295 | INFO | [64/149] Processing: Long-Term Secrets to Short-Term Trading 1999.pdf
+2026-09-29 00:00:35,295 | INFO | SKIP (resume): Long-Term Secrets to Short-Term Trading 1999
+2026-09-29 00:00:35,298 | INFO | [65/149] Processing: Market Wizards - Interviews With Top Traders 2012.pdf
+2026-09-29 00:00:35,299 | INFO | SKIP (resume): Market Wizards - Interviews With Top Traders 2012
+2026-09-29 00:00:35,301 | INFO | [66/149] Processing: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2006.pdf
+2026-09-29 00:00:35,301 | INFO | SKIP (resume): Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2006
+2026-09-29 00:00:35,304 | INFO | [67/149] Processing: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2006.pdf (1).pdf
+2026-09-29 00:00:35,304 | INFO | SKIP (resume): Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2006.pdf (1)
+2026-09-29 00:00:35,307 | INFO | [68/149] Processing: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2nd edition 2012 (1) - annotated.pdf
+2026-09-29 00:00:35,308 | INFO | SKIP (resume): Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2nd edition 2012 (1) - annotated
+2026-09-29 00:00:35,310 | INFO | [69/149] Processing: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2nd edition 2012 (1).pdf
+2026-09-29 00:00:35,311 | INFO | SKIP (resume): Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2nd edition 2012 (1)
+2026-09-29 00:00:35,314 | INFO | [70/149] Processing: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2nd edition 2012.pdf
+2026-09-29 00:00:35,314 | INFO | SKIP (resume): Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2nd edition 2012
+2026-09-29 00:00:35,317 | INFO | [71/149] Processing: Millionaire Traders - How Everyday People Are Beating Wall Street at Its Own Game 2007.pdf
+2026-09-29 00:00:35,317 | INFO | SKIP (resume): Millionaire Traders - How Everyday People Are Beating Wall Street at Its Own Game 2007
+2026-09-29 00:00:35,320 | INFO | [72/149] Processing: Naked Forex - High-Probability Techniques for Trading Without Indicators 2012.pdf
+2026-09-29 00:00:35,320 | INFO | SKIP (resume): Naked Forex - High-Probability Techniques for Trading Without Indicators 2012
+2026-09-29 00:00:35,323 | INFO | [73/149] Processing: Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2nd edition 2012 (1) - annotated.pdf
+2026-09-29 00:00:35,323 | INFO | SKIP (resume): Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2nd edition 2012 (1) - annotated
+2026-09-29 00:00:35,326 | INFO | [74/149] Processing: The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012 - annotated.pdf
+2026-09-29 00:00:35,327 | INFO | SKIP (resume): The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012 - annotated
+2026-09-29 00:00:35,329 | INFO | [75/149] Processing: New Frontiers in Technical Analysis - Effective Tools and Strategies for Trading and Investing 2011.pdf
+2026-09-29 00:00:35,330 | INFO | SKIP (resume): New Frontiers in Technical Analysis - Effective Tools and Strategies for Trading and Investing 2011
+2026-09-29 00:00:35,332 | INFO | [76/149] Processing: One Up On Wall Street 2000.epub
+2026-09-29 00:00:35,333 | INFO | SKIP (resume): One Up On Wall Street 2000
+2026-09-29 00:00:35,335 | INFO | [77/149] Processing: Option Spread Strategies - Trading Up, Down, and Sideways Markets 2009.pdf
+2026-09-29 00:00:35,336 | INFO | SKIP (resume): Option Spread Strategies - Trading Up, Down, and Sideways Markets 2009
+2026-09-29 00:00:35,339 | INFO | [78/149] Processing: Option Volatility & Pricing - Advanced Trading Strategies and Techniques 1994.pdf
+2026-09-29 00:00:35,339 | INFO | SKIP (resume): Option Volatility & Pricing - Advanced Trading Strategies and Techniques 1994
+2026-09-29 00:00:35,341 | INFO | [79/149] Processing: Principles - Life and Work 2017.epub
+2026-09-29 00:00:35,342 | INFO | SKIP (resume): Principles - Life and Work 2017
+2026-09-29 00:00:35,345 | INFO | [80/149] Processing: Reminiscences of a Stock Operator 2005.epub
+2026-09-29 00:00:35,345 | INFO | SKIP (resume): Reminiscences of a Stock Operator 2005
+2026-09-29 00:00:35,348 | INFO | [81/149] Processing: Reminiscences of a Stock Operator 2006.pdf
+2026-09-29 00:00:35,348 | INFO | SKIP (resume): Reminiscences of a Stock Operator 2006
+2026-09-29 00:00:35,351 | INFO | [82/149] Processing: Reminiscences of a Stock Operator 2008.epub
+2026-09-29 00:00:35,351 | INFO | SKIP (resume): Reminiscences of a Stock Operator 2008
+2026-09-29 00:00:35,354 | INFO | [83/149] Processing: Reminiscences of a Stock Operator 2008.pdf
+2026-09-29 00:00:35,355 | INFO | SKIP (resume): Reminiscences of a Stock Operator 2008
+2026-09-29 00:00:35,358 | INFO | [84/149] Processing: Sentiment in the Forex Market - Indicators and Strategies To Profit from Crowd Behavior and Market Extremes 2008.pdf
+2026-09-29 00:00:35,358 | INFO | SKIP (resume): Sentiment in the Forex Market - Indicators and Strategies To Profit from Crowd Behavior and Market Extremes 2008
+2026-09-29 00:00:35,361 | INFO | [85/149] Processing: Stock Market Wizards - Interviews with America's Top Stock Traders 2001.pdf
+2026-09-29 00:00:35,361 | INFO | SKIP (resume): Stock Market Wizards - Interviews with America's Top Stock Traders 2001
+2026-09-29 00:00:35,364 | INFO | [86/149] Processing: Swing Trading For Dummies 2008.pdf
+2026-09-29 00:00:35,364 | INFO | SKIP (resume): Swing Trading For Dummies 2008
+2026-09-29 00:00:35,367 | INFO | [87/149] Processing: Technical Analysis - The Complete Resource for Financial Market Technicians 2006.pdf
+2026-09-29 00:00:35,368 | INFO | SKIP (resume): Technical Analysis - The Complete Resource for Financial Market Technicians 2006
+2026-09-29 00:00:35,370 | INFO | [88/149] Processing: Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2010.pdf
+2026-09-29 00:00:35,371 | INFO | SKIP (resume): Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2010
+2026-09-29 00:00:35,374 | INFO | [89/149] Processing: Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2011.pdf
+2026-09-29 00:00:35,374 | INFO | SKIP (resume): Technical Analysis - The Complete Resource for Financial Market Technicians 2nd edition 2011
+2026-09-29 00:00:35,377 | INFO | [90/149] Processing: Technical Analysis Explained - The Successful Investor's Guide to Spotting Investment Trends and Turning Points 4th edition 2002.pdf
+2026-09-29 00:00:35,377 | INFO | SKIP (resume): Technical Analysis Explained - The Successful Investor's Guide to Spotting Investment Trends and Turning Points 4th edition 2002
+2026-09-29 00:00:35,380 | INFO | [91/149] Processing: Technical Analysis For Dummies 2nd edition 2011.pdf
+2026-09-29 00:00:35,380 | INFO | SKIP (resume): Technical Analysis For Dummies 2nd edition 2011
+2026-09-29 00:00:35,383 | INFO | [92/149] Processing: Technical Analysis and Stock Market Profits 2005.pdf
+2026-09-29 00:00:35,383 | INFO | SKIP (resume): Technical Analysis and Stock Market Profits 2005
+2026-09-29 00:00:35,386 | INFO | [93/149] Processing: Technical Analysis for the Trading Professional - Strategies and Techniques for Today’s Turbulent Global Financial Markets 2nd edition 2012.pdf
+2026-09-29 00:00:35,386 | INFO | SKIP (resume): Technical Analysis for the Trading Professional - Strategies and Techniques for Today’s Turbulent Global Financial Markets 2nd edition 2012
+2026-09-29 00:00:35,391 | INFO | [94/149] Processing: Technical Analysis of Stock Trends 9th edition 2007.pdf
+2026-09-29 00:00:35,391 | INFO | SKIP (resume): Technical Analysis of Stock Trends 9th edition 2007
+2026-09-29 00:00:35,394 | INFO | [95/149] Processing: Technical Analysis of Stock Trends Explained - An Easy-to-Understand System for Successful Trading 2013.epub
+2026-09-29 00:00:35,395 | INFO | SKIP (resume): Technical Analysis of Stock Trends Explained - An Easy-to-Understand System for Successful Trading 2013
+2026-09-29 00:00:35,397 | INFO | [96/149] Processing: Technical Analysis of the Financial Markets - A Comprehensive Guide to Trading Methods and Applications 1999.pdf
+2026-09-29 00:00:35,398 | INFO | SKIP (resume): Technical Analysis of the Financial Markets - A Comprehensive Guide to Trading Methods and Applications 1999
+2026-09-29 00:00:35,400 | INFO | [97/149] Processing: The 10 Essentials of Forex Trading - The Rules for Turning Trading Patterns Into Profit 2007.pdf
+2026-09-29 00:00:35,401 | INFO | SKIP (resume): The 10 Essentials of Forex Trading - The Rules for Turning Trading Patterns Into Profit 2007
+2026-09-29 00:00:35,404 | INFO | [98/149] Processing: The Alchemy of Finance - Reading the Mind of the Market 2nd edition 1994.pdf
+2026-09-29 00:00:35,404 | INFO | SKIP (resume): The Alchemy of Finance - Reading the Mind of the Market 2nd edition 1994
+2026-09-29 00:00:35,407 | INFO | [99/149] Processing: The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012.pdf
+2026-09-29 00:00:35,407 | INFO | SKIP (resume): The Art and Science of Technical Analysis - Market Structure, Price Action, and Trading Strategies 2012
+2026-09-29 00:00:35,410 | INFO | [100/149] Processing: The Big Short - Inside the Doomsday Machine 2011.epub
+2026-09-29 00:00:35,410 | INFO | SKIP (resume): The Big Short - Inside the Doomsday Machine 2011
+2026-09-29 00:00:35,413 | INFO | [101/149] Processing: The Broker 2005.pdf
+2026-09-29 00:00:35,413 | INFO | SKIP (resume): The Broker 2005
+2026-09-29 00:00:35,416 | INFO | [102/149] Processing: The Candlestick Course 2003.pdf
+2026-09-29 00:00:35,416 | INFO | SKIP (resume): The Candlestick Course 2003
+2026-09-29 00:00:35,419 | INFO | [103/149] Processing: The Commitments of Traders Bible - How To Profit from Insider Market Intelligence 2008.pdf
+2026-09-29 00:00:35,419 | INFO | SKIP (resume): The Commitments of Traders Bible - How To Profit from Insider Market Intelligence 2008
+2026-09-29 00:00:35,422 | INFO | [104/149] Processing: The Complete Trading Course - Price Patterns, Strategies, Setups, and Execution Tactics 2011.pdf
+2026-09-29 00:00:35,422 | INFO | SKIP (resume): The Complete Trading Course - Price Patterns, Strategies, Setups, and Execution Tactics 2011
+2026-09-29 00:00:35,424 | INFO | [105/149] Processing: The Complete Turtle Trader - The Legend, the Lessons, the Results 2007.pdf
+2026-09-29 00:00:35,425 | INFO | SKIP (resume): The Complete Turtle Trader - The Legend, the Lessons, the Results 2007
+2026-09-29 00:00:35,428 | INFO | [106/149] Processing: The Disciplined Trader - Developing Winning Attitudes 1990 - annotated.pdf
+2026-09-29 00:00:35,428 | INFO | SKIP (resume): The Disciplined Trader - Developing Winning Attitudes 1990 - annotated
+2026-09-29 00:00:35,431 | INFO | [107/149] Processing: The Disciplined Trader - Developing Winning Attitudes 1990.pdf
+2026-09-29 00:00:35,431 | INFO | SKIP (resume): The Disciplined Trader - Developing Winning Attitudes 1990
+2026-09-29 00:00:35,434 | INFO | [108/149] Processing: The Encyclopedia of Trading Strategies 2000.pdf
+2026-09-29 00:00:35,434 | INFO | SKIP (resume): The Encyclopedia of Trading Strategies 2000
+2026-09-29 00:00:35,437 | INFO | [109/149] Processing: The Essays of Warren Buffett - Lessons for Corporate America 1998.pdf
+2026-09-29 00:00:35,437 | INFO | SKIP (resume): The Essays of Warren Buffett - Lessons for Corporate America 1998
+2026-09-29 00:00:35,440 | INFO | [110/149] Processing: The Five Rules for Successful Stock Investing - Morningstar's Guide to Building Wealth and Winning in the Market 2004.pdf
+2026-09-29 00:00:35,441 | INFO | SKIP (resume): The Five Rules for Successful Stock Investing - Morningstar's Guide to Building Wealth and Winning in the Market 2004
+2026-09-29 00:00:35,443 | INFO | [111/149] Processing: The Handbook of Technical Analysis - The Practitioner's Comprehensive Guide to Technical Analysis 2016.pdf
+2026-09-29 00:00:35,444 | INFO | SKIP (resume): The Handbook of Technical Analysis - The Practitioner's Comprehensive Guide to Technical Analysis 2016
+2026-09-29 00:00:35,446 | INFO | [112/149] Processing: The Intelligent Investor - A Book of Practical Counsel 2003.pdf
+2026-09-29 00:00:35,447 | INFO | SKIP (resume): The Intelligent Investor - A Book of Practical Counsel 2003
+2026-09-29 00:00:35,449 | INFO | [113/149] Processing: The Little Book That Beats the Market 2006.pdf
+2026-09-29 00:00:35,450 | INFO | SKIP (resume): The Little Book That Beats the Market 2006
+2026-09-29 00:00:35,452 | INFO | [114/149] Processing: The Little Book of Common Sense Investing - The Only Way to Guarantee Your Fair Share of Stock Market Returns 2007.epub
+2026-09-29 00:00:35,453 | INFO | SKIP (resume): The Little Book of Common Sense Investing - The Only Way to Guarantee Your Fair Share of Stock Market Returns 2007
+2026-09-29 00:00:35,455 | INFO | [115/149] Processing: The Little Book of Common Sense Investing - The Only Way to Guarantee Your Fair Share of Stock Market Returns 2007.pdf
+2026-09-29 00:00:35,456 | INFO | SKIP (resume): The Little Book of Common Sense Investing - The Only Way to Guarantee Your Fair Share of Stock Market Returns 2007
+2026-09-29 00:00:35,458 | INFO | [116/149] Processing: The Little Book of Currency Trading - How to Make Big Profits in the World of Forex 2010.pdf
+2026-09-29 00:00:35,459 | INFO | SKIP (resume): The Little Book of Currency Trading - How to Make Big Profits in the World of Forex 2010
+2026-09-29 00:00:35,461 | INFO | [117/149] Processing: The Market Guys' Five Points for Trading Success - Identify, Pinpoint, Strike, Protect, and Act! 2007.pdf
+2026-09-29 00:00:35,462 | INFO | SKIP (resume): The Market Guys' Five Points for Trading Success - Identify, Pinpoint, Strike, Protect, and Act! 2007
+2026-09-29 00:00:35,465 | INFO | [118/149] Processing: The Master Swing Trader - Tools and Techniques to Profit from Outstanding Short-Term Trading Opportunities 2001.pdf
+2026-09-29 00:00:35,465 | INFO | SKIP (resume): The Master Swing Trader - Tools and Techniques to Profit from Outstanding Short-Term Trading Opportunities 2001
+2026-09-29 00:00:35,468 | INFO | [119/149] Processing: The Master Swing Trader Toolkit - The Market Survival Guide 2010.pdf
+2026-09-29 00:00:35,468 | INFO | SKIP (resume): The Master Swing Trader Toolkit - The Market Survival Guide 2010
+2026-09-29 00:00:35,471 | INFO | [120/149] Processing: The New Market Wizards - Conversations with America's Top Traders 1992.pdf
+2026-09-29 00:00:35,471 | INFO | SKIP (resume): The New Market Wizards - Conversations with America's Top Traders 1992
+2026-09-29 00:00:35,474 | INFO | [121/149] Processing: The New New Thing - A Silicon Valley Story 2014.epub
+2026-09-29 00:00:35,474 | INFO | SKIP (resume): The New New Thing - A Silicon Valley Story 2014
+2026-09-29 00:00:35,477 | INFO | [122/149] Processing: The New Trading for a Living (Study Guide) 2014.pdf
+2026-09-29 00:00:35,477 | INFO | SKIP (resume): The New Trading for a Living (Study Guide) 2014
+2026-09-29 00:00:35,480 | INFO | [123/149] Processing: The New Trading for a Living - Psychology, Discipline, Trading Tools and Systems, Risk Control, Trade Management 2014.pdf
+2026-09-29 00:00:35,481 | INFO | SKIP (resume): The New Trading for a Living - Psychology, Discipline, Trading Tools and Systems, Risk Control, Trade Management 2014
+2026-09-29 00:00:35,483 | INFO | [124/149] Processing: The Sensible Guide to Forex - Safer, Smarter Ways to Survive and Prosper from the Start 2012.pdf
+2026-09-29 00:00:35,484 | INFO | SKIP (resume): The Sensible Guide to Forex - Safer, Smarter Ways to Survive and Prosper from the Start 2012
+2026-09-29 00:00:35,486 | INFO | [125/149] Processing: The Snowball - Warren Buffett and the Business of Life 2009.pdf
+2026-09-29 00:00:35,487 | INFO | SKIP (resume): The Snowball - Warren Buffett and the Business of Life 2009
+2026-09-29 00:00:35,490 | INFO | [126/149] Processing: The Trend Following Bible - How Professional Traders Compound Wealth and Manage Risk 2012.pdf
+2026-09-29 00:00:35,490 | INFO | SKIP (resume): The Trend Following Bible - How Professional Traders Compound Wealth and Manage Risk 2012
+2026-09-29 00:00:35,493 | INFO | [127/149] Processing: The Visual Investor - How to Spot Market Trends 2nd edition 2009.pdf
+2026-09-29 00:00:35,493 | INFO | SKIP (resume): The Visual Investor - How to Spot Market Trends 2nd edition 2009
+2026-09-29 00:00:35,496 | INFO | [128/149] Processing: The Warren Buffett Way 2nd edition 2005.pdf
+2026-09-29 00:00:35,496 | INFO | SKIP (resume): The Warren Buffett Way 2nd edition 2005
+2026-09-29 00:00:35,499 | INFO | [129/149] Processing: Timing Solutions for Swing Traders - Successful Trading Using Technical Analysis and Financial Astrology 2012.pdf
+2026-09-29 00:00:35,500 | INFO | SKIP (resume): Timing Solutions for Swing Traders - Successful Trading Using Technical Analysis and Financial Astrology 2012
+2026-09-29 00:00:35,502 | INFO | [130/149] Processing: Top Binary Options Trading Strategies - Strategies of Pros Explained for Dummies.pdf
+2026-09-29 00:00:35,503 | INFO | SKIP (resume): Top Binary Options Trading Strategies - Strategies of Pros Explained for Dummies
+2026-09-29 00:00:35,505 | INFO | [131/149] Processing: Trade Like a Pro - 15 High-Profit Trading Strategies 2009.pdf
+2026-09-29 00:00:35,506 | INFO | SKIP (resume): Trade Like a Pro - 15 High-Profit Trading Strategies 2009
+2026-09-29 00:00:35,508 | INFO | [132/149] Processing: Trade What You See - How To Profit from Pattern Recognition 2007.pdf
+2026-09-29 00:00:35,509 | INFO | SKIP (resume): Trade What You See - How To Profit from Pattern Recognition 2007
+2026-09-29 00:00:35,512 | INFO | [133/149] Processing: Trade Your Way to Financial Freedom 2 edition 2006.pdf
+2026-09-29 00:00:35,512 | INFO | SKIP (resume): Trade Your Way to Financial Freedom 2 edition 2006
+2026-09-29 00:00:35,515 | INFO | [134/149] Processing: Trade Your Way to Financial Freedom 2nd edition 2006.pdf
+2026-09-29 00:00:35,516 | INFO | SKIP (resume): Trade Your Way to Financial Freedom 2nd edition 2006
+2026-09-29 00:00:35,519 | INFO | [135/149] Processing: Trading Binary Options - Strategies and Tactics 2nd edition 2016.pdf
+2026-09-29 00:00:35,519 | INFO | SKIP (resume): Trading Binary Options - Strategies and Tactics 2nd edition 2016
+2026-09-29 00:00:35,522 | INFO | [136/149] Processing: Trading ETFs - Gaining an Edge with Technical Analysis 2nd edition 2012.pdf
+2026-09-29 00:00:35,522 | INFO | SKIP (resume): Trading ETFs - Gaining an Edge with Technical Analysis 2nd edition 2012
+2026-09-29 00:00:35,525 | INFO | [137/149] Processing: Trading For Dummies 2nd edition 2009.pdf
+2026-09-29 00:00:35,526 | INFO | SKIP (resume): Trading For Dummies 2nd edition 2009
+2026-09-29 00:00:35,529 | INFO | [138/149] Processing: Trading Price Action Trends - Technical Analysis of Price Charts Bar by Bar for the Serious Trader 2011.pdf
+2026-09-29 00:00:35,529 | INFO | SKIP (resume): Trading Price Action Trends - Technical Analysis of Price Charts Bar by Bar for the Serious Trader 2011
+2026-09-29 00:00:35,533 | INFO | [139/149] Processing: Trading for a Living - Psychology, Trading Tactics, Money Management 1993.pdf
+2026-09-29 00:00:35,533 | INFO | SKIP (resume): Trading for a Living - Psychology, Trading Tactics, Money Management 1993
+2026-09-29 00:00:35,537 | INFO | [140/149] Processing: Trading in the Zone - Master the Market with Confidence, Discipline and a Winning Attitude 2000.pdf
+2026-09-29 00:00:35,537 | INFO | SKIP (resume): Trading in the Zone - Master the Market with Confidence, Discipline and a Winning Attitude 2000
+2026-09-29 00:00:35,540 | INFO | [141/149] Processing: Trading with Ichimoku Clouds - The Essential Guide to Ichimoku Kinko Hyo Technical Analysis 2010.pdf
+2026-09-29 00:00:35,540 | INFO | SKIP (resume): Trading with Ichimoku Clouds - The Essential Guide to Ichimoku Kinko Hyo Technical Analysis 2010
+2026-09-29 00:00:35,543 | INFO | [142/149] Processing: Trend Following - Learn to Make Millions in Up or Down Markets 2009.pdf
+2026-09-29 00:00:35,544 | INFO | SKIP (resume): Trend Following - Learn to Make Millions in Up or Down Markets 2009
+2026-09-29 00:00:35,547 | INFO | [143/149] Processing: Trend Trading for a Living - Learn the Skills and Gain the Confidence to Trade for a Living 2007.pdf
+2026-09-29 00:00:35,547 | INFO | SKIP (resume): Trend Trading for a Living - Learn the Skills and Gain the Confidence to Trade for a Living 2007
+2026-09-29 00:00:35,550 | INFO | [144/149] Processing: Understanding Price Action - Practical Analysis of the 5-Minute Time Frame 2014.pdf
+2026-09-29 00:00:35,550 | INFO | SKIP (resume): Understanding Price Action - Practical Analysis of the 5-Minute Time Frame 2014
+2026-09-29 00:00:35,553 | INFO | [145/149] Processing: University of Berkshire Hathaway - 30 Years of Lessons Learned from Warren Buffett & Charlie Munger at the Annual Shareholders Meeting 2017.epub
+2026-09-29 00:00:35,553 | INFO | SKIP (resume): University of Berkshire Hathaway - 30 Years of Lessons Learned from Warren Buffett & Charlie Munger at the Annual Shareholders Meeting 2017
+2026-09-29 00:00:35,556 | INFO | [146/149] Processing: Visual Guide to Chart Patterns 2012.pdf
+2026-09-29 00:00:35,557 | INFO | SKIP (resume): Visual Guide to Chart Patterns 2012
+2026-09-29 00:00:35,560 | INFO | [147/149] Processing: Way of the Turtle - The Secret Methods that Turned Ordinary People into Legendary Traders 2007.pdf
+2026-09-29 00:00:35,560 | INFO | SKIP (resume): Way of the Turtle - The Secret Methods that Turned Ordinary People into Legendary Traders 2007
+2026-09-29 00:00:35,563 | INFO | [148/149] Processing: When Genius Failed - The Rise and Fall of Long-Term Capital Management 2001.epub
+2026-09-29 00:00:35,563 | INFO | SKIP (resume): When Genius Failed - The Rise and Fall of Long-Term Capital Management 2001
+2026-09-29 00:00:35,566 | INFO | [149/149] Processing: When Genius Failed - The Rise and Fall of Long-Term Capital Management 2001.pdf
+2026-09-29 00:00:35,566 | INFO | SKIP (resume): When Genius Failed - The Rise and Fall of Long-Term Capital Management 2001
+2026-09-29 00:00:35,569 | INFO | ======================================================================
+2026-09-29 00:00:35,569 | INFO | BATCH COMPLETE
+2026-09-29 00:00:35,569 | INFO | Total unique files: 149
+2026-09-29 00:00:35,569 | INFO | Processed: 149
+2026-09-29 00:00:35,569 | INFO | Skipped (resume): 0
+2026-09-29 00:00:35,569 | INFO | Errors: 0
+2026-09-29 00:00:35,569 | INFO | Manifest: /data/gnidart/output/manifest.json
+2026-09-29 00:00:35,572 | INFO | Unsupported/duplicate report: /data/gnidart/output/unsupported_formats.json

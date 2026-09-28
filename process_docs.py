@@ -28,8 +28,10 @@ SUPPORTED_EXTENSIONS = {".pdf", ".epub"}
 SKIP_EXTENSIONS = {".mobi", ".azw", ".azw3"}
 # Files to exclude from processing (metadata files, not books)
 EXCLUDE_FILES = {"_info.json", "_info.text", "Trading.txt", ".gitattributes"}
-# Skip files larger than this (OOM risk on 2-core/8GB box)
-MAX_FILE_SIZE_MB = 50
+# Skip files larger than this (OOM risk on 2-core/8GB box).
+# Raised to 150 for the oversize run (largest skip: 117MB, plus headroom).
+# Watch memory; any file that OOM-kills gets quarantined as skipped_oom.
+MAX_FILE_SIZE_MB = 150
 
 # Docling imports
 from docling.document_converter import DocumentConverter, PdfFormatOption
@@ -100,8 +102,10 @@ def process_file(
     md_path = out_dir / "document.md"
     json_path = out_dir / "document.json"
 
-    # Resume: skip stems already recorded as skipped (too large, OOM, ...)
-    if stem in manifest and manifest[stem].get("status", "").startswith("skipped"):
+    # Resume: quarantined stems stay skipped. skipped_too_large is NOT
+    # included: it re-evaluates against the current limit below, so raising
+    # MAX_FILE_SIZE_MB retries former skips while skipped_oom never retries.
+    if stem in manifest and manifest[stem].get("status") in ("skipped_oom", "skipped_resume"):
         logger.info(f"SKIP (resume): {stem}")
         return manifest[stem]
 

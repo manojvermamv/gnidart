@@ -594,9 +594,10 @@
   "error": null
  },
  "Evidence-Based Technical Analysis - Applying the Scientific Method and Statistical Inference to Trading Signals 2007": {
-  "status": "skipped_too_large",
+  "status": "skipped_oom",
   "file": "Evidence-Based Technical Analysis - Applying the Scientific Method and Statistical Inference to Trading Signals 2007.pdf",
-  "size_mb": 65.0
+  "size_mb": 65.0,
+  "reason": "OOM-killed box during oversize run 2026-09-23 (process+tmux gone mid-file, no close-out); quarantined to unblock remaining skips"
  },
  "Extraordinary Popular Delusions and The Madness of Crowds 2001": {
   "file": "Extraordinary Popular Delusions and The Madness of Crowds 2001.pdf",
@@ -671,9 +672,22 @@
   "error": null
  },
  "Forex Trading Basics & Secrets Volume 3.0": {
-  "status": "skipped_too_large",
   "file": "Forex Trading Basics & Secrets Volume 3.0.pdf",
-  "size_mb": 79.1
+  "path": "Forex Trading Basics & Secrets Volume 3.0.pdf",
+  "extension": ".pdf",
+  "sha256": "b3f83f009a737abeca371402dec75a5d090856c4aa72c5dff75a10b287ca603a",
+  "size_bytes": 82942835,
+  "processed_at": "2026-09-23T23:41:02.435957",
+  "docling_version": null,
+  "markdown_chars": 60578,
+  "markdown_lines": 1179,
+  "pages": 59,
+  "headings_h1": 0,
+  "headings_h2": 151,
+  "headings_h3": 0,
+  "elapsed_seconds": 3874.8,
+  "status": "success",
+  "error": null
  },
  "Forex Trading Secrets - Trading Strategies for the Forex Market 2010": {
   "file": "Forex Trading Secrets - Trading Strategies for the Forex Market 2010.pdf",
@@ -1090,9 +1104,22 @@
   "error": null
  },
  "Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2006.pdf (1)": {
-  "status": "skipped_too_large",
   "file": "Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2006.pdf (1).pdf",
-  "size_mb": 64.0
+  "path": "Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2006.pdf (1).pdf",
+  "extension": ".pdf",
+  "sha256": "6c168e04ba6c4670787d7d0215c8d7b472027296b88f8cf154496a429661571a",
+  "size_bytes": 67106814,
+  "processed_at": "2026-09-24T00:45:41.661105",
+  "docling_version": null,
+  "markdown_chars": 811754,
+  "markdown_lines": 6257,
+  "pages": 406,
+  "headings_h1": 0,
+  "headings_h2": 579,
+  "headings_h3": 0,
+  "elapsed_seconds": 103123.8,
+  "status": "success",
+  "error": null
  },
  "Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2nd edition 2012 (1) - annotated": {
   "file": "Mastering the Trade - Proven Techniques for Profiting from Intraday and Swing Trading Setups 2nd edition 2012 (1) - annotated.pdf",
@@ -1149,9 +1176,22 @@
   "error": null
  },
  "Millionaire Traders - How Everyday People Are Beating Wall Street at Its Own Game 2007": {
-  "status": "skipped_too_large",
   "file": "Millionaire Traders - How Everyday People Are Beating Wall Street at Its Own Game 2007.pdf",
-  "size_mb": 90.9
+  "path": "Millionaire Traders - How Everyday People Are Beating Wall Street at Its Own Game 2007.pdf",
+  "extension": ".pdf",
+  "sha256": "0bb859ea5033cb7e0d653329c8601b26541ce687fd72945ee087f7111c233792",
+  "size_bytes": 95291733,
+  "processed_at": "2026-09-25T05:24:39.078329",
+  "docling_version": null,
+  "markdown_chars": 723579,
+  "markdown_lines": 6859,
+  "pages": 410,
+  "headings_h1": 0,
+  "headings_h2": 560,
+  "headings_h3": 0,
+  "elapsed_seconds": 69672.2,
+  "status": "success",
+  "error": null
  },
  "Naked Forex - High-Probability Techniques for Trading Without Indicators 2012": {
   "file": "Naked Forex - High-Probability Techniques for Trading Without Indicators 2012.pdf",
@@ -1442,9 +1482,22 @@
   "error": null
  },
  "Technical Analysis Explained - The Successful Investor's Guide to Spotting Investment Trends and Turning Points 4th edition 2002": {
-  "status": "skipped_too_large",
   "file": "Technical Analysis Explained - The Successful Investor's Guide to Spotting Investment Trends and Turning Points 4th edition 2002.pdf",
-  "size_mb": 73.5
+  "path": "Technical Analysis Explained - The Successful Investor's Guide to Spotting Investment Trends and Turning Points 4th edition 2002.pdf",
+  "extension": ".pdf",
+  "sha256": "d52d88f574b7d6b52891ae378f3ab61b92dff9808f343db1ce1d3e813523681b",
+  "size_bytes": 77110983,
+  "processed_at": "2026-09-26T05:00:36.333530",
+  "docling_version": null,
+  "markdown_chars": 953328,
+  "markdown_lines": 8026,
+  "pages": 329,
+  "headings_h1": 0,
+  "headings_h2": 478,
+  "headings_h3": 0,
+  "elapsed_seconds": 104004.5,
+  "status": "success",
+  "error": null
  },
  "Technical Analysis For Dummies 2nd edition 2011": {
   "file": "Technical Analysis For Dummies 2nd edition 2011.pdf",
@@ -1501,9 +1554,22 @@
   "error": null
  },
  "Technical Analysis of Stock Trends 9th edition 2007": {
-  "status": "skipped_too_large",
   "file": "Technical Analysis of Stock Trends 9th edition 2007.pdf",
-  "size_mb": 52.8
+  "path": "Technical Analysis of Stock Trends 9th edition 2007.pdf",
+  "extension": ".pdf",
+  "sha256": "98e22dac7b2eba868ad44c666daf2a10bc7fc581d4ba3d0773fb73df966ffe80",
+  "size_bytes": 55397674,
+  "processed_at": "2026-09-27T09:54:25.888964",
+  "docling_version": null,
+  "markdown_chars": 1854658,
+  "markdown_lines": 12465,
+  "pages": 795,
+  "headings_h1": 0,
+  "headings_h2": 540,
+  "headings_h3": 0,
+  "elapsed_seconds": 29668.3,
+  "status": "success",
+  "error": null
  },
  "Technical Analysis of Stock Trends Explained - An Easy-to-Understand System for Successful Trading 2013": {
   "file": "Technical Analysis of Stock Trends Explained - An Easy-to-Understand System for Successful Trading 2013.epub",
@@ -1776,14 +1842,40 @@
   "error": null
  },
  "The Five Rules for Successful Stock Investing - Morningstar's Guide to Building Wealth and Winning in the Market 2004": {
-  "status": "skipped_too_large",
   "file": "The Five Rules for Successful Stock Investing - Morningstar's Guide to Building Wealth and Winning in the Market 2004.pdf",
-  "size_mb": 79.4
+  "path": "The Five Rules for Successful Stock Investing - Morningstar's Guide to Building Wealth and Winning in the Market 2004.pdf",
+  "extension": ".pdf",
+  "sha256": "ac6450dd4bf9fea19cad083c0b1e217ad1fb64d0b54f6d7b6536e5fbb33d003f",
+  "size_bytes": 83268698,
+  "processed_at": "2026-09-27T20:00:34.791801",
+  "docling_version": null,
+  "markdown_chars": 855723,
+  "markdown_lines": 5606,
+  "pages": 370,
+  "headings_h1": 0,
+  "headings_h2": 456,
+  "headings_h3": 0,
+  "elapsed_seconds": 41298.0,
+  "status": "success",
+  "error": null
  },
  "The Handbook of Technical Analysis - The Practitioner's Comprehensive Guide to Technical Analysis 2016": {
-  "status": "skipped_too_large",
   "file": "The Handbook of Technical Analysis - The Practitioner's Comprehensive Guide to Technical Analysis 2016.pdf",
-  "size_mb": 117.0
+  "path": "The Handbook of Technical Analysis - The Practitioner's Comprehensive Guide to Technical Analysis 2016.pdf",
+  "extension": ".pdf",
+  "sha256": "34df1db5c01d0e07cb1eab30f6e33d20473d4e46211c362fd0b02d9d4dc9fd52",
+  "size_bytes": 122719342,
+  "processed_at": "2026-09-28T07:29:03.486860",
+  "docling_version": null,
+  "markdown_chars": 1598739,
+  "markdown_lines": 17397,
+  "pages": 957,
+  "headings_h1": 0,
+  "headings_h2": 920,
+  "headings_h3": 0,
+  "elapsed_seconds": 56014.1,
+  "status": "success",
+  "error": null
  },
  "The Intelligent Investor - A Book of Practical Counsel 2003": {
   "file": "The Intelligent Investor - A Book of Practical Counsel 2003.pdf",
